@@ -1,4 +1,4 @@
-Rootfs SHASUM: 69b0815f274ee9d8d4f7ddad423d24ff4caa21e456dd77fb8c7d4198e8cf0198
+Rootfs SHASUM: e7c8f72897f731e2fdd77f2aef99a4298faf8a9ba3397c34013b3ec00e5dac3a
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -73,8 +73,8 @@ ii  gir1.2-freedesktop:amd64           1.72.0-1                                a
 ii  gir1.2-gdkpixbuf-2.0:amd64         2.42.8+dfsg-1                           amd64        GDK Pixbuf library - GObject-Introspection
 ii  gir1.2-glib-2.0:amd64              1.72.0-1                                amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-rsvg-2.0:amd64              2.52.5+dfsg-3                           amd64        gir files for renderer library for SVG files
-ii  git                                1:2.34.1-1ubuntu1.2                     amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.34.1-1ubuntu1.2                     all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.34.1-1ubuntu1.4                     amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.34.1-1ubuntu1.4                     all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.23-1.1build1                        amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.27-3ubuntu2.1                       amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.42.2-6                                amd64        rich set of graph drawing tools
@@ -322,9 +322,9 @@ ii  libmagickwand-6-headers            8:6.9.11.60+dfsg-1.3build2              a
 ii  libmagickwand-6.q16-6:amd64        8:6.9.11.60+dfsg-1.3build2              amd64        image manipulation library -- quantum depth Q16
 ii  libmagickwand-6.q16-dev:amd64      8:6.9.11.60+dfsg-1.3build2              amd64        image manipulation library - development files (Q16)
 ii  libmagickwand-dev                  8:6.9.11.60+dfsg-1.3build2              all          image manipulation library -- dummy package
-ii  libmariadb-dev                     1:10.6.7-2ubuntu1                       amd64        MariaDB database development files
-ii  libmariadb-dev-compat:amd64        1:10.6.7-2ubuntu1                       amd64        MariaDB Connector/C, compatibility symlinks
-ii  libmariadb3:amd64                  1:10.6.7-2ubuntu1                       amd64        MariaDB database client library
+ii  libmariadb-dev                     1:10.6.7-2ubuntu1.1                     amd64        MariaDB database development files
+ii  libmariadb-dev-compat:amd64        1:10.6.7-2ubuntu1.1                     amd64        MariaDB Connector/C, compatibility symlinks
+ii  libmariadb3:amd64                  1:10.6.7-2ubuntu1.1                     amd64        MariaDB database client library
 ii  libmaxminddb0:amd64                1.5.2-1build2                           amd64        IP geolocation database library
 ii  libmd0:amd64                       1.0.4-1build1                           amd64        message digest functions from BSD systems - shared library
 ii  libmfx1:amd64                      22.3.0-1                                amd64        Intel Media SDK -- shared library
@@ -494,7 +494,7 @@ ii  libvorbis0a:amd64                  1.3.7-1build2                           a
 ii  libvorbisenc2:amd64                1.3.7-1build2                           amd64        encoder library for Vorbis General Audio Compression Codec
 ii  libvpx-dev:amd64                   1.11.0-2ubuntu2                         amd64        VP8 and VP9 video codec (development files)
 ii  libvpx7:amd64                      1.11.0-2ubuntu2                         amd64        VP8 and VP9 video codec (shared library)
-ii  libwbclient0:amd64                 2:4.15.5~dfsg-0ubuntu5                  amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.15.5~dfsg-0ubuntu5.1                amd64        Samba winbind client library
 ii  libwebp7:amd64                     1.2.2-2                                 amd64        Lossy compression of digital photographic images
 ii  libwebpdemux2:amd64                1.2.2-2                                 amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  1.2.2-2                                 amd64        Lossy compression of digital photographic images
@@ -543,7 +543,7 @@ ii  libyaml-dev:amd64                  0.2.2-1build2                           a
 ii  libzstd1:amd64                     1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                     0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64               5.15.0-40.43                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               5.15.0-41.44                            amd64        Linux Kernel Headers for development
 ii  locales                            2.35-0ubuntu3                           all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.8.1-2ubuntu2                        amd64        system login tools
@@ -558,7 +558,7 @@ ii  m4                                 1.4.18-5ubuntu2                         a
 ii  make                               4.3-4.1build1                           amd64        utility for directing compilation
 ii  manpages                           5.10-1ubuntu1                           all          Manual pages about using a GNU/Linux system
 ii  manpages-dev                       5.10-1ubuntu1                           all          Manual pages about using GNU/Linux for development
-ii  mariadb-common                     1:10.6.7-2ubuntu1                       all          MariaDB common configuration files
+ii  mariadb-common                     1:10.6.7-2ubuntu1.1                     all          MariaDB common configuration files
 ii  mawk                               1.3.4.20200120-3                        amd64        Pattern scanning and text processing language
 ii  media-types                        7.0.0                                   all          List of standard media types and their usual file extension
 ii  mercurial                          6.1.1-1ubuntu1                          amd64        easy-to-use, scalable distributed version control system
