@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6f66412a483418afd060abdc90082d9117b653eb5c56a7d4f660df5ce1a88cd2
+Rootfs SHASUM: cecd487f6430fe59b27fa9e91170658a6c1211ac397d992d3d3c6e5a77e862b3
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -247,7 +247,7 @@ ii  libgssrpc4:amd64                   1.19.2-2                                a
 ii  libgts-0.7-5:amd64                 0.7.6+darcs121130-5                     amd64        library to deal with 3D computational surface meshes
 ii  libgvc6                            2.42.2-6                                amd64        rich set of graph drawing tools - gvc library
 ii  libgvpr2:amd64                     2.42.2-6                                amd64        rich set of graph drawing tools - gvpr library
-ii  libharfbuzz0b:amd64                2.7.4-1ubuntu3                          amd64        OpenType text shaping engine (shared library)
+ii  libharfbuzz0b:amd64                2.7.4-1ubuntu3.1                        amd64        OpenType text shaping engine (shared library)
 ii  libheif1:amd64                     1.12.0-2build1                          amd64        ISO/IEC 23008-12:2017 HEIF file format decoder - shared library
 ii  libhogweed6:amd64                  3.7.3-1build2                           amd64        low level cryptographic library (public-key cryptos)
 ii  libice-dev:amd64                   2:1.0.10-1build2                        amd64        X11 Inter-Client Exchange library (development headers)
