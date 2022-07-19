@@ -16,6 +16,9 @@ RUN echo "debconf debconf/frontend select noninteractive" | debconf-set-selectio
   apt-get clean && \
   find /usr/share/doc/*/* ! -name copyright | xargs rm -rf
 
+RUN sed -i s/#PermitRootLogin.*/PermitRootLogin\ no/ /etc/ssh/sshd_config && \
+  sed -i s/#PasswordAuthentication.*/PasswordAuthentication\ no/ /etc/ssh/sshd_config
+
 RUN echo 'LANG="en_US.UTF-8"' > /etc/default/locale && \
   echo "$locales" | grep -f - /usr/share/i18n/SUPPORTED | cut -d " " -f 1 | xargs locale-gen && \
   dpkg-reconfigure -fnoninteractive -pcritical locales tzdata libc6
