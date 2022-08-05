@@ -1,4 +1,4 @@
-Rootfs SHASUM: 605ec6984220fdda558abe969cbaca1b45ee97f88b15de37fb7ad10ba7560a30
+Rootfs SHASUM: 4d4a5faca74bdc57590e1f258205e33242460e380287718907b2eb14f087a687
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -13,7 +13,7 @@ ii  aptitude-common                    0.8.13-3ubuntu1                         a
 ii  autoconf                           2.71-2                                  all          automatic configure script builder
 ii  automake                           1:1.16.5-1.3                            all          Tool for generating GNU Standards-compliant Makefiles
 ii  autotools-dev                      20220109.1                              all          Update infrastructure for config.{guess,sub} files
-ii  base-files                         12ubuntu4.1                             amd64        Debian base system miscellaneous files
+ii  base-files                         12ubuntu4.2                             amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.52build1                            amd64        Debian base system master password and group files
 ii  bash                               5.1-6ubuntu1                            amd64        GNU Bourne Again SHell
 ii  bind9-dnsutils                     1:9.18.1-1ubuntu1.1                     amd64        Clients provided with BIND 9
@@ -232,11 +232,11 @@ ii  libglib2.0-dev-bin                 2.72.1-1                                a
 ii  libgmp-dev:amd64                   2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                     2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64                2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library (C++ bindings)
-ii  libgnutls-dane0:amd64              3.7.3-4ubuntu1                          amd64        GNU TLS library - DANE security support
-ii  libgnutls-openssl27:amd64          3.7.3-4ubuntu1                          amd64        GNU TLS library - OpenSSL wrapper
-ii  libgnutls28-dev:amd64              3.7.3-4ubuntu1                          amd64        GNU TLS library - development files
-ii  libgnutls30:amd64                  3.7.3-4ubuntu1                          amd64        GNU TLS library - main runtime library
-ii  libgnutlsxx28:amd64                3.7.3-4ubuntu1                          amd64        GNU TLS library - C++ runtime library
+ii  libgnutls-dane0:amd64              3.7.3-4ubuntu1.1                        amd64        GNU TLS library - DANE security support
+ii  libgnutls-openssl27:amd64          3.7.3-4ubuntu1.1                        amd64        GNU TLS library - OpenSSL wrapper
+ii  libgnutls28-dev:amd64              3.7.3-4ubuntu1.1                        amd64        GNU TLS library - development files
+ii  libgnutls30:amd64                  3.7.3-4ubuntu1.1                        amd64        GNU TLS library - main runtime library
+ii  libgnutlsxx28:amd64                3.7.3-4ubuntu1.1                        amd64        GNU TLS library - C++ runtime library
 ii  libgomp1:amd64                     12-20220319-1ubuntu1                    amd64        GCC OpenMP (GOMP) support library
 ii  libgpg-error-dev                   1.43-3                                  amd64        GnuPG development runtime library (developer tools)
 ii  libgpg-error0:amd64                1.43-3                                  amd64        GnuPG development runtime library
@@ -494,7 +494,7 @@ ii  libvorbis0a:amd64                  1.3.7-1build2                           a
 ii  libvorbisenc2:amd64                1.3.7-1build2                           amd64        encoder library for Vorbis General Audio Compression Codec
 ii  libvpx-dev:amd64                   1.11.0-2ubuntu2                         amd64        VP8 and VP9 video codec (development files)
 ii  libvpx7:amd64                      1.11.0-2ubuntu2                         amd64        VP8 and VP9 video codec (shared library)
-ii  libwbclient0:amd64                 2:4.15.5~dfsg-0ubuntu5.1                amd64        Samba winbind client library
+ii  libwbclient0:amd64                 2:4.15.9+dfsg-0ubuntu0.2                amd64        Samba winbind client library
 ii  libwebp7:amd64                     1.2.2-2                                 amd64        Lossy compression of digital photographic images
 ii  libwebpdemux2:amd64                1.2.2-2                                 amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                  1.2.2-2                                 amd64        Lossy compression of digital photographic images
