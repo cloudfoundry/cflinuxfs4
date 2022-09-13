@@ -1,4 +1,4 @@
-Rootfs SHASUM: 44dd8e2a55eef7c86e0306940f080a296812f96172cdd151bb87c570d80849f1
+Rootfs SHASUM: 5321d6ffe845e2f815dccc4e264a14b1c22208530e0b89a54c70d9099032f2e2
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -29,8 +29,8 @@ ii  build-essential                    12.9ubuntu3                             a
 ii  bzip2                              1.0.8-5build1                           amd64        high-quality block-sorting file compressor - utilities
 ii  bzr                                2.7.0+bzr6622+brz                       all          transitional dummy package for brz
 ii  ca-certificates                    20211016                                all          Common CA certificates
-ii  cmake                              3.22.1-1ubuntu1                         amd64        cross-platform, open-source make system
-ii  cmake-data                         3.22.1-1ubuntu1                         all          CMake data files (modules, templates and documentation)
+ii  cmake                              3.22.1-1ubuntu1.22.04.1                 amd64        cross-platform, open-source make system
+ii  cmake-data                         3.22.1-1ubuntu1.22.04.1                 all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                   2.1-1.46.5-2ubuntu1.1                   amd64        common error description library - headers and static libraries
 ii  console-setup                      1.205ubuntu3                            all          console font and keymap setup program
 ii  console-setup-linux                1.205ubuntu3                            all          Linux specific part of console-setup
@@ -70,7 +70,7 @@ ii  gcc-11-base:amd64                  11.2.0-19ubuntu1                        a
 ii  gcc-12-base:amd64                  12-20220319-1ubuntu1                    amd64        GCC, the GNU Compiler Collection (base package)
 ii  gdb                                12.0.90-0ubuntu1                        amd64        GNU Debugger
 ii  gir1.2-freedesktop:amd64           1.72.0-1                                amd64        Introspection data for some FreeDesktop components
-ii  gir1.2-gdkpixbuf-2.0:amd64         2.42.8+dfsg-1                           amd64        GDK Pixbuf library - GObject-Introspection
+ii  gir1.2-gdkpixbuf-2.0:amd64         2.42.8+dfsg-1ubuntu0.1                  amd64        GDK Pixbuf library - GObject-Introspection
 ii  gir1.2-glib-2.0:amd64              1.72.0-1                                amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-rsvg-2.0:amd64              2.52.5+dfsg-3                           amd64        gir files for renderer library for SVG files
 ii  git                                1:2.34.1-1ubuntu1.4                     amd64        fast, scalable, distributed revision control system
@@ -218,10 +218,10 @@ ii  libgd-dev:amd64                    2.3.0-2ubuntu2                          a
 ii  libgd3:amd64                       2.3.0-2ubuntu2                          amd64        GD Graphics Library
 ii  libgdbm-compat4:amd64              1.23-1                                  amd64        GNU dbm database routines (legacy support runtime version) 
 ii  libgdbm6:amd64                     1.23-1                                  amd64        GNU dbm database routines (runtime version) 
-ii  libgdk-pixbuf-2.0-0:amd64          2.42.8+dfsg-1                           amd64        GDK Pixbuf library
-ii  libgdk-pixbuf-2.0-dev:amd64        2.42.8+dfsg-1                           amd64        GDK Pixbuf library (development files)
-ii  libgdk-pixbuf2.0-bin               2.42.8+dfsg-1                           amd64        GDK Pixbuf library (thumbnailer)
-ii  libgdk-pixbuf2.0-common            2.42.8+dfsg-1                           all          GDK Pixbuf library - data files
+ii  libgdk-pixbuf-2.0-0:amd64          2.42.8+dfsg-1ubuntu0.1                  amd64        GDK Pixbuf library
+ii  libgdk-pixbuf-2.0-dev:amd64        2.42.8+dfsg-1ubuntu0.1                  amd64        GDK Pixbuf library (development files)
+ii  libgdk-pixbuf2.0-bin               2.42.8+dfsg-1ubuntu0.1                  amd64        GDK Pixbuf library (thumbnailer)
+ii  libgdk-pixbuf2.0-common            2.42.8+dfsg-1ubuntu0.1                  all          GDK Pixbuf library - data files
 ii  libgfortran5:amd64                 12-20220319-1ubuntu1                    amd64        Runtime library for GNU Fortran applications
 ii  libgirepository-1.0-1:amd64        1.72.0-1                                amd64        Library for handling GObject introspection data (runtime library)
 ii  libglib2.0-0:amd64                 2.72.1-1                                amd64        GLib library of C routines
@@ -634,7 +634,7 @@ ii  tasksel                            3.68ubuntu2                             a
 ii  tasksel-data                       3.68ubuntu2                             all          official tasks used for installation of Debian systems
 ii  tcpdump                            4.99.1-3build2                          amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
-ii  tzdata                             2022a-0ubuntu1                          all          time zone and daylight-saving time data
+ii  tzdata                             2022c-0ubuntu0.22.04.0                  all          time zone and daylight-saving time data
 ii  ubuntu-advantage-tools             27.10.1~22.04.1                         amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.481                                   amd64        Minimal core of Ubuntu
@@ -658,5 +658,5 @@ ii  xtrans-dev                         1.4.0-1                                 a
 ii  xxd                                2:8.2.3995-1ubuntu2                     amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                           5.2.5-2ubuntu1                          amd64        XZ-format compression utilities
 ii  zip                                3.0-12build2                            amd64        Archiver for .zip files
-ii  zlib1g:amd64                       1:1.2.11.dfsg-2ubuntu9                  amd64        compression library - runtime
-ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-2ubuntu9                  amd64        compression library - development
+ii  zlib1g:amd64                       1:1.2.11.dfsg-2ubuntu9.1                amd64        compression library - runtime
+ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-2ubuntu9.1                amd64        compression library - development
