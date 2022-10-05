@@ -1,4 +1,4 @@
-Rootfs SHASUM: 2b3be551dc4f4ba311955b504a4a80db21538c0f8792a4ae4e911fad92170376
+Rootfs SHASUM: 97e2469c1ddbb4d75ae64b1538e81839287aadd53e6dbdf602645577fb4a68d0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -6,8 +6,8 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name                               Version                                 Architecture Description
 +++-==================================-=======================================-============-================================================================================
 ii  adduser                            3.118ubuntu5                            all          add and remove users and groups
-ii  apt                                2.4.7                                   amd64        commandline package manager
-ii  apt-utils                          2.4.7                                   amd64        package management related utility programs
+ii  apt                                2.4.8                                   amd64        commandline package manager
+ii  apt-utils                          2.4.8                                   amd64        package management related utility programs
 ii  aptitude                           0.8.13-3ubuntu1                         amd64        terminal-based package manager
 ii  aptitude-common                    0.8.13-3ubuntu1                         all          architecture independent files for the aptitude package manager
 ii  autoconf                           2.71-2                                  all          automatic configure script builder
@@ -95,7 +95,7 @@ ii  init-system-helpers                1.62                                    a
 ii  iproute2                           5.15.0-1ubuntu2                         amd64        networking and traffic control tools
 ii  iputils-arping                     3:20211215-1                            amd64        Tool to send ICMP echo requests to an ARP address
 ii  iputils-ping                       3:20211215-1                            amd64        Tools to test the reachability of network hosts
-ii  isc-dhcp-client                    4.4.1-2.3ubuntu2.2                      amd64        DHCP client for automatically obtaining an IP address
+ii  isc-dhcp-client                    4.4.1-2.3ubuntu2.3                      amd64        DHCP client for automatically obtaining an IP address
 ii  jq                                 1.6-2.1ubuntu3                          amd64        lightweight and flexible command-line JSON processor
 ii  kbd                                2.3.0-3ubuntu4                          amd64        Linux console font and keytable utilities
 ii  keyboard-configuration             1.205ubuntu3                            all          system-wide keyboard preferences
@@ -111,7 +111,7 @@ ii  libaom3:amd64                      3.3.0-1                                 a
 ii  libapparmor1:amd64                 3.0.4-2ubuntu2.1                        amd64        changehat AppArmor library
 ii  libapr1:amd64                      1.7.0-8build1                           amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                  1.6.1-5ubuntu4                          amd64        Apache Portable Runtime Utility Library
-ii  libapt-pkg6.0:amd64                2.4.7                                   amd64        package management runtime library
+ii  libapt-pkg6.0:amd64                2.4.8                                   amd64        package management runtime library
 ii  libarchive-extract-perl            0.88-1                                  all          generic archive extracting module
 ii  libarchive13:amd64                 3.6.0-1ubuntu1                          amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-1:amd64                  0~20171227-0.3                          amd64        memory-hard hashing function - runtime library
@@ -635,7 +635,7 @@ ii  tasksel-data                       3.68ubuntu2                             a
 ii  tcpdump                            4.99.1-3build2                          amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  tzdata                             2022c-0ubuntu0.22.04.0                  all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.10.1~22.04.1                         amd64        management tools for Ubuntu Advantage
+ii  ubuntu-advantage-tools             27.11.2~22.04.1                         amd64        management tools for Ubuntu Advantage
 ii  ubuntu-keyring                     2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.481                                   amd64        Minimal core of Ubuntu
 ii  ucf                                3.0043                                  all          Update Configuration File(s): preserve user changes to config files
