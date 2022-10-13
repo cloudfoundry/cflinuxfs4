@@ -1,4 +1,4 @@
-Rootfs SHASUM: 97e2469c1ddbb4d75ae64b1538e81839287aadd53e6dbdf602645577fb4a68d0
+Rootfs SHASUM: 54235e5a957ce3d09ed7f373d02d8dc9e281ee448ee7ef3050c8a9397d6cccb0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -543,7 +543,7 @@ ii  libyaml-dev:amd64                  0.2.2-1build2                           a
 ii  libzstd1:amd64                     1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                     0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64               5.15.0-48.54                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               5.15.0-50.56                            amd64        Linux Kernel Headers for development
 ii  locales                            2.35-0ubuntu3.1                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.8.1-2ubuntu2                        amd64        system login tools
@@ -642,7 +642,7 @@ ii  ucf                                3.0043                                  a
 ii  udev                               249.11-0ubuntu3.6                       amd64        /dev/ and hotplug management daemon
 ii  unixodbc-common                    2.3.9-5                                 all          Common ODBC configuration files
 ii  unixodbc-dev:amd64                 2.3.9-5                                 amd64        ODBC libraries for Unix (development files)
-ii  unzip                              6.0-26ubuntu3                           amd64        De-archiver for .zip files
+ii  unzip                              6.0-26ubuntu3.1                         amd64        De-archiver for .zip files
 ii  usrmerge                           25ubuntu2                               all          Convert the system to the merged /usr directories scheme
 ii  util-linux                         2.37.2-4ubuntu3                         amd64        miscellaneous system utilities
 ii  uuid-dev:amd64                     2.37.2-4ubuntu3                         amd64        Universally Unique ID library - headers and static libraries
