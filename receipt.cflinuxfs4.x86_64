@@ -1,4 +1,4 @@
-Rootfs SHASUM: 54235e5a957ce3d09ed7f373d02d8dc9e281ee448ee7ef3050c8a9397d6cccb0
+Rootfs SHASUM: 31bd2f62587c2715c4446c4317348fd2ee3b6e32fdd928d7d36bd62af48abb7f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -73,8 +73,8 @@ ii  gir1.2-freedesktop:amd64           1.72.0-1                                a
 ii  gir1.2-gdkpixbuf-2.0:amd64         2.42.8+dfsg-1ubuntu0.1                  amd64        GDK Pixbuf library - GObject-Introspection
 ii  gir1.2-glib-2.0:amd64              1.72.0-1                                amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-rsvg-2.0:amd64              2.52.5+dfsg-3                           amd64        gir files for renderer library for SVG files
-ii  git                                1:2.34.1-1ubuntu1.4                     amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.34.1-1ubuntu1.4                     all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.34.1-1ubuntu1.5                     amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.34.1-1ubuntu1.5                     all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.23-1.1build1                        amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.27-3ubuntu2.1                       amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.42.2-6                                amd64        rich set of graph drawing tools
@@ -390,7 +390,7 @@ ii  libpcre3:amd64                     2:8.39-13ubuntu0.22.04.1                a
 ii  libpcre3-dev:amd64                 2:8.39-13ubuntu0.22.04.1                amd64        Old Perl 5 Compatible Regular Expression Library - development files
 ii  libpcre32-3:amd64                  2:8.39-13ubuntu0.22.04.1                amd64        Old Perl 5 Compatible Regular Expression Library - 32 bit runtime files
 ii  libpcrecpp0v5:amd64                2:8.39-13ubuntu0.22.04.1                amd64        Old Perl 5 Compatible Regular Expression Library - C++ runtime files
-ii  libperl5.34:amd64                  5.34.0-3ubuntu1                         amd64        shared Perl library
+ii  libperl5.34:amd64                  5.34.0-3ubuntu1.1                       amd64        shared Perl library
 ii  libpixman-1-0:amd64                0.40.0-1build4                          amd64        pixel-manipulation library for X and cairo
 ii  libpixman-1-dev:amd64              0.40.0-1build4                          amd64        pixel-manipulation library for X and cairo (development files)
 ii  libpng-dev:amd64                   1.6.37-3build5                          amd64        PNG library - development (version 1.6)
@@ -543,7 +543,7 @@ ii  libyaml-dev:amd64                  0.2.2-1build2                           a
 ii  libzstd1:amd64                     1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                     0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64               5.15.0-50.56                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               5.15.0-52.58                            amd64        Linux Kernel Headers for development
 ii  locales                            2.35-0ubuntu3.1                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.8.1-2ubuntu2                        amd64        system login tools
@@ -581,9 +581,9 @@ ii  openssh-sftp-server                1:8.9p1-3                               a
 ii  openssl                            3.0.2-0ubuntu1.6                        amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                             1:4.8.1-2ubuntu2                        amd64        change and administer password and group data
 ii  patch                              2.7.6-7build2                           amd64        Apply a diff file to an original
-ii  perl                               5.34.0-3ubuntu1                         amd64        Larry Wall's Practical Extraction and Report Language
-ii  perl-base                          5.34.0-3ubuntu1                         amd64        minimal Perl system
-ii  perl-modules-5.34                  5.34.0-3ubuntu1                         all          Core Perl modules
+ii  perl                               5.34.0-3ubuntu1.1                       amd64        Larry Wall's Practical Extraction and Report Language
+ii  perl-base                          5.34.0-3ubuntu1.1                       amd64        minimal Perl system
+ii  perl-modules-5.34                  5.34.0-3ubuntu1.1                       all          Core Perl modules
 ii  pkg-config                         0.29.2-1ubuntu3                         amd64        manage compile and link flags for libraries
 ii  procps                             2:3.3.17-6ubuntu2                       amd64        /proc file system utilities
 ii  psmisc                             23.4-2build3                            amd64        utilities that use the proc file system
@@ -624,7 +624,7 @@ ii  shared-mime-info                   2.1-2                                   a
 ii  sshfs                              3.7.1+repack-2                          amd64        filesystem client based on SSH File Transfer Protocol
 ii  strace                             5.16-0ubuntu3                           amd64        System call tracer
 ii  subversion                         1.14.1-3ubuntu0.22.04.1                 amd64        Advanced version control system
-ii  sudo                               1.9.9-1ubuntu2                          amd64        Provide limited super user privileges to specific users
+ii  sudo                               1.9.9-1ubuntu2.1                        amd64        Provide limited super user privileges to specific users
 ii  sysstat                            12.5.2-2build2                          amd64        system performance tools for Linux
 ii  systemd                            249.11-0ubuntu3.6                       amd64        system and service manager
 ii  systemd-sysv                       249.11-0ubuntu3.6                       amd64        system and service manager - SysV links
@@ -658,5 +658,5 @@ ii  xtrans-dev                         1.4.0-1                                 a
 ii  xxd                                2:8.2.3995-1ubuntu2.1                   amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                           5.2.5-2ubuntu1                          amd64        XZ-format compression utilities
 ii  zip                                3.0-12build2                            amd64        Archiver for .zip files
-ii  zlib1g:amd64                       1:1.2.11.dfsg-2ubuntu9.1                amd64        compression library - runtime
-ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-2ubuntu9.1                amd64        compression library - development
+ii  zlib1g:amd64                       1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - runtime
+ii  zlib1g-dev:amd64                   1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - development
