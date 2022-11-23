@@ -1,4 +1,4 @@
-Rootfs SHASUM: 841310aae4e66bb9c720bdd52149c22de25690482fc0d07a22f6065a431a49d8
+Rootfs SHASUM: 383f94922e2efbbfb9430f04c9da7d36ef2bcbb87a6b4675c760ed0c2e73afd5
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -322,9 +322,9 @@ ii  libmagickwand-6-headers            8:6.9.11.60+dfsg-1.3build2              a
 ii  libmagickwand-6.q16-6:amd64        8:6.9.11.60+dfsg-1.3build2              amd64        image manipulation library -- quantum depth Q16
 ii  libmagickwand-6.q16-dev:amd64      8:6.9.11.60+dfsg-1.3build2              amd64        image manipulation library - development files (Q16)
 ii  libmagickwand-dev                  8:6.9.11.60+dfsg-1.3build2              all          image manipulation library -- dummy package
-ii  libmariadb-dev                     1:10.6.7-2ubuntu1.1                     amd64        MariaDB database development files
-ii  libmariadb-dev-compat:amd64        1:10.6.7-2ubuntu1.1                     amd64        MariaDB Connector/C, compatibility symlinks
-ii  libmariadb3:amd64                  1:10.6.7-2ubuntu1.1                     amd64        MariaDB database client library
+ii  libmariadb-dev                     1:10.6.11-0ubuntu0.22.04.1              amd64        MariaDB database development files
+ii  libmariadb-dev-compat:amd64        1:10.6.11-0ubuntu0.22.04.1              amd64        MariaDB Connector/C, compatibility symlinks
+ii  libmariadb3:amd64                  1:10.6.11-0ubuntu0.22.04.1              amd64        MariaDB database client library
 ii  libmaxminddb0:amd64                1.5.2-1build2                           amd64        IP geolocation database library
 ii  libmd0:amd64                       1.0.4-1build1                           amd64        message digest functions from BSD systems - shared library
 ii  libmfx1:amd64                      22.3.0-1                                amd64        Intel Media SDK -- shared library
@@ -558,7 +558,7 @@ ii  m4                                 1.4.18-5ubuntu2                         a
 ii  make                               4.3-4.1build1                           amd64        utility for directing compilation
 ii  manpages                           5.10-1ubuntu1                           all          Manual pages about using a GNU/Linux system
 ii  manpages-dev                       5.10-1ubuntu1                           all          Manual pages about using GNU/Linux for development
-ii  mariadb-common                     1:10.6.7-2ubuntu1.1                     all          MariaDB common configuration files
+ii  mariadb-common                     1:10.6.11-0ubuntu0.22.04.1              all          MariaDB common configuration files
 ii  mawk                               1.3.4.20200120-3                        amd64        Pattern scanning and text processing language
 ii  media-types                        7.0.0                                   all          List of standard media types and their usual file extension
 ii  mercurial                          6.1.1-1ubuntu1                          amd64        easy-to-use, scalable distributed version control system
