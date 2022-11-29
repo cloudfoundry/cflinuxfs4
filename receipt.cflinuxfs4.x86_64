@@ -1,4 +1,4 @@
-Rootfs SHASUM: f827b60c4f32e059f5f21c68d7efb6b3a5a3aad0945e210f9399b337ea31a812
+Rootfs SHASUM: 0795e2d5decd80117901198f0885cbef5bd257d1ede1a55523a853c4f8be8efd
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -625,7 +625,7 @@ ii  sshfs                              3.7.1+repack-2                          a
 ii  strace                             5.16-0ubuntu3                           amd64        System call tracer
 ii  subversion                         1.14.1-3ubuntu0.22.04.1                 amd64        Advanced version control system
 ii  sudo                               1.9.9-1ubuntu2.1                        amd64        Provide limited super user privileges to specific users
-ii  sysstat                            12.5.2-2build2                          amd64        system performance tools for Linux
+ii  sysstat                            12.5.2-2ubuntu0.1                       amd64        system performance tools for Linux
 ii  systemd                            249.11-0ubuntu3.6                       amd64        system and service manager
 ii  systemd-sysv                       249.11-0ubuntu3.6                       amd64        system and service manager - SysV links
 ii  sysvinit-utils                     3.01-1ubuntu1                           amd64        System-V-like utilities
