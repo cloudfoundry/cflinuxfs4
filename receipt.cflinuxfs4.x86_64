@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0795e2d5decd80117901198f0885cbef5bd257d1ede1a55523a853c4f8be8efd
+Rootfs SHASUM: b549ad466e4928858baddc08ff17ca1f60fb5485394a1aafff372f34be44d079
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -224,11 +224,11 @@ ii  libgdk-pixbuf2.0-bin               2.42.8+dfsg-1ubuntu0.2                  a
 ii  libgdk-pixbuf2.0-common            2.42.8+dfsg-1ubuntu0.2                  all          GDK Pixbuf library - data files
 ii  libgfortran5:amd64                 12.1.0-2ubuntu1~22.04                   amd64        Runtime library for GNU Fortran applications
 ii  libgirepository-1.0-1:amd64        1.72.0-1                                amd64        Library for handling GObject introspection data (runtime library)
-ii  libglib2.0-0:amd64                 2.72.1-1                                amd64        GLib library of C routines
-ii  libglib2.0-bin                     2.72.1-1                                amd64        Programs for the GLib library
-ii  libglib2.0-data                    2.72.1-1                                all          Common files for GLib library
-ii  libglib2.0-dev:amd64               2.72.1-1                                amd64        Development files for the GLib library
-ii  libglib2.0-dev-bin                 2.72.1-1                                amd64        Development utilities for the GLib library
+ii  libglib2.0-0:amd64                 2.72.4-0ubuntu1                         amd64        GLib library of C routines
+ii  libglib2.0-bin                     2.72.4-0ubuntu1                         amd64        Programs for the GLib library
+ii  libglib2.0-data                    2.72.4-0ubuntu1                         all          Common files for GLib library
+ii  libglib2.0-dev:amd64               2.72.4-0ubuntu1                         amd64        Development files for the GLib library
+ii  libglib2.0-dev-bin                 2.72.4-0ubuntu1                         amd64        Development utilities for the GLib library
 ii  libgmp-dev:amd64                   2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                     2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64                2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library (C++ bindings)
@@ -415,7 +415,7 @@ ii  librsvg2-common:amd64              2.52.5+dfsg-3                           a
 ii  librsvg2-dev:amd64                 2.52.5+dfsg-3                           amd64        SAX-based renderer library for SVG files (development)
 ii  librtmp-dev:amd64                  2.4+20151223.gitfa8646d.1-2build4       amd64        toolkit for RTMP streams (development files)
 ii  librtmp1:amd64                     2.4+20151223.gitfa8646d.1-2build4       amd64        toolkit for RTMP streams (shared library)
-ii  libruby3.0:amd64                   3.0.2-7ubuntu2.1                        amd64        Libraries necessary to run Ruby 3.0
+ii  libruby3.0:amd64                   3.0.2-7ubuntu2.2                        amd64        Libraries necessary to run Ruby 3.0
 ii  libsasl2-2:amd64                   2.1.27+dfsg2-3ubuntu1                   amd64        Cyrus SASL - authentication abstraction library
 ii  libsasl2-dev                       2.1.27+dfsg2-3ubuntu1                   amd64        Cyrus SASL - development files for authentication abstraction library
 ii  libsasl2-modules:amd64             2.1.27+dfsg2-3ubuntu1                   amd64        Cyrus SASL - pluggable authentication modules
@@ -468,9 +468,9 @@ ii  libtext-wrapi18n-perl              0.06-9                                  a
 ii  libthai-data                       0.1.29-1build1                          all          Data files for Thai language support library
 ii  libthai0:amd64                     0.1.29-1build1                          amd64        Thai language support library
 ii  libtheora0:amd64                   1.1.1+dfsg.1-15ubuntu4                  amd64        Theora Video Compression Codec
-ii  libtiff-dev:amd64                  4.3.0-6ubuntu0.2                        amd64        Tag Image File Format library (TIFF), development files
-ii  libtiff5:amd64                     4.3.0-6ubuntu0.2                        amd64        Tag Image File Format (TIFF) library
-ii  libtiffxx5:amd64                   4.3.0-6ubuntu0.2                        amd64        Tag Image File Format (TIFF) library -- C++ interface
+ii  libtiff-dev:amd64                  4.3.0-6ubuntu0.3                        amd64        Tag Image File Format library (TIFF), development files
+ii  libtiff5:amd64                     4.3.0-6ubuntu0.3                        amd64        Tag Image File Format (TIFF) library
+ii  libtiffxx5:amd64                   4.3.0-6ubuntu0.3                        amd64        Tag Image File Format (TIFF) library -- C++ interface
 ii  libtinfo6:amd64                    6.3-2                                   amd64        shared low-level terminfo library for terminal handling
 ii  libtirpc-common                    1.3.2-2ubuntu0.1                        all          transport-independent RPC library - common files
 ii  libtirpc-dev:amd64                 1.3.2-2ubuntu0.1                        amd64        transport-independent RPC library - development files
@@ -543,7 +543,7 @@ ii  libyaml-dev:amd64                  0.2.2-1build2                           a
 ii  libzstd1:amd64                     1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                     0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                     0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64               5.15.0-53.59                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               5.15.0-56.62                            amd64        Linux Kernel Headers for development
 ii  locales                            2.35-0ubuntu3.1                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.8.1-2ubuntu2.1                      amd64        system login tools
@@ -616,7 +616,7 @@ ii  ruby-net-telnet                    0.1.1-2                                 a
 ii  ruby-rubygems                      3.3.5-2                                 all          Package management framework for Ruby
 ii  ruby-webrick                       1.7.0-3                                 all          HTTP server toolkit in Ruby
 ii  ruby-xmlrpc                        0.3.2-1ubuntu0.1                        all          XMLRPC library for Ruby
-ii  ruby3.0                            3.0.2-7ubuntu2.1                        amd64        Interpreter of object-oriented scripting language Ruby
+ii  ruby3.0                            3.0.2-7ubuntu2.2                        amd64        Interpreter of object-oriented scripting language Ruby
 ii  rubygems-integration               1.18                                    all          integration of Debian Ruby packages with Rubygems
 ii  sed                                4.8-1ubuntu2                            amd64        GNU stream editor for filtering/transforming text
 ii  sensible-utils                     0.0.17                                  all          Utilities for sensible alternative selection
@@ -635,7 +635,7 @@ ii  tasksel-data                       3.68ubuntu2                             a
 ii  tcpdump                            4.99.1-3build2                          amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  tzdata                             2022f-0ubuntu0.22.04.1                  all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.11.3~22.04.1                         amd64        management tools for Ubuntu Advantage
+ii  ubuntu-advantage-tools             27.12~22.04.1                           amd64        management tools for Ubuntu Pro
 ii  ubuntu-keyring                     2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.481                                   amd64        Minimal core of Ubuntu
 ii  ucf                                3.0043                                  all          Update Configuration File(s): preserve user changes to config files
