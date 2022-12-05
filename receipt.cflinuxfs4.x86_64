@@ -1,4 +1,4 @@
-Rootfs SHASUM: 01b174545f95b5a9140ba8a0079e3c7cd3b4ced677e67b206652cf95836fe5f2
+Rootfs SHASUM: f4af12432c6e0b96aa19a6fd6f123d76393571e1ace78b7818f06c79fc68ea7d
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -28,7 +28,7 @@ ii  bsdutils                           1:2.37.2-4ubuntu3                       a
 ii  build-essential                    12.9ubuntu3                             amd64        Informational list of build-essential packages
 ii  bzip2                              1.0.8-5build1                           amd64        high-quality block-sorting file compressor - utilities
 ii  bzr                                2.7.0+bzr6622+brz                       all          transitional dummy package for brz
-ii  ca-certificates                    20211016                                all          Common CA certificates
+ii  ca-certificates                    20211016ubuntu0.22.04.1                 all          Common CA certificates
 ii  cmake                              3.22.1-1ubuntu1.22.04.1                 amd64        cross-platform, open-source make system
 ii  cmake-data                         3.22.1-1ubuntu1.22.04.1                 all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                   2.1-1.46.5-2ubuntu1.1                   amd64        common error description library - headers and static libraries
