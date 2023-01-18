@@ -1,4 +1,4 @@
-Rootfs SHASUM: a92c54568959ce962975b7ab843da99bfe4f93f5664fc6aff05ec06e831dc273
+Rootfs SHASUM: 6df1b4cd3180b3a0c7d3aea6f71f86a895f22fcf4bdc170f674910f330bbaa8b
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -587,9 +587,9 @@ ii  perl-modules-5.34                  5.34.0-3ubuntu1.1                       a
 ii  pkg-config                         0.29.2-1ubuntu3                         amd64        manage compile and link flags for libraries
 ii  procps                             2:3.3.17-6ubuntu2                       amd64        /proc file system utilities
 ii  psmisc                             23.4-2build3                            amd64        utilities that use the proc file system
-ii  python-apt-common                  2.3.0ubuntu2.1                          all          Python interface to libapt-pkg (locales)
+ii  python-apt-common                  2.4.0                                   all          Python interface to libapt-pkg (locales)
 ii  python3                            3.10.6-1~22.04                          amd64        interactive high-level object-oriented language (default python3 version)
-ii  python3-apt                        2.3.0ubuntu2.1                          amd64        Python 3 interface to libapt-pkg
+ii  python3-apt                        2.4.0                                   amd64        Python 3 interface to libapt-pkg
 ii  python3-breezy                     3.2.1+bzr7585-1build1                   amd64        distributed version control system - Python 3 library
 ii  python3-certifi                    2020.6.20-1                             all          root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii  python3-configobj                  5.0.6-5                                 all          simple but powerful config file reader and writer for Python 3
