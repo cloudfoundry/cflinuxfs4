@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6df1b4cd3180b3a0c7d3aea6f71f86a895f22fcf4bdc170f674910f330bbaa8b
+Rootfs SHASUM: 50fc3310f930441d7cb08d1cdfbb0a51ed61b3e7db026d6b7cd186f0b35f80d6
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -624,7 +624,7 @@ ii  shared-mime-info                   2.1-2                                   a
 ii  sshfs                              3.7.1+repack-2                          amd64        filesystem client based on SSH File Transfer Protocol
 ii  strace                             5.16-0ubuntu3                           amd64        System call tracer
 ii  subversion                         1.14.1-3ubuntu0.22.04.1                 amd64        Advanced version control system
-ii  sudo                               1.9.9-1ubuntu2.1                        amd64        Provide limited super user privileges to specific users
+ii  sudo                               1.9.9-1ubuntu2.2                        amd64        Provide limited super user privileges to specific users
 ii  sysstat                            12.5.2-2ubuntu0.1                       amd64        system performance tools for Linux
 ii  systemd                            249.11-0ubuntu3.6                       amd64        system and service manager
 ii  systemd-sysv                       249.11-0ubuntu3.6                       amd64        system and service manager - SysV links
