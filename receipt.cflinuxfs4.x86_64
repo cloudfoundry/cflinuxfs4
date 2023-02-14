@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0727f6ead8fe4bccf7e147db5957a2d70e5856eb0e1cfcf11ec059a0776ecf07
+Rootfs SHASUM: 5bad0673fd07bc30a2c3325e1a5ef50c34f044d7959157dee91011df7411bf31
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -73,8 +73,8 @@ ii  gir1.2-freedesktop:amd64           1.72.0-1                                a
 ii  gir1.2-gdkpixbuf-2.0:amd64         2.42.8+dfsg-1ubuntu0.2                  amd64        GDK Pixbuf library - GObject-Introspection
 ii  gir1.2-glib-2.0:amd64              1.72.0-1                                amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-rsvg-2.0:amd64              2.52.5+dfsg-3                           amd64        gir files for renderer library for SVG files
-ii  git                                1:2.34.1-1ubuntu1.6                     amd64        fast, scalable, distributed revision control system
-ii  git-man                            1:2.34.1-1ubuntu1.6                     all          fast, scalable, distributed revision control system (manual pages)
+ii  git                                1:2.34.1-1ubuntu1.8                     amd64        fast, scalable, distributed revision control system
+ii  git-man                            1:2.34.1-1ubuntu1.8                     all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                             1.4.23-1.1build1                        amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                               2.2.27-3ubuntu2.1                       amd64        GNU privacy guard - signature verification tool
 ii  graphviz                           2.42.2-6                                amd64        rich set of graph drawing tools
@@ -103,7 +103,7 @@ ii  kmod                               29-1ubuntu1                             a
 ii  krb5-config                        2.6+nmu1ubuntu1                         all          Configuration files for Kerberos Version 5
 ii  krb5-multidev:amd64                1.19.2-2ubuntu0.1                       amd64        development files for MIT Kerberos without Heimdal conflict
 ii  krb5-user                          1.19.2-2ubuntu0.1                       amd64        basic programs to authenticate using MIT Kerberos
-ii  less                               590-1build1                             amd64        pager program similar to more
+ii  less                               590-1ubuntu0.22.04.1                    amd64        pager program similar to more
 ii  libacl1:amd64                      2.3.1-1                                 amd64        access control list - shared library
 ii  libaio1:amd64                      0.3.112-13build1                        amd64        Linux kernel AIO access library - shared library
 ii  libann0                            1.1.2+doc-7build1                       amd64        Approximate Nearest Neighbor Searching library
@@ -635,7 +635,7 @@ ii  tasksel-data                       3.68ubuntu2                             a
 ii  tcpdump                            4.99.1-3build2                          amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  tzdata                             2022g-0ubuntu0.22.04.1                  all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.13.3~22.04.1                         amd64        management tools for Ubuntu Pro
+ii  ubuntu-advantage-tools             27.13.5~22.04.1                         amd64        management tools for Ubuntu Pro
 ii  ubuntu-keyring                     2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.481                                   amd64        Minimal core of Ubuntu
 ii  ucf                                3.0043                                  all          Update Configuration File(s): preserve user changes to config files
