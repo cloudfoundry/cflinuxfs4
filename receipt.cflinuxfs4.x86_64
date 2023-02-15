@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5bad0673fd07bc30a2c3325e1a5ef50c34f044d7959157dee91011df7411bf31
+Rootfs SHASUM: 61979a0d9f0369fd77c0339180e70587cda34ed2f4be37e3fcea46146f6d8851
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -110,7 +110,7 @@ ii  libann0                            1.1.2+doc-7build1                       a
 ii  libaom3:amd64                      3.3.0-1                                 amd64        AV1 Video Codec Library
 ii  libapparmor1:amd64                 3.0.4-2ubuntu2.1                        amd64        changehat AppArmor library
 ii  libapr1:amd64                      1.7.0-8build1                           amd64        Apache Portable Runtime Library
-ii  libaprutil1:amd64                  1.6.1-5ubuntu4                          amd64        Apache Portable Runtime Utility Library
+ii  libaprutil1:amd64                  1.6.1-5ubuntu4.22.04.1                  amd64        Apache Portable Runtime Utility Library
 ii  libapt-pkg6.0:amd64                2.4.8                                   amd64        package management runtime library
 ii  libarchive-extract-perl            0.88-1                                  all          generic archive extracting module
 ii  libarchive13:amd64                 3.6.0-1ubuntu1                          amd64        Multi-format archive and compression library (shared library)
