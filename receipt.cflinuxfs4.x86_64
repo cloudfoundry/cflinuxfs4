@@ -1,4 +1,4 @@
-Rootfs SHASUM: 61979a0d9f0369fd77c0339180e70587cda34ed2f4be37e3fcea46146f6d8851
+Rootfs SHASUM: 85b544e1a27e5e5808943ba97203e3f519023fc9425dfa93c2b681e8e8cb7cca
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -13,7 +13,7 @@ ii  aptitude-common                    0.8.13-3ubuntu1                         a
 ii  autoconf                           2.71-2                                  all          automatic configure script builder
 ii  automake                           1:1.16.5-1.3                            all          Tool for generating GNU Standards-compliant Makefiles
 ii  autotools-dev                      20220109.1                              all          Update infrastructure for config.{guess,sub} files
-ii  base-files                         12ubuntu4.2                             amd64        Debian base system miscellaneous files
+ii  base-files                         12ubuntu4.3                             amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.5.52build1                            amd64        Debian base system master password and group files
 ii  bash                               5.1-6ubuntu1                            amd64        GNU Bourne Again SHell
 ii  bind9-dnsutils                     1:9.18.1-1ubuntu1.3                     amd64        Clients provided with BIND 9
@@ -109,7 +109,7 @@ ii  libaio1:amd64                      0.3.112-13build1                        a
 ii  libann0                            1.1.2+doc-7build1                       amd64        Approximate Nearest Neighbor Searching library
 ii  libaom3:amd64                      3.3.0-1                                 amd64        AV1 Video Codec Library
 ii  libapparmor1:amd64                 3.0.4-2ubuntu2.1                        amd64        changehat AppArmor library
-ii  libapr1:amd64                      1.7.0-8build1                           amd64        Apache Portable Runtime Library
+ii  libapr1:amd64                      1.7.0-8ubuntu0.22.04.1                  amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                  1.6.1-5ubuntu4.22.04.1                  amd64        Apache Portable Runtime Utility Library
 ii  libapt-pkg6.0:amd64                2.4.8                                   amd64        package management runtime library
 ii  libarchive-extract-perl            0.88-1                                  all          generic archive extracting module
@@ -322,9 +322,9 @@ ii  libmagickwand-6-headers            8:6.9.11.60+dfsg-1.3build2              a
 ii  libmagickwand-6.q16-6:amd64        8:6.9.11.60+dfsg-1.3build2              amd64        image manipulation library -- quantum depth Q16
 ii  libmagickwand-6.q16-dev:amd64      8:6.9.11.60+dfsg-1.3build2              amd64        image manipulation library - development files (Q16)
 ii  libmagickwand-dev                  8:6.9.11.60+dfsg-1.3build2              all          image manipulation library -- dummy package
-ii  libmariadb-dev                     1:10.6.11-0ubuntu0.22.04.1              amd64        MariaDB database development files
-ii  libmariadb-dev-compat:amd64        1:10.6.11-0ubuntu0.22.04.1              amd64        MariaDB Connector/C, compatibility symlinks
-ii  libmariadb3:amd64                  1:10.6.11-0ubuntu0.22.04.1              amd64        MariaDB database client library
+ii  libmariadb-dev                     1:10.6.12-0ubuntu0.22.04.1              amd64        MariaDB database development files
+ii  libmariadb-dev-compat:amd64        1:10.6.12-0ubuntu0.22.04.1              amd64        MariaDB Connector/C, compatibility symlinks
+ii  libmariadb3:amd64                  1:10.6.12-0ubuntu0.22.04.1              amd64        MariaDB database client library
 ii  libmaxminddb0:amd64                1.5.2-1build2                           amd64        IP geolocation database library
 ii  libmd0:amd64                       1.0.4-1build1                           amd64        message digest functions from BSD systems - shared library
 ii  libmfx1:amd64                      22.3.0-1                                amd64        Intel Media SDK -- shared library
@@ -558,7 +558,7 @@ ii  m4                                 1.4.18-5ubuntu2                         a
 ii  make                               4.3-4.1build1                           amd64        utility for directing compilation
 ii  manpages                           5.10-1ubuntu1                           all          Manual pages about using a GNU/Linux system
 ii  manpages-dev                       5.10-1ubuntu1                           all          Manual pages about using GNU/Linux for development
-ii  mariadb-common                     1:10.6.11-0ubuntu0.22.04.1              all          MariaDB common configuration files
+ii  mariadb-common                     1:10.6.12-0ubuntu0.22.04.1              all          MariaDB common configuration files
 ii  mawk                               1.3.4.20200120-3                        amd64        Pattern scanning and text processing language
 ii  media-types                        7.0.0                                   all          List of standard media types and their usual file extension
 ii  mercurial                          6.1.1-1ubuntu1                          amd64        easy-to-use, scalable distributed version control system
@@ -587,9 +587,9 @@ ii  perl-modules-5.34                  5.34.0-3ubuntu1.1                       a
 ii  pkg-config                         0.29.2-1ubuntu3                         amd64        manage compile and link flags for libraries
 ii  procps                             2:3.3.17-6ubuntu2                       amd64        /proc file system utilities
 ii  psmisc                             23.4-2build3                            amd64        utilities that use the proc file system
-ii  python-apt-common                  2.4.0                                   all          Python interface to libapt-pkg (locales)
+ii  python-apt-common                  2.4.0ubuntu1                            all          Python interface to libapt-pkg (locales)
 ii  python3                            3.10.6-1~22.04                          amd64        interactive high-level object-oriented language (default python3 version)
-ii  python3-apt                        2.4.0                                   amd64        Python 3 interface to libapt-pkg
+ii  python3-apt                        2.4.0ubuntu1                            amd64        Python 3 interface to libapt-pkg
 ii  python3-breezy                     3.2.1+bzr7585-1build1                   amd64        distributed version control system - Python 3 library
 ii  python3-certifi                    2020.6.20-1                             all          root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii  python3-configobj                  5.0.6-5                                 all          simple but powerful config file reader and writer for Python 3
