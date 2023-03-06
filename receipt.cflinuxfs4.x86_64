@@ -1,4 +1,4 @@
-Rootfs SHASUM: 4911b8c02f7e37bbce5ab664e12815636a5212503af157c148e8e4d0cfef1fde
+Rootfs SHASUM: 0949b2f44b7b2bb489c20c8a4171806776e7281b5378c5cef6f62a36f06b3db5
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -610,7 +610,7 @@ ii  quota                              4.06-1build2                            a
 ii  rake                               13.0.6-2                                all          ruby make-like utility
 ii  readline-common                    8.1.2-1                                 all          GNU readline and history libraries, common files
 ii  rpcsvc-proto                       1.4.2-0ubuntu6                          amd64        RPC protocol compiler and definitions
-ii  rsync                              3.2.3-8ubuntu3.1                        amd64        fast, versatile, remote (and local) file-copying tool
+ii  rsync                              3.2.7-0ubuntu0.22.04.2                  amd64        fast, versatile, remote (and local) file-copying tool
 ii  ruby                               1:3.0~exp1                              amd64        Interpreter of object-oriented scripting language Ruby (default version)
 ii  ruby-net-telnet                    0.1.1-2                                 all          telnet client library
 ii  ruby-rubygems                      3.3.5-2                                 all          Package management framework for Ruby
@@ -632,10 +632,10 @@ ii  sysvinit-utils                     3.01-1ubuntu1                           a
 ii  tar                                1.34+dfsg-1ubuntu0.1.22.04.1            amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.68ubuntu2                             all          tool for selecting tasks for installation on Debian systems
 ii  tasksel-data                       3.68ubuntu2                             all          official tasks used for installation of Debian systems
-ii  tcpdump                            4.99.1-3build2                          amd64        command-line network traffic analyzer
+ii  tcpdump                            4.99.1-3ubuntu0.1                       amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  tzdata                             2022g-0ubuntu0.22.04.1                  all          time zone and daylight-saving time data
-ii  ubuntu-advantage-tools             27.13.5~22.04.1                         amd64        management tools for Ubuntu Pro
+ii  ubuntu-advantage-tools             27.13.6~22.04.1                         amd64        management tools for Ubuntu Pro
 ii  ubuntu-keyring                     2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ubuntu-minimal                     1.481                                   amd64        Minimal core of Ubuntu
 ii  ucf                                3.0043                                  all          Update Configuration File(s): preserve user changes to config files
