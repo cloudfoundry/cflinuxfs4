@@ -153,6 +153,7 @@ libyaml-dev
 locales
 lockfile-progs
 logrotate
+lsb-release
 lsof
 lzma
 manpages-dev
