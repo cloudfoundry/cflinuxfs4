@@ -166,7 +166,6 @@ openssl
 psmisc
 quota
 rsync
-ruby
 sshfs
 strace
 subversion
