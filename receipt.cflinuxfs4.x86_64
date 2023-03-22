@@ -1,4 +1,4 @@
-Rootfs SHASUM: ee40ff9c48ef15e4ce2a4be13cd0a23e4f5dd70a427c04800fc0eb0557fc86bd
+Rootfs SHASUM: 70f5c190888184a46cf8d0527b5871b242292b7d93ba702d5d88eac2dc87dbd7
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -525,7 +525,6 @@ ii  login                             1:4.8.1-2ubuntu2.1                      am
 ii  logrotate                         3.19.0-1ubuntu1.1                       amd64        Log rotation utility
 ii  logsave                           1.46.5-2ubuntu1.1                       amd64        save the output of a command in a log file
 ii  lsb-base                          11.1.0ubuntu4                           all          Linux Standard Base init script functionality
-ii  lsb-release                       11.1.0ubuntu4                           all          Linux Standard Base version reporting utility
 ii  lsof                              4.93.2+dfsg-1.1build2                   amd64        utility to list open files
 ii  lto-disabled-list                 24                                      all          list of packages not to build with LTO
 ii  lzma                              9.22-2.2                                amd64        Compression and decompression in the LZMA format - command line utility
@@ -559,10 +558,6 @@ ii  perl-modules-5.34                 5.34.0-3ubuntu1.1                       al
 ii  pkg-config                        0.29.2-1ubuntu3                         amd64        manage compile and link flags for libraries
 ii  procps                            2:3.3.17-6ubuntu2                       amd64        /proc file system utilities
 ii  psmisc                            23.4-2build3                            amd64        utilities that use the proc file system
-ii  python3                           3.10.6-1~22.04                          amd64        interactive high-level object-oriented language (default python3 version)
-ii  python3-minimal                   3.10.6-1~22.04                          amd64        minimal subset of the Python language (default python3 version)
-ii  python3.10                        3.10.6-1~22.04.2ubuntu1                 amd64        Interactive high-level object-oriented language (version 3.10)
-ii  python3.10-minimal                3.10.6-1~22.04.2ubuntu1                 amd64        Minimal subset of the Python language (version 3.10)
 ii  quota                             4.06-1build2                            amd64        disk quota management tools
 ii  readline-common                   8.1.2-1                                 all          GNU readline and history libraries, common files
 ii  rpcsvc-proto                      1.4.2-0ubuntu6                          amd64        RPC protocol compiler and definitions
