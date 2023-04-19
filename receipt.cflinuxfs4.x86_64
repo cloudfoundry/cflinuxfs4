@@ -1,4 +1,4 @@
-Rootfs SHASUM: 2ee341d15208213c2666a5d0cba2f3bf3de36bb9bcb4de69593275f3a6569a80
+Rootfs SHASUM: 9b736820c25440d7c0ceb03a5cdad15f30f62ccfd80423112c86905b9c7251be
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -6,8 +6,8 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name                              Version                                 Architecture Description
 +++-=================================-=======================================-============-================================================================================
 ii  adduser                           3.118ubuntu5                            all          add and remove users and groups
-ii  apt                               2.4.8                                   amd64        commandline package manager
-ii  apt-utils                         2.4.8                                   amd64        package management related utility programs
+ii  apt                               2.4.9                                   amd64        commandline package manager
+ii  apt-utils                         2.4.9                                   amd64        package management related utility programs
 ii  aptitude                          0.8.13-3ubuntu1                         amd64        terminal-based package manager
 ii  aptitude-common                   0.8.13-3ubuntu1                         all          architecture independent files for the aptitude package manager
 ii  autoconf                          2.71-2                                  all          automatic configure script builder
@@ -108,7 +108,7 @@ ii  libaom3:amd64                     3.3.0-1                                 am
 ii  libapparmor1:amd64                3.0.4-2ubuntu2.2                        amd64        changehat AppArmor library
 ii  libapr1:amd64                     1.7.0-8ubuntu0.22.04.1                  amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                 1.6.1-5ubuntu4.22.04.1                  amd64        Apache Portable Runtime Utility Library
-ii  libapt-pkg6.0:amd64               2.4.8                                   amd64        package management runtime library
+ii  libapt-pkg6.0:amd64               2.4.9                                   amd64        package management runtime library
 ii  libarchive-extract-perl           0.88-1                                  all          generic archive extracting module
 ii  libarchive13:amd64                3.6.0-1ubuntu1                          amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-1:amd64                 0~20171227-0.3                          amd64        memory-hard hashing function - runtime library
@@ -279,9 +279,9 @@ ii  liblapack-dev:amd64               3.10.0-2ubuntu1                         am
 ii  liblapack3:amd64                  3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                  2.12~rc1-2build2                        amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                2.12~rc1-2build2                        amd64        Little CMS 2 color management library development headers
-ii  libldap-2.5-0:amd64               2.5.14+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP libraries
-ii  libldap-dev:amd64                 2.5.14+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP development libraries
-ii  libldap2-dev                      2.5.14+dfsg-0ubuntu0.22.04.1            all          transitional package for libldap-dev
+ii  libldap-2.5-0:amd64               2.5.14+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP libraries
+ii  libldap-dev:amd64                 2.5.14+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP development libraries
+ii  libldap2-dev                      2.5.14+dfsg-0ubuntu0.22.04.2            all          transitional package for libldap-dev
 ii  libllvm14:amd64                   1:14.0.0-1ubuntu1                       amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblmdb0:amd64                    0.9.24-1build2                          amd64        Lightning Memory-Mapped Database shared library
 ii  liblocale-gettext-perl            1.07-4build3                            amd64        module using libc functions for internationalization in Perl
@@ -431,7 +431,7 @@ ii  libstdc++6:amd64                  12.1.0-2ubuntu1~22.04                   am
 ii  libsvn1:amd64                     1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
 ii  libswresample3:amd64              7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                   2.1.1-1build1                           amd64        interface library to sysfs - shared library
-ii  libsystemd0:amd64                 249.11-0ubuntu3.7                       amd64        systemd utility library
+ii  libsystemd0:amd64                 249.11-0ubuntu3.9                       amd64        systemd utility library
 ii  libtalloc2:amd64                  2.3.3-2build1                           amd64        hierarchical pool based memory allocator
 ii  libtasn1-6:amd64                  4.18.0-4build1                          amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64              4.18.0-4build1                          amd64        Manage ASN.1 structures (development)
@@ -453,7 +453,7 @@ ii  libtirpc3:amd64                   1.3.2-2ubuntu0.1                        am
 ii  libtsan0:amd64                    11.3.0-1ubuntu1~22.04                   amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.1.0-2ubuntu1~22.04                   amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                    249.11-0ubuntu3.7                       amd64        libudev shared library
+ii  libudev1:amd64                    249.11-0ubuntu3.9                       amd64        libudev shared library
 ii  libunbound8:amd64                 1.13.1-1ubuntu5.3                       amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64               1.0-1                                   amd64        Unicode string library for C
 ii  libunwind8:amd64                  1.3.2-2build2                           amd64        library to determine the call-chain of a program - runtime
@@ -499,8 +499,8 @@ ii  libxext-dev:amd64                 2:1.3.4-1build1                         am
 ii  libxext6:amd64                    2:1.3.4-1build1                         amd64        X11 miscellaneous extension library
 ii  libxfixes3:amd64                  1:6.0.0-1                               amd64        X11 miscellaneous 'fixes' extension library
 ii  libxft2:amd64                     2.3.4-1                                 amd64        FreeType-based font drawing library for X
-ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.2                  amd64        GNOME XML library
-ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.2                  amd64        GNOME XML library - development files
+ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.3                  amd64        GNOME XML library
+ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.3                  amd64        GNOME XML library - development files
 ii  libxmu6:amd64                     2:1.1.3-3                               amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                  1:3.5.12-1ubuntu0.22.04.1               amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                     1:3.5.12-1ubuntu0.22.04.1               amd64        X11 pixmap library
@@ -518,7 +518,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-69.76                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-70.77                            amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.1                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.1                      amd64        system login tools
@@ -570,26 +570,26 @@ ii  strace                            5.16-0ubuntu3                           am
 ii  subversion                        1.14.1-3ubuntu0.22.04.1                 amd64        Advanced version control system
 ii  sudo                              1.9.9-1ubuntu2.4                        amd64        Provide limited super user privileges to specific users
 ii  sysstat                           12.5.2-2ubuntu0.1                       amd64        system performance tools for Linux
-ii  systemd                           249.11-0ubuntu3.7                       amd64        system and service manager
-ii  systemd-sysv                      249.11-0ubuntu3.7                       amd64        system and service manager - SysV links
+ii  systemd                           249.11-0ubuntu3.9                       amd64        system and service manager
+ii  systemd-sysv                      249.11-0ubuntu3.9                       amd64        system and service manager - SysV links
 ii  sysvinit-utils                    3.01-1ubuntu1                           amd64        System-V-like utilities
 ii  tar                               1.34+dfsg-1ubuntu0.1.22.04.1            amd64        GNU version of the tar archiving utility
 ii  tasksel                           3.68ubuntu2                             all          tool for selecting tasks for installation on Debian systems
 ii  tasksel-data                      3.68ubuntu2                             all          official tasks used for installation of Debian systems
 ii  tcpdump                           4.99.1-3ubuntu0.1                       amd64        command-line network traffic analyzer
 ii  traceroute                        1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
-ii  tzdata                            2022g-0ubuntu0.22.04.1                  all          time zone and daylight-saving time data
+ii  tzdata                            2023c-0ubuntu0.22.04.0                  all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043                                  all          Update Configuration File(s): preserve user changes to config files
-ii  udev                              249.11-0ubuntu3.7                       amd64        /dev/ and hotplug management daemon
+ii  udev                              249.11-0ubuntu3.9                       amd64        /dev/ and hotplug management daemon
 ii  unixodbc-common                   2.3.9-5                                 all          Common ODBC configuration files
 ii  unixodbc-dev:amd64                2.3.9-5                                 amd64        ODBC libraries for Unix (development files)
 ii  unzip                             6.0-26ubuntu3.1                         amd64        De-archiver for .zip files
 ii  usrmerge                          25ubuntu2                               all          Convert the system to the merged /usr directories scheme
 ii  util-linux                        2.37.2-4ubuntu3                         amd64        miscellaneous system utilities
 ii  uuid-dev:amd64                    2.37.2-4ubuntu3                         amd64        Universally Unique ID library - headers and static libraries
-ii  vim-common                        2:8.2.3995-1ubuntu2.5                   all          Vi IMproved - Common files
-ii  vim-tiny                          2:8.2.3995-1ubuntu2.5                   amd64        Vi IMproved - enhanced vi editor - compact version
+ii  vim-common                        2:8.2.3995-1ubuntu2.7                   all          Vi IMproved - Common files
+ii  vim-tiny                          2:8.2.3995-1ubuntu2.7                   amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wget                              1.21.2-2ubuntu1                         amd64        retrieves files from the web
 ii  whiptail                          0.52.21-5ubuntu2                        amd64        Displays user-friendly dialog boxes from shell scripts
 ii  x11-common                        1:7.7+23ubuntu2                         all          X Window System (X.Org) infrastructure
@@ -597,7 +597,7 @@ ii  x11proto-dev                      2021.5-1                                al
 ii  xkb-data                          2.33-1                                  all          X Keyboard Extension (XKB) configuration data
 ii  xorg-sgml-doctools                1:1.11-1.1                              all          Common tools for building X.Org SGML documentation
 ii  xtrans-dev                        1.4.0-1                                 all          X transport library (development files)
-ii  xxd                               2:8.2.3995-1ubuntu2.5                   amd64        tool to make (or reverse) a hex dump
+ii  xxd                               2:8.2.3995-1ubuntu2.7                   amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                          5.2.5-2ubuntu1                          amd64        XZ-format compression utilities
 ii  zip                               3.0-12build2                            amd64        Archiver for .zip files
 ii  zlib1g:amd64                      1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - runtime
