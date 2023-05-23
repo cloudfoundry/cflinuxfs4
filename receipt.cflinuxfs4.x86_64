@@ -1,4 +1,4 @@
-Rootfs SHASUM: 6183d55d98e4a463725dd26acf231313490b5b4ca2afc85ae73ae9b10a4faeb9
+Rootfs SHASUM: 9f1c0c4f6eb4d467e0a227fb7a77edb6ab6e1d4774a0232b45aef0224fc0148e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -34,7 +34,7 @@ ii  console-setup                     1.205ubuntu3                            al
 ii  console-setup-linux               1.205ubuntu3                            all          Linux specific part of console-setup
 ii  coreutils                         8.32-4.1ubuntu1                         amd64        GNU core utilities
 ii  cpp                               4:11.2.0-1ubuntu1                       amd64        GNU C preprocessor (cpp)
-ii  cpp-11                            11.3.0-1ubuntu1~22.04                   amd64        GNU C preprocessor
+ii  cpp-11                            11.3.0-1ubuntu1~22.04.1                 amd64        GNU C preprocessor
 ii  cron                              3.0pl1-137ubuntu3                       amd64        process scheduling daemon
 ii  curl                              7.81.0-1ubuntu1.10                      amd64        command line tool for transferring data with URL syntax
 ii  dash                              0.5.11+git20210903+057cd650a4ed-3build1 amd64        POSIX-compliant shell
@@ -46,8 +46,8 @@ ii  diffutils                         1:3.8-0ubuntu2                          am
 ii  distro-info                       1.1build1                               amd64        provides information about the distributions' releases
 ii  distro-info-data                  0.52ubuntu0.4                           all          information about the distributions' releases (data files)
 ii  dnsutils                          1:9.18.12-0ubuntu0.22.04.1              all          Transitional package for bind9-dnsutils
-ii  dpkg                              1.21.1ubuntu2.1                         amd64        Debian package management system
-ii  dpkg-dev                          1.21.1ubuntu2.1                         all          Debian package development tools
+ii  dpkg                              1.21.1ubuntu2.2                         amd64        Debian package management system
+ii  dpkg-dev                          1.21.1ubuntu2.2                         all          Debian package development tools
 ii  e2fsprogs                         1.46.5-2ubuntu1.1                       amd64        ext2/ext3/ext4 file system utilities
 ii  eject                             2.37.2-4ubuntu3                         amd64        ejects CDs and operates CD-Changers under Linux
 ii  emacsen-common                    3.0.4                                   all          Common facilities for all emacsen
@@ -60,10 +60,10 @@ ii  fontconfig-config                 2.13.1-4.2ubuntu5                       al
 ii  fonts-dejavu-core                 2.37-2build1                            all          Vera font family derivate with additional characters
 ii  fuse3                             3.10.5-1build1                          amd64        Filesystem in Userspace (3.x version)
 ii  g++                               4:11.2.0-1ubuntu1                       amd64        GNU C++ compiler
-ii  g++-11                            11.3.0-1ubuntu1~22.04                   amd64        GNU C++ compiler
+ii  g++-11                            11.3.0-1ubuntu1~22.04.1                 amd64        GNU C++ compiler
 ii  gcc                               4:11.2.0-1ubuntu1                       amd64        GNU C compiler
-ii  gcc-11                            11.3.0-1ubuntu1~22.04                   amd64        GNU C compiler
-ii  gcc-11-base:amd64                 11.3.0-1ubuntu1~22.04                   amd64        GCC, the GNU Compiler Collection (base package)
+ii  gcc-11                            11.3.0-1ubuntu1~22.04.1                 amd64        GNU C compiler
+ii  gcc-11-base:amd64                 11.3.0-1ubuntu1~22.04.1                 amd64        GCC, the GNU Compiler Collection (base package)
 ii  gcc-12-base:amd64                 12.1.0-2ubuntu1~22.04                   amd64        GCC, the GNU Compiler Collection (base package)
 ii  gdb                               12.1-0ubuntu1~22.04                     amd64        GNU Debugger
 ii  gir1.2-freedesktop:amd64          1.72.0-1                                amd64        Introspection data for some FreeDesktop components
@@ -113,7 +113,7 @@ ii  libarchive-extract-perl           0.88-1                                  al
 ii  libarchive13:amd64                3.6.0-1ubuntu1                          amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-1:amd64                 0~20171227-0.3                          amd64        memory-hard hashing function - runtime library
 ii  libargon2-dev:amd64               0~20171227-0.3                          amd64        memory-hard hashing function - development files
-ii  libasan6:amd64                    11.3.0-1ubuntu1~22.04                   amd64        AddressSanitizer -- a fast memory error detector
+ii  libasan6:amd64                    11.3.0-1ubuntu1~22.04.1                 amd64        AddressSanitizer -- a fast memory error detector
 ii  libatm1:amd64                     1:2.5.1-4build2                         amd64        shared library for ATM (Asynchronous Transfer Mode)
 ii  libatomic1:amd64                  12.1.0-2ubuntu1~22.04                   amd64        support library providing __atomic built-in functions
 ii  libattr1:amd64                    1:2.5.1-1build1                         amd64        extended attribute handling - shared library
@@ -175,7 +175,7 @@ ii  libdjvulibre-dev:amd64            3.5.28-2build2                          am
 ii  libdjvulibre-text                 3.5.28-2build2                          all          Linguistic support files for libdjvulibre
 ii  libdjvulibre21:amd64              3.5.28-2build2                          amd64        Runtime support for the DjVu image format
 ii  libdns-export1110                 1:9.11.19+dfsg-2.1ubuntu3               amd64        Exported DNS Shared Library
-ii  libdpkg-perl                      1.21.1ubuntu2.1                         all          Dpkg perl modules
+ii  libdpkg-perl                      1.21.1ubuntu2.2                         all          Dpkg perl modules
 ii  libdrm-common                     2.4.113-2~ubuntu0.22.04.1               all          Userspace interface to kernel DRM services -- common files
 ii  libdrm2:amd64                     2.4.113-2~ubuntu0.22.04.1               amd64        Userspace interface to kernel DRM services -- runtime
 ii  libdw1:amd64                      0.186-1build1                           amd64        library that provides access to the DWARF debug information
@@ -205,7 +205,7 @@ ii  libfreetype6:amd64                2.11.1+dfsg-1ubuntu0.2                  am
 ii  libfreetype6-dev:amd64            2.11.1+dfsg-1ubuntu0.2                  amd64        FreeType 2 font engine, development files (transitional package)
 ii  libfribidi0:amd64                 1.0.8-2ubuntu3.1                        amd64        Free Implementation of the Unicode BiDi algorithm
 ii  libfuse3-3:amd64                  3.10.5-1build1                          amd64        Filesystem in Userspace (library) (3.x version)
-ii  libgcc-11-dev:amd64               11.3.0-1ubuntu1~22.04                   amd64        GCC support library (development files)
+ii  libgcc-11-dev:amd64               11.3.0-1ubuntu1~22.04.1                 amd64        GCC support library (development files)
 ii  libgcc-s1:amd64                   12.1.0-2ubuntu1~22.04                   amd64        GCC support library
 ii  libgcrypt20:amd64                 1.9.4-3ubuntu3                          amd64        LGPL Crypto library - runtime library
 ii  libgcrypt20-dev                   1.9.4-3ubuntu3                          amd64        LGPL Crypto library - development files
@@ -316,10 +316,10 @@ ii  libmp3lame0:amd64                 3.100-3build2                           am
 ii  libmpc3:amd64                     1.2.1-2build1                           amd64        multiple precision complex floating-point library
 ii  libmpdec3:amd64                   2.5.1-2build2                           amd64        library for decimal floating point arithmetic (runtime library)
 ii  libmpfr6:amd64                    4.1.0-3build3                           amd64        multiple precision floating-point computation
-ii  libncurses-dev:amd64              6.3-2                                   amd64        developer's libraries for ncurses
-ii  libncurses5-dev:amd64             6.3-2                                   amd64        transitional package for libncurses-dev
-ii  libncurses6:amd64                 6.3-2                                   amd64        shared libraries for terminal handling
-ii  libncursesw6:amd64                6.3-2                                   amd64        shared libraries for terminal handling (wide character support)
+ii  libncurses-dev:amd64              6.3-2ubuntu0.1                          amd64        developer's libraries for ncurses
+ii  libncurses5-dev:amd64             6.3-2ubuntu0.1                          amd64        transitional package for libncurses-dev
+ii  libncurses6:amd64                 6.3-2ubuntu0.1                          amd64        shared libraries for terminal handling
+ii  libncursesw6:amd64                6.3-2ubuntu0.1                          amd64        shared libraries for terminal handling (wide character support)
 ii  libnetplan0:amd64                 0.105-0ubuntu2~22.04.3                  amd64        YAML network configuration abstraction runtime library
 ii  libnettle8:amd64                  3.7.3-1build2                           amd64        low level cryptographic library (symmetric and one-way cryptos)
 ii  libnewt0.52:amd64                 0.52.21-5ubuntu2                        amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
@@ -426,7 +426,7 @@ ii  libss2:amd64                      1.46.5-2ubuntu1.1                       am
 ii  libssh-4:amd64                    0.9.6-2build1                           amd64        tiny C SSH library (OpenSSL flavor)
 ii  libssl-dev:amd64                  3.0.2-0ubuntu1.9                        amd64        Secure Sockets Layer toolkit - development files
 ii  libssl3:amd64                     3.0.2-0ubuntu1.9                        amd64        Secure Sockets Layer toolkit - shared libraries
-ii  libstdc++-11-dev:amd64            11.3.0-1ubuntu1~22.04                   amd64        GNU Standard C++ Library v3 (development files)
+ii  libstdc++-11-dev:amd64            11.3.0-1ubuntu1~22.04.1                 amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                  12.1.0-2ubuntu1~22.04                   amd64        GNU Standard C++ Library v3
 ii  libsvn1:amd64                     1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
 ii  libswresample3:amd64              7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
@@ -446,11 +446,11 @@ ii  libtheora0:amd64                  1.1.1+dfsg.1-15ubuntu4                  am
 ii  libtiff-dev:amd64                 4.3.0-6ubuntu0.4                        amd64        Tag Image File Format library (TIFF), development files
 ii  libtiff5:amd64                    4.3.0-6ubuntu0.4                        amd64        Tag Image File Format (TIFF) library
 ii  libtiffxx5:amd64                  4.3.0-6ubuntu0.4                        amd64        Tag Image File Format (TIFF) library -- C++ interface
-ii  libtinfo6:amd64                   6.3-2                                   amd64        shared low-level terminfo library for terminal handling
+ii  libtinfo6:amd64                   6.3-2ubuntu0.1                          amd64        shared low-level terminfo library for terminal handling
 ii  libtirpc-common                   1.3.2-2ubuntu0.1                        all          transport-independent RPC library - common files
 ii  libtirpc-dev:amd64                1.3.2-2ubuntu0.1                        amd64        transport-independent RPC library - development files
 ii  libtirpc3:amd64                   1.3.2-2ubuntu0.1                        amd64        transport-independent RPC library
-ii  libtsan0:amd64                    11.3.0-1ubuntu1~22.04                   amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+ii  libtsan0:amd64                    11.3.0-1ubuntu1~22.04.1                 amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.1.0-2ubuntu1~22.04                   amd64        UBSan -- undefined behaviour sanitizer (runtime)
 ii  libudev1:amd64                    249.11-0ubuntu3.9                       amd64        libudev shared library
@@ -537,8 +537,8 @@ ii  mawk                              1.3.4.20200120-3                        am
 ii  media-types                       7.0.0                                   all          List of standard media types and their usual file extension
 ii  mount                             2.37.2-4ubuntu3                         amd64        tools for mounting and manipulating filesystems
 ii  mysql-common                      5.8+1.0.8                               all          MySQL database common files, e.g. /etc/mysql/my.cnf
-ii  ncurses-base                      6.3-2                                   all          basic terminal type definitions
-ii  ncurses-bin                       6.3-2                                   amd64        terminal-related programs and man pages
+ii  ncurses-base                      6.3-2ubuntu0.1                          all          basic terminal type definitions
+ii  ncurses-bin                       6.3-2ubuntu0.1                          amd64        terminal-related programs and man pages
 ii  net-tools                         1.60+git20181103.0eebece-1ubuntu5       amd64        NET-3 networking toolkit
 ii  netbase                           6.3                                     all          Basic TCP/IP networking system
 ii  netcat-openbsd                    1.218-4ubuntu1                          amd64        TCP/IP swiss army knife
