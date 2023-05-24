@@ -1,4 +1,4 @@
-Rootfs SHASUM: e51c1605a8dbb9603d5eee13baf3cbe441dbd6e341b0cde43d2e2d444a4b5c5a
+Rootfs SHASUM: 672997c178bdd9286e750afb044b7a509da70a8438f67758267f2d83c62e7d7e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -26,7 +26,7 @@ ii  bison                             2:3.8.2+dfsg-1build1                    am
 ii  bsdutils                          1:2.37.2-4ubuntu3                       amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                   12.9ubuntu3                             amd64        Informational list of build-essential packages
 ii  bzip2                             1.0.8-5build1                           amd64        high-quality block-sorting file compressor - utilities
-ii  ca-certificates                   20211016ubuntu0.22.04.1                 all          Common CA certificates
+ii  ca-certificates                   20230311ubuntu0.22.04.1                 all          Common CA certificates
 ii  cmake                             3.22.1-1ubuntu1.22.04.1                 amd64        cross-platform, open-source make system
 ii  cmake-data                        3.22.1-1ubuntu1.22.04.1                 all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                  2.1-1.46.5-2ubuntu1.1                   amd64        common error description library - headers and static libraries
@@ -374,8 +374,8 @@ ii  libpixman-1-dev:amd64             0.40.0-1ubuntu0.22.04.1                 am
 ii  libpng-dev:amd64                  1.6.37-3build5                          amd64        PNG library - development (version 1.6)
 ii  libpng16-16:amd64                 1.6.37-3build5                          amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                    1.18-3build1                            amd64        lib for parsing cmdline parameters
-ii  libpq-dev                         14.7-0ubuntu0.22.04.1                   amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                      14.7-0ubuntu0.22.04.1                   amd64        PostgreSQL C client library
+ii  libpq-dev                         14.8-0ubuntu0.22.04.1                   amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                      14.8-0ubuntu0.22.04.1                   amd64        PostgreSQL C client library
 ii  libprocps8:amd64                  2:3.3.17-6ubuntu2                       amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                 0.4.17-2                                amd64        automatic proxy configuration management library (shared)
 ii  libpsl5:amd64                     0.21.0-1.2build2                        amd64        Library for Public Suffix List (shared libraries)
