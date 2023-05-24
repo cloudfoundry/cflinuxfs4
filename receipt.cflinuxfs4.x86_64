@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9f1c0c4f6eb4d467e0a227fb7a77edb6ab6e1d4774a0232b45aef0224fc0148e
+Rootfs SHASUM: e51c1605a8dbb9603d5eee13baf3cbe441dbd6e341b0cde43d2e2d444a4b5c5a
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -19,9 +19,9 @@ ii  bash                              5.1-6ubuntu1                            am
 ii  bind9-dnsutils                    1:9.18.12-0ubuntu0.22.04.1              amd64        Clients provided with BIND 9
 ii  bind9-host                        1:9.18.12-0ubuntu0.22.04.1              amd64        DNS Lookup Utility
 ii  bind9-libs:amd64                  1:9.18.12-0ubuntu0.22.04.1              amd64        Shared Libraries used by BIND 9
-ii  binutils                          2.38-4ubuntu2.1                         amd64        GNU assembler, linker and binary utilities
-ii  binutils-common:amd64             2.38-4ubuntu2.1                         amd64        Common files for the GNU assembler, linker and binary utilities
-ii  binutils-x86-64-linux-gnu         2.38-4ubuntu2.1                         amd64        GNU binary utilities, for x86-64-linux-gnu target
+ii  binutils                          2.38-4ubuntu2.2                         amd64        GNU assembler, linker and binary utilities
+ii  binutils-common:amd64             2.38-4ubuntu2.2                         amd64        Common files for the GNU assembler, linker and binary utilities
+ii  binutils-x86-64-linux-gnu         2.38-4ubuntu2.2                         amd64        GNU binary utilities, for x86-64-linux-gnu target
 ii  bison                             2:3.8.2+dfsg-1build1                    amd64        YACC-compatible parser generator
 ii  bsdutils                          1:2.37.2-4ubuntu3                       amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                   12.9ubuntu3                             amd64        Informational list of build-essential packages
@@ -123,7 +123,7 @@ ii  libaudit1:amd64                   1:3.0.7-1build1                         am
 ii  libavcodec58:amd64                7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library with de/encoders for audio/video codecs - runtime files
 ii  libavutil56:amd64                 7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library with functions for simplifying programming - runtime files
 ii  libbabeltrace1:amd64              1.5.8-2build1                           amd64        Babeltrace conversion libraries
-ii  libbinutils:amd64                 2.38-4ubuntu2.1                         amd64        GNU binary utilities (private shared library)
+ii  libbinutils:amd64                 2.38-4ubuntu2.2                         amd64        GNU binary utilities (private shared library)
 ii  libblas-dev:amd64                 3.10.0-2ubuntu1                         amd64        Basic Linear Algebra Subroutines 3, static library
 ii  libblas3:amd64                    3.10.0-2ubuntu1                         amd64        Basic Linear Algebra Reference implementations, shared library
 ii  libblkid-dev:amd64                2.37.2-4ubuntu3                         amd64        block device ID library - headers
@@ -154,8 +154,8 @@ ii  libcom-err2:amd64                 1.46.5-2ubuntu1.1                       am
 ii  libcrypt-dev:amd64                1:4.4.27-1                              amd64        libcrypt development files
 ii  libcrypt1:amd64                   1:4.4.27-1                              amd64        libcrypt shared library
 ii  libcryptsetup12:amd64             2:2.4.3-1ubuntu1.1                      amd64        disk encryption support - shared library
-ii  libctf-nobfd0:amd64               2.38-4ubuntu2.1                         amd64        Compact C Type Format library (runtime, no BFD dependency)
-ii  libctf0:amd64                     2.38-4ubuntu2.1                         amd64        Compact C Type Format library (runtime, BFD dependency)
+ii  libctf-nobfd0:amd64               2.38-4ubuntu2.2                         amd64        Compact C Type Format library (runtime, no BFD dependency)
+ii  libctf0:amd64                     2.38-4ubuntu2.2                         amd64        Compact C Type Format library (runtime, BFD dependency)
 ii  libcurl3-gnutls:amd64             7.81.0-1ubuntu1.10                      amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii  libcurl4:amd64                    7.81.0-1ubuntu1.10                      amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii  libcurl4-openssl-dev:amd64        7.81.0-1ubuntu1.10                      amd64        development files and documentation for libcurl (OpenSSL flavour)
