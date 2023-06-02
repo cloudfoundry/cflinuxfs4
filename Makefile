@@ -5,6 +5,19 @@ BUILD := $(NAME).$(ARCH)
 
 all: $(BUILD).tar.gz
 
+compat:
+	if [ -z "$(version)" ]; then >&2 echo "version must be set" && exit 1; fi
+	docker build . \
+		--file compat.Dockerfile \
+		--build-arg "base=cloudfoundry/cflinuxfs4:$(version)" \
+		--build-arg packages="`cat "packages/cflinuxfs4-compat" 2>/dev/null`" \
+  	--no-cache "--iidfile=$(BUILD)-compat.iid"
+
+	docker run "--cidfile=$(BUILD)-compat.cid" `cat "$(BUILD)-compat.iid"` dpkg -l | tee "packages-list"
+	docker export `cat "$(BUILD)-compat.cid"` | gzip > "$(BUILD)-compat.tar.gz"
+	docker rm -f `cat "$(BUILD)-compat.cid"`
+	rm -f "$(BUILD)-compat.cid" "$(BUILD)-compat.iid"
+
 $(BUILD).iid:
 	docker build \
 	--build-arg "base=$(BASE)" \

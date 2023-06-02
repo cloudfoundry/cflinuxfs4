@@ -1,0 +1,54 @@
+name: Send dispatch for cflinuxfs4-compat release creation
+
+on:
+  release:
+    types:
+    - published
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version of the cflinuxfs4 stack release a compat stack of (e.g. 1.2.3)'
+        required: true
+
+jobs:
+  dispatch:
+    name: Send dispatch for compat stack creation
+    runs-on: ubuntu-22.04
+    steps:
+
+    - name: Parse Event
+      id: event
+      run: |
+        version="${{ github.event.inputs.version }}"
+        if [ -z "${version}" ]; then
+          version="$(jq -r '.release.tag_name' "${GITHUB_EVENT_PATH}" | sed s/^v//)"
+        fi
+        echo "version=${version}" >> "$GITHUB_OUTPUT"
+
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        repository: cloudfoundry/cflinuxfs4-compat-release
+        event-type: release-dispatch
+        client-payload: '{"version": "${{ steps.event.outputs.version }}"}'
+
+  failure:
+    name: Alert on Failure
+    runs-on: ubuntu-22.04
+    needs: [dispatch]
+    if: ${{ always() && needs.dispatch.result == 'failure' }}
+    steps:
+    - name: File Failure Alert Issue
+      uses: paketo-buildpacks/github-config/actions/issue/file@main
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        repo: ${{ github.repository }}
+        label: "failure"
+        comment_if_exists: true
+        issue_title: "Failure: Send Compat Stack Dispatch"
+        issue_body: |
+          Compat stack dispatch workflow [failed](https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}).
+        comment_body: |
+           Another failure occurred: https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+
