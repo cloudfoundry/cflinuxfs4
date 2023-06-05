@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0ea979246ad2b0bb35feaedfbbda4c14b4cb8e0963e59ba48874ddcf4c61006b
+Rootfs SHASUM: bd85114c4d314b75e0ec10dd6a24c6842e2c6019f942951fa821c34c243aa32b
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -250,7 +250,7 @@ ii  libidn2-0:amd64                   2.3.2-2build1                           am
 ii  libidn2-dev:amd64                 2.3.2-2build1                           amd64        Internationalized domain names (IDNA2008/TR46) development files
 ii  libilmbase-dev:amd64              2.5.7-2                                 amd64        development files for IlmBase
 ii  libilmbase25:amd64                2.5.7-2                                 amd64        several utility libraries from ILM used by OpenEXR
-ii  libip4tc2:amd64                   1.8.7-1ubuntu5                          amd64        netfilter libip4tc library
+ii  libip4tc2:amd64                   1.8.7-1ubuntu5.1                        amd64        netfilter libip4tc library
 ii  libipt2                           2.0.5-1                                 amd64        Intel Processor Trace Decoder Library
 ii  libisc-export1105:amd64           1:9.11.19+dfsg-2.1ubuntu3               amd64        Exported ISC Shared Library
 ii  libisl23:amd64                    0.24-2build1                            amd64        manipulating sets and relations of integer points bounded by linear constraints
@@ -510,7 +510,7 @@ ii  libxslt1-dev:amd64                1.1.34-4ubuntu0.22.04.1                 am
 ii  libxslt1.1:amd64                  1.1.34-4ubuntu0.22.04.1                 amd64        XSLT 1.0 processing library - runtime library
 ii  libxt-dev:amd64                   1:1.2.1-1                               amd64        X11 toolkit intrinsics library (development headers)
 ii  libxt6:amd64                      1:1.2.1-1                               amd64        X11 toolkit intrinsics library
-ii  libxtables12:amd64                1.8.7-1ubuntu5                          amd64        netfilter xtables library
+ii  libxtables12:amd64                1.8.7-1ubuntu5.1                        amd64        netfilter xtables library
 ii  libxvidcore4:amd64                2:1.3.7-1                               amd64        Open source MPEG-4 video codec (library)
 ii  libxxhash0:amd64                  0.8.1-1                                 amd64        shared library for xxhash
 ii  libyaml-0-2:amd64                 0.2.2-1build2                           amd64        Fast YAML 1.1 parser and emitter library
@@ -518,7 +518,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-72.79                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-73.80                            amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.1                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.1                      amd64        system login tools
@@ -578,7 +578,7 @@ ii  tasksel                           3.68ubuntu2                             al
 ii  tasksel-data                      3.68ubuntu2                             all          official tasks used for installation of Debian systems
 ii  tcpdump                           4.99.1-3ubuntu0.1                       amd64        command-line network traffic analyzer
 ii  traceroute                        1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
-ii  tzdata                            2023c-0ubuntu0.22.04.1                  all          time zone and daylight-saving time data
+ii  tzdata                            2023c-0ubuntu0.22.04.2                  all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043                                  all          Update Configuration File(s): preserve user changes to config files
 ii  udev                              249.11-0ubuntu3.9                       amd64        /dev/ and hotplug management daemon
