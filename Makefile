@@ -14,7 +14,7 @@ compat:
 		--build-arg packages="`cat "packages/cflinuxfs4-compat" 2>/dev/null`" \
   	--no-cache "--iidfile=$(COMPAT_BUILD).iid"
 
-	docker run "--cidfile=$(COMPAT_BUILD).cid" `cat "$(COMPAT_BUILD).iid"` dpkg -l | tee "packages-list"
+	docker run "--cidfile=$(COMPAT_BUILD).cid" `cat "$(COMPAT_BUILD).iid"` dpkg -l
 	docker export `cat "$(COMPAT_BUILD).cid"` | gzip > "$(COMPAT_BUILD).tar.gz"
 	docker rm -f `cat "$(COMPAT_BUILD).cid"`
 	rm -f "$(COMPAT_BUILD).cid" "$(COMPAT_BUILD).iid"
