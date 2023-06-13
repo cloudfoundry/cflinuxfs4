@@ -28,7 +28,7 @@ jobs:
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v2
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.CF_BOT_GITHUB_TOKEN }}
         repository: cloudfoundry/cflinuxfs4-compat-release
         event-type: release-dispatch
         client-payload: '{"version": "${{ steps.event.outputs.version }}"}'
