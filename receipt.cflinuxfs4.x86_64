@@ -1,4 +1,4 @@
-Rootfs SHASUM: 735c456af9d80530e6be669261b7306ba536396901a9960a597ba971c47aad85
+Rootfs SHASUM: ae8fe69b57224972565fecbd4073b3e273d2a5aa5caf83c0208ff491c0e69ebe
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -518,7 +518,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-76.83                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-78.85                            amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.1                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.1                      amd64        system login tools
@@ -546,9 +546,9 @@ ii  nettle-dev:amd64                  3.7.3-1build2                           am
 ii  ocaml-base                        4.13.1-3ubuntu1                         amd64        Runtime system for OCaml bytecode executables
 ii  ocaml-base-nox                    4.13.1-3ubuntu1                         all          transitional package for ocaml-base
 ii  ocl-icd-libopencl1:amd64          2.2.14-3                                amd64        Generic OpenCL ICD Loader
-ii  openssh-client                    1:8.9p1-3ubuntu0.1                      amd64        secure shell (SSH) client, for secure access to remote machines
-ii  openssh-server                    1:8.9p1-3ubuntu0.1                      amd64        secure shell (SSH) server, for secure access from remote machines
-ii  openssh-sftp-server               1:8.9p1-3ubuntu0.1                      amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii  openssh-client                    1:8.9p1-3ubuntu0.3                      amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                    1:8.9p1-3ubuntu0.3                      amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssh-sftp-server               1:8.9p1-3ubuntu0.3                      amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii  openssl                           3.0.2-0ubuntu1.10                       amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                            1:4.8.1-2ubuntu2.1                      amd64        change and administer password and group data
 ii  patch                             2.7.6-7build2                           amd64        Apply a diff file to an original
