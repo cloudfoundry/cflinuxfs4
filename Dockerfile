@@ -28,4 +28,9 @@ RUN useradd -u ${user_id} -mU -s /bin/bash vcap && \
   chown vcap:vcap /home/vcap/app && \
   ln -s /home/vcap/app /app
 
+RUN printf '\n%s\n' >> "/etc/ssl/openssl.cnf" \
+  '# Allow user-set openssl.cnf' \
+  '.include /tmp/app/openssl.cnf' \
+  '.include /home/vcap/app/openssl.cnf'
+
 USER ${user_id}:${group_id}
