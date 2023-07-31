@@ -160,6 +160,8 @@ net-tools
 netbase
 netcat-openbsd
 ocaml-base-nox
+odbcinst
+odbcinst1debian2
 openssh-server
 openssl
 psmisc
