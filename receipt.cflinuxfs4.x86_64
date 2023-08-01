@@ -1,4 +1,4 @@
-Rootfs SHASUM: f92309b319d94e5b4cb837a279d55ccc96c49c86b3a73c6ad6c60d0cf723a314
+Rootfs SHASUM: e86ac6900641cf023d2cc32bffba4a759e96356269d197200336e846322c9d6b
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -69,7 +69,7 @@ ii  gdb                               12.1-0ubuntu1~22.04                     am
 ii  gir1.2-freedesktop:amd64          1.72.0-1                                amd64        Introspection data for some FreeDesktop components
 ii  gir1.2-gdkpixbuf-2.0:amd64        2.42.8+dfsg-1ubuntu0.2                  amd64        GDK Pixbuf library - GObject-Introspection
 ii  gir1.2-glib-2.0:amd64             1.72.0-1                                amd64        Introspection data for GLib, GObject, Gio and GModule
-ii  gir1.2-rsvg-2.0:amd64             2.52.5+dfsg-3                           amd64        gir files for renderer library for SVG files
+ii  gir1.2-rsvg-2.0:amd64             2.52.5+dfsg-3ubuntu0.2                  amd64        gir files for renderer library for SVG files
 ii  git                               1:2.34.1-1ubuntu1.9                     amd64        fast, scalable, distributed revision control system
 ii  git-man                           1:2.34.1-1ubuntu1.9                     all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                            1.4.23-1.1build1                        amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
@@ -388,7 +388,7 @@ ii  libquadmath0:amd64                12.3.0-1ubuntu1~22.04                   am
 ii  libreadline-dev:amd64             8.1.2-1                                 amd64        GNU readline and history libraries, development files
 ii  libreadline8:amd64                8.1.2-1                                 amd64        GNU readline and history libraries, run-time libraries
 ii  librhash0:amd64                   1.4.2-1ubuntu1                          amd64        shared library for hash functions computing
-ii  librsvg2-2:amd64                  2.52.5+dfsg-3                           amd64        SAX-based renderer library for SVG files (runtime)
+ii  librsvg2-2:amd64                  2.52.5+dfsg-3ubuntu0.2                  amd64        SAX-based renderer library for SVG files (runtime)
 ii  librtmp-dev:amd64                 2.4+20151223.gitfa8646d.1-2build4       amd64        toolkit for RTMP streams (development files)
 ii  librtmp1:amd64                    2.4+20151223.gitfa8646d.1-2build4       amd64        toolkit for RTMP streams (shared library)
 ii  libsasl2-2:amd64                  2.1.27+dfsg2-3ubuntu1.2                 amd64        Cyrus SASL - authentication abstraction library
