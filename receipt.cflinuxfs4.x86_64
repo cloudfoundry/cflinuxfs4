@@ -1,4 +1,4 @@
-Rootfs SHASUM: cacb28bf1a4ee218248805d7132fa7b86956a8752c83ef714a15fa36d1539b77
+Rootfs SHASUM: ce8fb0a27173cae4341c9ba3217611b4b604f3491ad6a79e1d7bc06591f54719
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -70,8 +70,8 @@ ii  gir1.2-freedesktop:amd64          1.72.0-1                                am
 ii  gir1.2-gdkpixbuf-2.0:amd64        2.42.8+dfsg-1ubuntu0.2                  amd64        GDK Pixbuf library - GObject-Introspection
 ii  gir1.2-glib-2.0:amd64             1.72.0-1                                amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-rsvg-2.0:amd64             2.52.5+dfsg-3ubuntu0.2                  amd64        gir files for renderer library for SVG files
-ii  git                               1:2.34.1-1ubuntu1.9                     amd64        fast, scalable, distributed revision control system
-ii  git-man                           1:2.34.1-1ubuntu1.9                     all          fast, scalable, distributed revision control system (manual pages)
+ii  git                               1:2.34.1-1ubuntu1.10                    amd64        fast, scalable, distributed revision control system
+ii  git-man                           1:2.34.1-1ubuntu1.10                    all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                            1.4.23-1.1build1                        amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                              2.2.27-3ubuntu2.1                       amd64        GNU privacy guard - signature verification tool
 ii  graphviz                          2.42.2-6                                amd64        rich set of graph drawing tools
@@ -374,8 +374,8 @@ ii  libpixman-1-dev:amd64             0.40.0-1ubuntu0.22.04.1                 am
 ii  libpng-dev:amd64                  1.6.37-3build5                          amd64        PNG library - development (version 1.6)
 ii  libpng16-16:amd64                 1.6.37-3build5                          amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                    1.18-3build1                            amd64        lib for parsing cmdline parameters
-ii  libpq-dev                         14.8-0ubuntu0.22.04.1                   amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                      14.8-0ubuntu0.22.04.1                   amd64        PostgreSQL C client library
+ii  libpq-dev                         14.9-0ubuntu0.22.04.1                   amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                      14.9-0ubuntu0.22.04.1                   amd64        PostgreSQL C client library
 ii  libprocps8:amd64                  2:3.3.17-6ubuntu2                       amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                 0.4.17-2                                amd64        automatic proxy configuration management library (shared)
 ii  libpsl5:amd64                     0.21.0-1.2build2                        amd64        Library for Public Suffix List (shared libraries)
@@ -590,8 +590,8 @@ ii  unzip                             6.0-26ubuntu3.1                         am
 ii  usrmerge                          25ubuntu2                               all          Convert the system to the merged /usr directories scheme
 ii  util-linux                        2.37.2-4ubuntu3                         amd64        miscellaneous system utilities
 ii  uuid-dev:amd64                    2.37.2-4ubuntu3                         amd64        Universally Unique ID library - headers and static libraries
-ii  vim-common                        2:8.2.3995-1ubuntu2.10                  all          Vi IMproved - Common files
-ii  vim-tiny                          2:8.2.3995-1ubuntu2.10                  amd64        Vi IMproved - enhanced vi editor - compact version
+ii  vim-common                        2:8.2.3995-1ubuntu2.11                  all          Vi IMproved - Common files
+ii  vim-tiny                          2:8.2.3995-1ubuntu2.11                  amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wget                              1.21.2-2ubuntu1                         amd64        retrieves files from the web
 ii  whiptail                          0.52.21-5ubuntu2                        amd64        Displays user-friendly dialog boxes from shell scripts
 ii  x11-common                        1:7.7+23ubuntu2                         all          X Window System (X.Org) infrastructure
@@ -599,7 +599,7 @@ ii  x11proto-dev                      2021.5-1                                al
 ii  xkb-data                          2.33-1                                  all          X Keyboard Extension (XKB) configuration data
 ii  xorg-sgml-doctools                1:1.11-1.1                              all          Common tools for building X.Org SGML documentation
 ii  xtrans-dev                        1.4.0-1                                 all          X transport library (development files)
-ii  xxd                               2:8.2.3995-1ubuntu2.10                  amd64        tool to make (or reverse) a hex dump
+ii  xxd                               2:8.2.3995-1ubuntu2.11                  amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                          5.2.5-2ubuntu1                          amd64        XZ-format compression utilities
 ii  zip                               3.0-12build2                            amd64        Archiver for .zip files
 ii  zlib1g:amd64                      1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - runtime
