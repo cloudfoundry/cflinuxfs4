@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0d5992f0d6b46bf48403a579cfcf9397cd5a2bcd8297cefa5285f78dee2f20ea
+Rootfs SHASUM: c7ae07ad1c4ec5b5aa676ca827627567bac942d4a7252879e55cd65c5e0e24e7
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -470,9 +470,9 @@ ii  libvorbisenc2:amd64               1.3.7-1build2                           am
 ii  libvpx-dev:amd64                  1.11.0-2ubuntu2                         amd64        VP8 and VP9 video codec (development files)
 ii  libvpx7:amd64                     1.11.0-2ubuntu2                         amd64        VP8 and VP9 video codec (shared library)
 ii  libwbclient0:amd64                2:4.15.13+dfsg-0ubuntu1.4               amd64        Samba winbind client library
-ii  libwebp7:amd64                    1.2.2-2ubuntu0.22.04.1                  amd64        Lossy compression of digital photographic images
-ii  libwebpdemux2:amd64               1.2.2-2ubuntu0.22.04.1                  amd64        Lossy compression of digital photographic images.
-ii  libwebpmux3:amd64                 1.2.2-2ubuntu0.22.04.1                  amd64        Lossy compression of digital photographic images
+ii  libwebp7:amd64                    1.2.2-2ubuntu0.22.04.2                  amd64        Lossy compression of digital photographic images
+ii  libwebpdemux2:amd64               1.2.2-2ubuntu0.22.04.2                  amd64        Lossy compression of digital photographic images.
+ii  libwebpmux3:amd64                 1.2.2-2ubuntu0.22.04.2                  amd64        Lossy compression of digital photographic images
 ii  libwmf-0.2-7:amd64                0.2.12-5ubuntu1                         amd64        Windows metafile conversion library
 ii  libwmf-dev                        0.2.12-5ubuntu1                         amd64        Windows metafile conversion development
 ii  libwmflite-0.2-7:amd64            0.2.12-5ubuntu1                         amd64        Windows metafile conversion lite library
