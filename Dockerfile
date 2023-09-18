@@ -33,7 +33,4 @@ RUN printf '\n%s\n' >> "/etc/ssl/openssl.cnf" \
   '.include /tmp/app/openssl.cnf' \
   '.include /home/vcap/app/openssl.cnf'
 
-# Without setuid, ping fails in a CF app container
-RUN chmod u+s /usr/bin/ping
-
 USER ${user_id}:${group_id}
