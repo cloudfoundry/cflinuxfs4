@@ -1,4 +1,4 @@
-Rootfs SHASUM: 287dd5aeb84cb87ac3f2780767934ccee9fa72efbe4ac6fd9f1d759c2f791129
+Rootfs SHASUM: f296fcf939d8e4229e3fd89d39a18d17ed2ae756a671863cf8dd7ecf102ab18d
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -469,7 +469,7 @@ ii  libvorbis0a:amd64                 1.3.7-1build2                           am
 ii  libvorbisenc2:amd64               1.3.7-1build2                           amd64        encoder library for Vorbis General Audio Compression Codec
 ii  libvpx-dev:amd64                  1.11.0-2ubuntu2.2                       amd64        VP8 and VP9 video codec (development files)
 ii  libvpx7:amd64                     1.11.0-2ubuntu2.2                       amd64        VP8 and VP9 video codec (shared library)
-ii  libwbclient0:amd64                2:4.15.13+dfsg-0ubuntu1.4               amd64        Samba winbind client library
+ii  libwbclient0:amd64                2:4.15.13+dfsg-0ubuntu1.5               amd64        Samba winbind client library
 ii  libwebp7:amd64                    1.2.2-2ubuntu0.22.04.2                  amd64        Lossy compression of digital photographic images
 ii  libwebpdemux2:amd64               1.2.2-2ubuntu0.22.04.2                  amd64        Lossy compression of digital photographic images.
 ii  libwebpmux3:amd64                 1.2.2-2ubuntu0.22.04.2                  amd64        Lossy compression of digital photographic images
