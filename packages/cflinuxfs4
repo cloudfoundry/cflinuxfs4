@@ -89,6 +89,7 @@ libkmod2:amd64
 libkrb5-dev
 liblapack-dev
 liblcms2-dev:amd64
+libldap-common
 libldap2-dev
 libllvm14
 liblockfile-bin
