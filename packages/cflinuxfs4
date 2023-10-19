@@ -78,6 +78,7 @@ libgnutls-openssl27
 libgnutls28-dev
 libgnutlsxx28
 libgpg-error-dev
+libgssapi3-heimdal
 libgvpr2
 libicu-dev
 libidn11-dev
