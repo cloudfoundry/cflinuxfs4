@@ -1,4 +1,4 @@
-Rootfs SHASUM: 144474f86e4b2f941410c326fcca3bb9ebeb9c0abbef947729c0b70307089a3c
+Rootfs SHASUM: d5543f674137efd3211e7a92e8b02b6385b88bc8fadbd94cec5ae14b1ea1d8c2
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -440,7 +440,7 @@ ii  libstdc++6:amd64                  12.3.0-1ubuntu1~22.04                   am
 ii  libsvn1:amd64                     1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
 ii  libswresample3:amd64              7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                   2.1.1-1build1                           amd64        interface library to sysfs - shared library
-ii  libsystemd0:amd64                 249.11-0ubuntu3.10                      amd64        systemd utility library
+ii  libsystemd0:amd64                 249.11-0ubuntu3.11                      amd64        systemd utility library
 ii  libtalloc2:amd64                  2.3.3-2build1                           amd64        hierarchical pool based memory allocator
 ii  libtasn1-6:amd64                  4.18.0-4build1                          amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64              4.18.0-4build1                          amd64        Manage ASN.1 structures (development)
@@ -462,7 +462,7 @@ ii  libtirpc3:amd64                   1.3.2-2ubuntu0.1                        am
 ii  libtsan0:amd64                    11.4.0-1ubuntu1~22.04                   amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.3.0-1ubuntu1~22.04                   amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                    249.11-0ubuntu3.10                      amd64        libudev shared library
+ii  libudev1:amd64                    249.11-0ubuntu3.11                      amd64        libudev shared library
 ii  libunbound8:amd64                 1.13.1-1ubuntu5.3                       amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64               1.0-1                                   amd64        Unicode string library for C
 ii  libunwind8:amd64                  1.3.2-2build2.1                         amd64        library to determine the call-chain of a program - runtime
@@ -582,8 +582,8 @@ ii  strace                            5.16-0ubuntu3                           am
 ii  subversion                        1.14.1-3ubuntu0.22.04.1                 amd64        Advanced version control system
 ii  sudo                              1.9.9-1ubuntu2.4                        amd64        Provide limited super user privileges to specific users
 ii  sysstat                           12.5.2-2ubuntu0.2                       amd64        system performance tools for Linux
-ii  systemd                           249.11-0ubuntu3.10                      amd64        system and service manager
-ii  systemd-sysv                      249.11-0ubuntu3.10                      amd64        system and service manager - SysV links
+ii  systemd                           249.11-0ubuntu3.11                      amd64        system and service manager
+ii  systemd-sysv                      249.11-0ubuntu3.11                      amd64        system and service manager - SysV links
 ii  sysvinit-utils                    3.01-1ubuntu1                           amd64        System-V-like utilities
 ii  tar                               1.34+dfsg-1ubuntu0.1.22.04.1            amd64        GNU version of the tar archiving utility
 ii  tasksel                           3.68ubuntu2                             all          tool for selecting tasks for installation on Debian systems
@@ -593,15 +593,15 @@ ii  traceroute                        1:2.1.0-2                               am
 ii  tzdata                            2023c-0ubuntu0.22.04.2                  all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043                                  all          Update Configuration File(s): preserve user changes to config files
-ii  udev                              249.11-0ubuntu3.10                      amd64        /dev/ and hotplug management daemon
+ii  udev                              249.11-0ubuntu3.11                      amd64        /dev/ and hotplug management daemon
 ii  unixodbc-common                   2.3.9-5                                 all          Common ODBC configuration files
 ii  unixodbc-dev:amd64                2.3.9-5                                 amd64        ODBC libraries for Unix (development files)
 ii  unzip                             6.0-26ubuntu3.1                         amd64        De-archiver for .zip files
 ii  usrmerge                          25ubuntu2                               all          Convert the system to the merged /usr directories scheme
 ii  util-linux                        2.37.2-4ubuntu3                         amd64        miscellaneous system utilities
 ii  uuid-dev:amd64                    2.37.2-4ubuntu3                         amd64        Universally Unique ID library - headers and static libraries
-ii  vim-common                        2:8.2.3995-1ubuntu2.12                  all          Vi IMproved - Common files
-ii  vim-tiny                          2:8.2.3995-1ubuntu2.12                  amd64        Vi IMproved - enhanced vi editor - compact version
+ii  vim-common                        2:8.2.3995-1ubuntu2.13                  all          Vi IMproved - Common files
+ii  vim-tiny                          2:8.2.3995-1ubuntu2.13                  amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wget                              1.21.2-2ubuntu1                         amd64        retrieves files from the web
 ii  whiptail                          0.52.21-5ubuntu2                        amd64        Displays user-friendly dialog boxes from shell scripts
 ii  x11-common                        1:7.7+23ubuntu2                         all          X Window System (X.Org) infrastructure
@@ -609,7 +609,7 @@ ii  x11proto-dev                      2021.5-1                                al
 ii  xkb-data                          2.33-1                                  all          X Keyboard Extension (XKB) configuration data
 ii  xorg-sgml-doctools                1:1.11-1.1                              all          Common tools for building X.Org SGML documentation
 ii  xtrans-dev                        1.4.0-1                                 all          X transport library (development files)
-ii  xxd                               2:8.2.3995-1ubuntu2.12                  amd64        tool to make (or reverse) a hex dump
+ii  xxd                               2:8.2.3995-1ubuntu2.13                  amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                          5.2.5-2ubuntu1                          amd64        XZ-format compression utilities
 ii  zip                               3.0-12build2                            amd64        Archiver for .zip files
 ii  zlib1g:amd64                      1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - runtime
