@@ -1,4 +1,4 @@
-Rootfs SHASUM: d5543f674137efd3211e7a92e8b02b6385b88bc8fadbd94cec5ae14b1ea1d8c2
+Rootfs SHASUM: b17ccce8e54f4438efcec9e81204b1c3f0e15d7b6a3fd18cf94a03e12a0462e8
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -16,9 +16,9 @@ ii  autotools-dev                     20220109.1                              al
 ii  base-files                        12ubuntu4.4                             amd64        Debian base system miscellaneous files
 ii  base-passwd                       3.5.52build1                            amd64        Debian base system master password and group files
 ii  bash                              5.1-6ubuntu1                            amd64        GNU Bourne Again SHell
-ii  bind9-dnsutils                    1:9.18.12-0ubuntu0.22.04.3              amd64        Clients provided with BIND 9
-ii  bind9-host                        1:9.18.12-0ubuntu0.22.04.3              amd64        DNS Lookup Utility
-ii  bind9-libs:amd64                  1:9.18.12-0ubuntu0.22.04.3              amd64        Shared Libraries used by BIND 9
+ii  bind9-dnsutils                    1:9.18.18-0ubuntu0.22.04.1              amd64        Clients provided with BIND 9
+ii  bind9-host                        1:9.18.18-0ubuntu0.22.04.1              amd64        DNS Lookup Utility
+ii  bind9-libs:amd64                  1:9.18.18-0ubuntu0.22.04.1              amd64        Shared Libraries used by BIND 9
 ii  binutils                          2.38-4ubuntu2.3                         amd64        GNU assembler, linker and binary utilities
 ii  binutils-common:amd64             2.38-4ubuntu2.3                         amd64        Common files for the GNU assembler, linker and binary utilities
 ii  binutils-x86-64-linux-gnu         2.38-4ubuntu2.3                         amd64        GNU binary utilities, for x86-64-linux-gnu target
@@ -45,7 +45,7 @@ ii  dh-elpa-helper                    2.0.9ubuntu1                            al
 ii  diffutils                         1:3.8-0ubuntu2                          amd64        File comparison utilities
 ii  distro-info                       1.1ubuntu0.1                            amd64        provides information about the distributions' releases
 ii  distro-info-data                  0.52ubuntu0.5                           all          information about the distributions' releases (data files)
-ii  dnsutils                          1:9.18.12-0ubuntu0.22.04.3              all          Transitional package for bind9-dnsutils
+ii  dnsutils                          1:9.18.18-0ubuntu0.22.04.1              all          Transitional package for bind9-dnsutils
 ii  dpkg                              1.21.1ubuntu2.2                         amd64        Debian package management system
 ii  dpkg-dev                          1.21.1ubuntu2.2                         all          Debian package development tools
 ii  e2fsprogs                         1.46.5-2ubuntu1.1                       amd64        ext2/ext3/ext4 file system utilities
@@ -528,7 +528,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-87.97                            amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-88.98                            amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.4                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.1                      amd64        system login tools
