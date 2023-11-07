@@ -1,4 +1,4 @@
-Rootfs SHASUM: b17ccce8e54f4438efcec9e81204b1c3f0e15d7b6a3fd18cf94a03e12a0462e8
+Rootfs SHASUM: 31ed5d5073e9fa69bca9f9cbfb0921a4693948edc8cf69d2c7dfa2a454d04c96
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -98,8 +98,8 @@ ii  kbd                               2.3.0-3ubuntu4.22.04                    am
 ii  keyboard-configuration            1.205ubuntu3                            all          system-wide keyboard preferences
 ii  kmod                              29-1ubuntu1                             amd64        tools for managing Linux kernel modules
 ii  krb5-config                       2.6+nmu1ubuntu1                         all          Configuration files for Kerberos Version 5
-ii  krb5-multidev:amd64               1.19.2-2ubuntu0.2                       amd64        development files for MIT Kerberos without Heimdal conflict
-ii  krb5-user                         1.19.2-2ubuntu0.2                       amd64        basic programs to authenticate using MIT Kerberos
+ii  krb5-multidev:amd64               1.19.2-2ubuntu0.3                       amd64        development files for MIT Kerberos without Heimdal conflict
+ii  krb5-user                         1.19.2-2ubuntu0.3                       amd64        basic programs to authenticate using MIT Kerberos
 ii  less                              590-1ubuntu0.22.04.1                    amd64        pager program similar to more
 ii  libacl1:amd64                     2.3.1-1                                 amd64        access control list - shared library
 ii  libaio1:amd64                     0.3.112-13build1                        amd64        Linux kernel AIO access library - shared library
@@ -232,9 +232,9 @@ ii  libgpg-error-dev                  1.43-3                                  am
 ii  libgpg-error0:amd64               1.43-3                                  amd64        GnuPG development runtime library
 ii  libgraphite2-3:amd64              1.3.14-1build2                          amd64        Font rendering engine for Complex Scripts -- library
 ii  libgsm1:amd64                     1.0.19-1                                amd64        Shared libraries for GSM speech compressor
-ii  libgssapi-krb5-2:amd64            1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii  libgssapi-krb5-2:amd64            1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii  libgssapi3-heimdal:amd64          7.7.0+dfsg-3ubuntu1                     amd64        Heimdal Kerberos - GSSAPI support library
-ii  libgssrpc4:amd64                  1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries - GSS enabled ONCRPC
+ii  libgssrpc4:amd64                  1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries - GSS enabled ONCRPC
 ii  libgts-0.7-5:amd64                0.7.6+darcs121130-5                     amd64        library to deal with 3D computational surface meshes
 ii  libgvc6                           2.42.2-6                                amd64        rich set of graph drawing tools - gvc library
 ii  libgvpr2:amd64                    2.42.2-6                                amd64        rich set of graph drawing tools - gvpr library
@@ -271,16 +271,16 @@ ii  libjpeg8-dev:amd64                8c-2ubuntu10                            am
 ii  libjq1:amd64                      1.6-2.1ubuntu3                          amd64        lightweight and flexible command-line JSON processor - shared library
 ii  libjson-c5:amd64                  0.15-3~ubuntu1.22.04.2                  amd64        JSON manipulation library - shared library
 ii  libjsoncpp25:amd64                1.9.5-3                                 amd64        library for reading and writing JSON for C++
-ii  libk5crypto3:amd64                1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries - Crypto Library
-ii  libkadm5clnt-mit12:amd64          1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries - Administration Clients
-ii  libkadm5srv-mit12:amd64           1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries - KDC and Admin Server
-ii  libkdb5-10:amd64                  1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries - Kerberos database
+ii  libk5crypto3:amd64                1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries - Crypto Library
+ii  libkadm5clnt-mit12:amd64          1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries - Administration Clients
+ii  libkadm5srv-mit12:amd64           1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries - KDC and Admin Server
+ii  libkdb5-10:amd64                  1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries - Kerberos database
 ii  libkeyutils1:amd64                1.6.1-2ubuntu3                          amd64        Linux Key Management Utilities (library)
 ii  libkmod2:amd64                    29-1ubuntu1                             amd64        libkmod shared library
 ii  libkrb5-26-heimdal:amd64          7.7.0+dfsg-3ubuntu1                     amd64        Heimdal Kerberos - libraries
-ii  libkrb5-3:amd64                   1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries
-ii  libkrb5-dev:amd64                 1.19.2-2ubuntu0.2                       amd64        headers and development libraries for MIT Kerberos
-ii  libkrb5support0:amd64             1.19.2-2ubuntu0.2                       amd64        MIT Kerberos runtime libraries - Support library
+ii  libkrb5-3:amd64                   1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries
+ii  libkrb5-dev:amd64                 1.19.2-2ubuntu0.3                       amd64        headers and development libraries for MIT Kerberos
+ii  libkrb5support0:amd64             1.19.2-2ubuntu0.3                       amd64        MIT Kerberos runtime libraries - Support library
 ii  liblab-gamut1:amd64               2.42.2-6                                amd64        rich set of graph drawing tools - liblab_gamut library
 ii  liblapack-dev:amd64               3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - static version
 ii  liblapack3:amd64                  3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - shared version
