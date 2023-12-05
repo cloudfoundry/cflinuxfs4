@@ -1,4 +1,4 @@
-Rootfs SHASUM: 1291243861bff80549ac8eebd824335e9351b00ad29841aafd0d17937cbd8470
+Rootfs SHASUM: 2ada942509d6ecab1d9dd445bbee785ee15977297378c7bf60cc0114a1e8320f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -83,7 +83,7 @@ ii  gzip                              1.10-4ubuntu4.1                         am
 ii  hicolor-icon-theme                0.17-2                                  all          default fallback theme for FreeDesktop.org icon themes
 ii  hostname                          3.23ubuntu2                             amd64        utility to set/show the host name or domain name
 ii  icu-devtools                      70.1-2                                  amd64        Development utilities for International Components for Unicode
-ii  ifupdown                          0.8.36+nmu1ubuntu3                      amd64        high level tools to configure network interfaces
+ii  ifupdown                          0.8.36+nmu1ubuntu3.1                    amd64        high level tools to configure network interfaces
 ii  imagemagick                       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        image manipulation programs -- binaries
 ii  imagemagick-6-common              8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     all          image manipulation programs -- infrastructure
 ii  imagemagick-6.q16                 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        image manipulation programs -- quantum depth Q16
@@ -389,9 +389,9 @@ ii  libproxy1v5:amd64                 0.4.17-2                                am
 ii  libpsl5:amd64                     0.21.0-1.2build2                        amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64       0.4-1build2                             amd64        pthread stubs not provided by native libc, development files
 ii  libpython3-stdlib:amd64           3.10.6-1~22.04                          amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.10:amd64               3.10.12-1~22.04.2                       amd64        Shared Python runtime library (version 3.10)
-ii  libpython3.10-minimal:amd64       3.10.12-1~22.04.2                       amd64        Minimal subset of the Python language (version 3.10)
-ii  libpython3.10-stdlib:amd64        3.10.12-1~22.04.2                       amd64        Interactive high-level object-oriented language (standard library, version 3.10)
+ii  libpython3.10:amd64               3.10.12-1~22.04.3                       amd64        Shared Python runtime library (version 3.10)
+ii  libpython3.10-minimal:amd64       3.10.12-1~22.04.3                       amd64        Minimal subset of the Python language (version 3.10)
+ii  libpython3.10-stdlib:amd64        3.10.12-1~22.04.3                       amd64        Interactive high-level object-oriented language (standard library, version 3.10)
 ii  libquadmath0:amd64                12.3.0-1ubuntu1~22.04                   amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64             8.1.2-1                                 amd64        GNU readline and history libraries, development files
 ii  libreadline8:amd64                8.1.2-1                                 amd64        GNU readline and history libraries, run-time libraries
