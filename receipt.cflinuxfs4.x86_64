@@ -1,4 +1,4 @@
-Rootfs SHASUM: b5ea276135330bf565b74b9e5d62a07fec68bace8bb320c1cfcf36ede35c4390
+Rootfs SHASUM: 8be456618ad33116d07c9dab0802af197be48adcc2529c53385242b277e3d725
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -382,8 +382,8 @@ ii  libpixman-1-dev:amd64             0.40.0-1ubuntu0.22.04.1                 am
 ii  libpng-dev:amd64                  1.6.37-3build5                          amd64        PNG library - development (version 1.6)
 ii  libpng16-16:amd64                 1.6.37-3build5                          amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                    1.18-3build1                            amd64        lib for parsing cmdline parameters
-ii  libpq-dev                         14.9-0ubuntu0.22.04.1                   amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                      14.9-0ubuntu0.22.04.1                   amd64        PostgreSQL C client library
+ii  libpq-dev                         14.10-0ubuntu0.22.04.1                  amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                      14.10-0ubuntu0.22.04.1                  amd64        PostgreSQL C client library
 ii  libprocps8:amd64                  2:3.3.17-6ubuntu2.1                     amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                 0.4.17-2                                amd64        automatic proxy configuration management library (shared)
 ii  libpsl5:amd64                     0.21.0-1.2build2                        amd64        Library for Public Suffix List (shared libraries)
