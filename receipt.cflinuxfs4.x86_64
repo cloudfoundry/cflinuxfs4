@@ -1,4 +1,4 @@
-Rootfs SHASUM: 06f809caaefa12fb93dcf6ccc7f2d9dc2364b23150ae852bf4f1164074d0be63
+Rootfs SHASUM: 2ee0e4332a717300c986d1ec645193d329b26393e56fb7597cb0f683d701866f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -357,10 +357,10 @@ ii  liborc-0.4-0:amd64                1:0.4.32-2                              am
 ii  libp11-kit-dev:amd64              0.24.0-6build1                          amd64        library for loading and coordinating access to PKCS#11 modules - development
 ii  libp11-kit0:amd64                 0.24.0-6build1                          amd64        library for loading and coordinating access to PKCS#11 modules - runtime
 ii  libpam-cap:amd64                  1:2.44-1ubuntu0.22.04.1                 amd64        POSIX 1003.1e capabilities (PAM module)
-ii  libpam-modules:amd64              1.4.0-11ubuntu2.3                       amd64        Pluggable Authentication Modules for PAM
-ii  libpam-modules-bin                1.4.0-11ubuntu2.3                       amd64        Pluggable Authentication Modules for PAM - helper binaries
-ii  libpam-runtime                    1.4.0-11ubuntu2.3                       all          Runtime support for the PAM library
-ii  libpam0g:amd64                    1.4.0-11ubuntu2.3                       amd64        Pluggable Authentication Modules library
+ii  libpam-modules:amd64              1.4.0-11ubuntu2.4                       amd64        Pluggable Authentication Modules for PAM
+ii  libpam-modules-bin                1.4.0-11ubuntu2.4                       amd64        Pluggable Authentication Modules for PAM - helper binaries
+ii  libpam-runtime                    1.4.0-11ubuntu2.4                       all          Runtime support for the PAM library
+ii  libpam0g:amd64                    1.4.0-11ubuntu2.4                       amd64        Pluggable Authentication Modules library
 ii  libpango-1.0-0:amd64              1.50.6+ds-2ubuntu1                      amd64        Layout and rendering of internationalized text
 ii  libpangocairo-1.0-0:amd64         1.50.6+ds-2ubuntu1                      amd64        Layout and rendering of internationalized text
 ii  libpangoft2-1.0-0:amd64           1.50.6+ds-2ubuntu1                      amd64        Layout and rendering of internationalized text
@@ -590,7 +590,7 @@ ii  tasksel                           3.68ubuntu2                             al
 ii  tasksel-data                      3.68ubuntu2                             all          official tasks used for installation of Debian systems
 ii  tcpdump                           4.99.1-3ubuntu0.1                       amd64        command-line network traffic analyzer
 ii  traceroute                        1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
-ii  tzdata                            2023c-0ubuntu0.22.04.2                  all          time zone and daylight-saving time data
+ii  tzdata                            2023d-0ubuntu0.22.04                    all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043                                  all          Update Configuration File(s): preserve user changes to config files
 ii  udev                              249.11-0ubuntu3.11                      amd64        /dev/ and hotplug management daemon
