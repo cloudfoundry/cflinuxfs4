@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5c7e7f79e18af240243fec6d5190c4820d6f82ebc6235ac809625319a3ec7b35
+Rootfs SHASUM: 39c8d71e1e0f6ffc222314e94a8ed7c1c6ac04e1a5e67cd0e0a59048b9a3c0c9
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -286,10 +286,10 @@ ii  liblapack-dev:amd64               3.10.0-2ubuntu1                         am
 ii  liblapack3:amd64                  3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                  2.12~rc1-2build2                        amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                2.12~rc1-2build2                        amd64        Little CMS 2 color management library development headers
-ii  libldap-2.5-0:amd64               2.5.16+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP libraries
-ii  libldap-common                    2.5.16+dfsg-0ubuntu0.22.04.1            all          OpenLDAP common files for libraries
-ii  libldap-dev:amd64                 2.5.16+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP development libraries
-ii  libldap2-dev                      2.5.16+dfsg-0ubuntu0.22.04.1            all          transitional package for libldap-dev
+ii  libldap-2.5-0:amd64               2.5.16+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP libraries
+ii  libldap-common                    2.5.16+dfsg-0ubuntu0.22.04.2            all          OpenLDAP common files for libraries
+ii  libldap-dev:amd64                 2.5.16+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP development libraries
+ii  libldap2-dev                      2.5.16+dfsg-0ubuntu0.22.04.2            all          transitional package for libldap-dev
 ii  libllvm14:amd64                   1:14.0.0-1ubuntu1.1                     amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblmdb0:amd64                    0.9.24-1build2                          amd64        Lightning Memory-Mapped Database shared library
 ii  liblocale-gettext-perl            1.07-4build3                            amd64        module using libc functions for internationalization in Perl
@@ -310,9 +310,9 @@ ii  libmagic-mgc                      1:5.41-3ubuntu0.1                       am
 ii  libmagic1:amd64                   1:5.41-3ubuntu0.1                       amd64        Recognize the type of data in a file using "magic" numbers - library
 ii  libmagickcore-6.q16-6:amd64       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        low-level image manipulation library -- quantum depth Q16
 ii  libmagickwand-6.q16-6:amd64       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        image manipulation library -- quantum depth Q16
-ii  libmariadb-dev                    1:10.6.12-0ubuntu0.22.04.1              amd64        MariaDB database development files
-ii  libmariadb-dev-compat:amd64       1:10.6.12-0ubuntu0.22.04.1              amd64        MariaDB Connector/C, compatibility symlinks
-ii  libmariadb3:amd64                 1:10.6.12-0ubuntu0.22.04.1              amd64        MariaDB database client library
+ii  libmariadb-dev                    1:10.6.16-0ubuntu0.22.04.1              amd64        MariaDB database development files
+ii  libmariadb-dev-compat:amd64       1:10.6.16-0ubuntu0.22.04.1              amd64        MariaDB Connector/C, compatibility symlinks
+ii  libmariadb3:amd64                 1:10.6.16-0ubuntu0.22.04.1              amd64        MariaDB database client library
 ii  libmaxminddb0:amd64               1.5.2-1build2                           amd64        IP geolocation database library
 ii  libmd0:amd64                      1.0.4-1build1                           amd64        message digest functions from BSD systems - shared library
 ii  libmfx1:amd64                     22.3.0-1                                amd64        Intel Media SDK -- shared library
@@ -433,8 +433,8 @@ ii  libsqlite3-0:amd64                3.37.2-2ubuntu0.3                       am
 ii  libsqlite3-dev:amd64              3.37.2-2ubuntu0.3                       amd64        SQLite 3 development files
 ii  libss2:amd64                      1.46.5-2ubuntu1.1                       amd64        command-line interface parsing library
 ii  libssh-4:amd64                    0.9.6-2ubuntu0.22.04.3                  amd64        tiny C SSH library (OpenSSL flavor)
-ii  libssl-dev:amd64                  3.0.2-0ubuntu1.12                       amd64        Secure Sockets Layer toolkit - development files
-ii  libssl3:amd64                     3.0.2-0ubuntu1.12                       amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl-dev:amd64                  3.0.2-0ubuntu1.14                       amd64        Secure Sockets Layer toolkit - development files
+ii  libssl3:amd64                     3.0.2-0ubuntu1.14                       amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-11-dev:amd64            11.4.0-1ubuntu1~22.04                   amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                  12.3.0-1ubuntu1~22.04                   amd64        GNU Standard C++ Library v3
 ii  libsvn1:amd64                     1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
@@ -528,7 +528,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-91.101                           amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-92.102                           amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.6                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.1                      amd64        system login tools
@@ -542,7 +542,7 @@ ii  m4                                1.4.18-5ubuntu2                         am
 ii  make                              4.3-4.1build1                           amd64        utility for directing compilation
 ii  manpages                          5.10-1ubuntu1                           all          Manual pages about using a GNU/Linux system
 ii  manpages-dev                      5.10-1ubuntu1                           all          Manual pages about using GNU/Linux for development
-ii  mariadb-common                    1:10.6.12-0ubuntu0.22.04.1              all          MariaDB common configuration files
+ii  mariadb-common                    1:10.6.16-0ubuntu0.22.04.1              all          MariaDB common configuration files
 ii  mawk                              1.3.4.20200120-3                        amd64        Pattern scanning and text processing language
 ii  media-types                       7.0.0                                   all          List of standard media types and their usual file extension
 ii  mount                             2.37.2-4ubuntu3                         amd64        tools for mounting and manipulating filesystems
@@ -561,7 +561,7 @@ ii  odbcinst1debian2:amd64            2.3.9-5                                 am
 ii  openssh-client                    1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                    1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server               1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii  openssl                           3.0.2-0ubuntu1.12                       amd64        Secure Sockets Layer toolkit - cryptographic utility
+ii  openssl                           3.0.2-0ubuntu1.14                       amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                            1:4.8.1-2ubuntu2.1                      amd64        change and administer password and group data
 ii  patch                             2.7.6-7build2                           amd64        Apply a diff file to an original
 ii  perl                              5.34.0-3ubuntu1.3                       amd64        Larry Wall's Practical Extraction and Report Language
