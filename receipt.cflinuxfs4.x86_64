@@ -1,4 +1,4 @@
-Rootfs SHASUM: 458c0b598f87e7aaecfb1f98d7f2d78757067db0be91032ddc2a188623420c0e
+Rootfs SHASUM: 21843b580934f8ac1760893c75c7126cb4c9f84304b982406fb649b0de3644e3
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -100,7 +100,7 @@ ii  kmod                              29-1ubuntu1                             am
 ii  krb5-config                       2.6+nmu1ubuntu1                         all          Configuration files for Kerberos Version 5
 ii  krb5-multidev:amd64               1.19.2-2ubuntu0.3                       amd64        development files for MIT Kerberos without Heimdal conflict
 ii  krb5-user                         1.19.2-2ubuntu0.3                       amd64        basic programs to authenticate using MIT Kerberos
-ii  less                              590-1ubuntu0.22.04.1                    amd64        pager program similar to more
+ii  less                              590-1ubuntu0.22.04.2                    amd64        pager program similar to more
 ii  libacl1:amd64                     2.3.1-1                                 amd64        access control list - shared library
 ii  libaio1:amd64                     0.3.112-13build1                        amd64        Linux kernel AIO access library - shared library
 ii  libann0                           1.1.2+doc-7build1                       amd64        Approximate Nearest Neighbor Searching library
