@@ -1,4 +1,4 @@
-Rootfs SHASUM: fa0bad45c9ca333e66fb908f5e8c73743c45b53c185989f124eedcb84cbca4ea
+Rootfs SHASUM: 0a7ac691d1cae08c1a2ccbbc26f7b813bc527a338021570c32d85329a6b10b2a
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -463,13 +463,13 @@ ii  libtsan0:amd64                    11.4.0-1ubuntu1~22.04                   am
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.3.0-1ubuntu1~22.04                   amd64        UBSan -- undefined behaviour sanitizer (runtime)
 ii  libudev1:amd64                    249.11-0ubuntu3.12                      amd64        libudev shared library
-ii  libunbound8:amd64                 1.13.1-1ubuntu5.3                       amd64        library implementing DNS resolution and validation
+ii  libunbound8:amd64                 1.13.1-1ubuntu5.4                       amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64               1.0-1                                   amd64        Unicode string library for C
 ii  libunwind8:amd64                  1.3.2-2build2.1                         amd64        library to determine the call-chain of a program - runtime
 ii  libustr-1.0-1:amd64               1.0.4-6                                 amd64        Micro string library: shared library
 ii  libutf8proc2:amd64                2.7.0-3                                 amd64        C library for processing UTF-8 Unicode data (shared library)
 ii  libuuid1:amd64                    2.37.2-4ubuntu3                         amd64        Universally Unique ID library
-ii  libuv1:amd64                      1.43.0-1                                amd64        asynchronous event notification library - runtime library
+ii  libuv1:amd64                      1.43.0-1ubuntu0.1                       amd64        asynchronous event notification library - runtime library
 ii  libva-drm2:amd64                  2.14.0-1                                amd64        Video Acceleration (VA) API for Linux -- DRM runtime
 ii  libva-x11-2:amd64                 2.14.0-1                                amd64        Video Acceleration (VA) API for Linux -- X11 runtime
 ii  libva2:amd64                      2.14.0-1                                amd64        Video Acceleration (VA) API for Linux -- runtime
