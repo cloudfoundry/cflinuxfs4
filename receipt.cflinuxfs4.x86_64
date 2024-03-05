@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0a7ac691d1cae08c1a2ccbbc26f7b813bc527a338021570c32d85329a6b10b2a
+Rootfs SHASUM: 4e3b8e7c916df0c9cc1c5c54e788fce34b051dcb16952c770806b3cc921511f4
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -590,7 +590,7 @@ ii  tasksel                           3.68ubuntu2                             al
 ii  tasksel-data                      3.68ubuntu2                             all          official tasks used for installation of Debian systems
 ii  tcpdump                           4.99.1-3ubuntu0.2                       amd64        command-line network traffic analyzer
 ii  traceroute                        1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
-ii  tzdata                            2023d-0ubuntu0.22.04                    all          time zone and daylight-saving time data
+ii  tzdata                            2024a-0ubuntu0.22.04                    all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043                                  all          Update Configuration File(s): preserve user changes to config files
 ii  udev                              249.11-0ubuntu3.12                      amd64        /dev/ and hotplug management daemon
