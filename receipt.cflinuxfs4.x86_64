@@ -1,4 +1,4 @@
-Rootfs SHASUM: a09249f7db64263a379757f3088fa40af3f05482d9c4b7c19b555b95a2d41904
+Rootfs SHASUM: 8729675d8fb3be9f7b3c84e1811fa62ffb16868ddad0d728e6c12b73badb9f85
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -15,7 +15,7 @@ ii  automake                          1:1.16.5-1.3                            al
 ii  autotools-dev                     20220109.1                              all          Update infrastructure for config.{guess,sub} files
 ii  base-files                        12ubuntu4.6                             amd64        Debian base system miscellaneous files
 ii  base-passwd                       3.5.52build1                            amd64        Debian base system master password and group files
-ii  bash                              5.1-6ubuntu1                            amd64        GNU Bourne Again SHell
+ii  bash                              5.1-6ubuntu1.1                          amd64        GNU Bourne Again SHell
 ii  bind9-dnsutils                    1:9.18.18-0ubuntu0.22.04.2              amd64        Clients provided with BIND 9
 ii  bind9-host                        1:9.18.18-0ubuntu0.22.04.2              amd64        DNS Lookup Utility
 ii  bind9-libs:amd64                  1:9.18.18-0ubuntu0.22.04.2              amd64        Shared Libraries used by BIND 9
@@ -286,10 +286,10 @@ ii  liblapack-dev:amd64               3.10.0-2ubuntu1                         am
 ii  liblapack3:amd64                  3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                  2.12~rc1-2build2                        amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                2.12~rc1-2build2                        amd64        Little CMS 2 color management library development headers
-ii  libldap-2.5-0:amd64               2.5.16+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP libraries
-ii  libldap-common                    2.5.16+dfsg-0ubuntu0.22.04.2            all          OpenLDAP common files for libraries
-ii  libldap-dev:amd64                 2.5.16+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP development libraries
-ii  libldap2-dev                      2.5.16+dfsg-0ubuntu0.22.04.2            all          transitional package for libldap-dev
+ii  libldap-2.5-0:amd64               2.5.17+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP libraries
+ii  libldap-common                    2.5.17+dfsg-0ubuntu0.22.04.1            all          OpenLDAP common files for libraries
+ii  libldap-dev:amd64                 2.5.17+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP development libraries
+ii  libldap2-dev                      2.5.17+dfsg-0ubuntu0.22.04.1            all          transitional package for libldap-dev
 ii  libllvm14:amd64                   1:14.0.0-1ubuntu1.1                     amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblmdb0:amd64                    0.9.24-1build2                          amd64        Lightning Memory-Mapped Database shared library
 ii  liblocale-gettext-perl            1.07-4build3                            amd64        module using libc functions for internationalization in Perl
@@ -528,7 +528,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-100.110                          amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-101.111                          amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.6                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.2                      amd64        system login tools
