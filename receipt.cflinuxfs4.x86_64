@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9104128dee27574a0ffc325e86215e0570940f8663a4e3891831a52f129a0882
+Rootfs SHASUM: 1e25e13ecd30d25b2e6d08f7630588dd8082d7fdaa0e6f3f139e3469f26ee94e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -339,9 +339,9 @@ ii  libnl-genl-3-200:amd64            3.5.0-0.1                               am
 ii  libnsl-dev:amd64                  1.3.0-2build2                           amd64        libnsl development files
 ii  libnsl2:amd64                     1.3.0-2build2                           amd64        Public client interface for NIS(YP) and NIS+
 ii  libnuma1:amd64                    2.0.14-3ubuntu2                         amd64        Libraries for controlling NUMA policy
-ii  libodbc2:amd64                    2.3.9-5                                 amd64        ODBC Driver Manager library for Unix
-ii  libodbccr2:amd64                  2.3.9-5                                 amd64        ODBC Cursor library for Unix
-ii  libodbcinst2:amd64                2.3.9-5                                 amd64        Support library for accessing ODBC configuration files
+ii  libodbc2:amd64                    2.3.9-5ubuntu0.1                        amd64        ODBC Driver Manager library for Unix
+ii  libodbccr2:amd64                  2.3.9-5ubuntu0.1                        amd64        ODBC Cursor library for Unix
+ii  libodbcinst2:amd64                2.3.9-5ubuntu0.1                        amd64        Support library for accessing ODBC configuration files
 ii  libogg0:amd64                     1.3.5-0ubuntu3                          amd64        Ogg bitstream library
 ii  libonig5:amd64                    6.9.7.1-2build1                         amd64        regular expressions library
 ii  libopenblas-dev:amd64             0.3.20+ds-1                             amd64        Optimized BLAS (linear algebra) library (dev, meta)
@@ -556,8 +556,8 @@ ii  nettle-dev:amd64                  3.7.3-1build2                           am
 ii  ocaml-base                        4.13.1-3ubuntu1                         amd64        Runtime system for OCaml bytecode executables
 ii  ocaml-base-nox                    4.13.1-3ubuntu1                         all          transitional package for ocaml-base
 ii  ocl-icd-libopencl1:amd64          2.2.14-3                                amd64        Generic OpenCL ICD Loader
-ii  odbcinst                          2.3.9-5                                 amd64        Helper program for accessing ODBC configuration files
-ii  odbcinst1debian2:amd64            2.3.9-5                                 amd64        Support library for accessing ODBC configuration files (transitional package)
+ii  odbcinst                          2.3.9-5ubuntu0.1                        amd64        Helper program for accessing ODBC configuration files
+ii  odbcinst1debian2:amd64            2.3.9-5ubuntu0.1                        amd64        Support library for accessing ODBC configuration files (transitional package)
 ii  openssh-client                    1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                    1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server               1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
@@ -594,8 +594,8 @@ ii  tzdata                            2024a-0ubuntu0.22.04                    al
 ii  ubuntu-keyring                    2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043                                  all          Update Configuration File(s): preserve user changes to config files
 ii  udev                              249.11-0ubuntu3.12                      amd64        /dev/ and hotplug management daemon
-ii  unixodbc-common                   2.3.9-5                                 all          Common ODBC configuration files
-ii  unixodbc-dev:amd64                2.3.9-5                                 amd64        ODBC libraries for Unix (development files)
+ii  unixodbc-common                   2.3.9-5ubuntu0.1                        all          Common ODBC configuration files
+ii  unixodbc-dev:amd64                2.3.9-5ubuntu0.1                        amd64        ODBC libraries for Unix (development files)
 ii  unzip                             6.0-26ubuntu3.2                         amd64        De-archiver for .zip files
 ii  usrmerge                          25ubuntu2                               all          Convert the system to the merged /usr directories scheme
 ii  util-linux                        2.37.2-4ubuntu3.3                       amd64        miscellaneous system utilities
