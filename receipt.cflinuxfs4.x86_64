@@ -1,4 +1,4 @@
-Rootfs SHASUM: 965e571753a2be1e1f6c120fb6fd8c878b0e49f759415be1ade1d7a55011dde8
+Rootfs SHASUM: 7b608f7d9fa54eeed70cf597730d421e821c94d1969669662e8eec47d4e04efc
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -558,9 +558,9 @@ ii  ocaml-base-nox                    4.13.1-3ubuntu1                         al
 ii  ocl-icd-libopencl1:amd64          2.2.14-3                                amd64        Generic OpenCL ICD Loader
 ii  odbcinst                          2.3.9-5ubuntu0.1                        amd64        Helper program for accessing ODBC configuration files
 ii  odbcinst1debian2:amd64            2.3.9-5ubuntu0.1                        amd64        Support library for accessing ODBC configuration files (transitional package)
-ii  openssh-client                    1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) client, for secure access to remote machines
-ii  openssh-server                    1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) server, for secure access from remote machines
-ii  openssh-sftp-server               1:8.9p1-3ubuntu0.6                      amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii  openssh-client                    1:8.9p1-3ubuntu0.7                      amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                    1:8.9p1-3ubuntu0.7                      amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssh-sftp-server               1:8.9p1-3ubuntu0.7                      amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii  openssl                           3.0.2-0ubuntu1.15                       amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                            1:4.8.1-2ubuntu2.2                      amd64        change and administer password and group data
 ii  patch                             2.7.6-7build2                           amd64        Apply a diff file to an original
