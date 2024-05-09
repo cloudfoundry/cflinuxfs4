@@ -1,4 +1,4 @@
-Rootfs SHASUM: 88d967409e90e5754820dd2c7c165016a2f97a247a7d72b9256e16e082d83400
+Rootfs SHASUM: e7cd2bde2f77510e26ec1c87225fdfc79e4f09435fe75ce6d13d47cf5ae22bf2
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -44,7 +44,7 @@ ii  debianutils                       5.5-1ubuntu2                            am
 ii  dh-elpa-helper                    2.0.9ubuntu1                            all          helper package for emacs lisp extensions
 ii  diffutils                         1:3.8-0ubuntu2                          amd64        File comparison utilities
 ii  distro-info                       1.1ubuntu0.2                            amd64        provides information about the distributions' releases
-ii  distro-info-data                  0.52ubuntu0.6                           all          information about the distributions' releases (data files)
+ii  distro-info-data                  0.52ubuntu0.7                           all          information about the distributions' releases (data files)
 ii  dnsutils                          1:9.18.18-0ubuntu0.22.04.2              all          Transitional package for bind9-dnsutils
 ii  dpkg                              1.21.1ubuntu2.3                         amd64        Debian package management system
 ii  dpkg-dev                          1.21.1ubuntu2.3                         all          Debian package development tools
@@ -100,7 +100,7 @@ ii  kmod                              29-1ubuntu1                             am
 ii  krb5-config                       2.6+nmu1ubuntu1                         all          Configuration files for Kerberos Version 5
 ii  krb5-multidev:amd64               1.19.2-2ubuntu0.3                       amd64        development files for MIT Kerberos without Heimdal conflict
 ii  krb5-user                         1.19.2-2ubuntu0.3                       amd64        basic programs to authenticate using MIT Kerberos
-ii  less                              590-1ubuntu0.22.04.2                    amd64        pager program similar to more
+ii  less                              590-1ubuntu0.22.04.3                    amd64        pager program similar to more
 ii  libacl1:amd64                     2.3.1-1                                 amd64        access control list - shared library
 ii  libaio1:amd64                     0.3.112-13build1                        amd64        Linux kernel AIO access library - shared library
 ii  libann0                           1.1.2+doc-7build1                       amd64        Approximate Nearest Neighbor Searching library
@@ -218,7 +218,7 @@ ii  libgdk-pixbuf-2.0-0:amd64         2.42.8+dfsg-1ubuntu0.2                  am
 ii  libgdk-pixbuf2.0-common           2.42.8+dfsg-1ubuntu0.2                  all          GDK Pixbuf library - data files
 ii  libgfortran5:amd64                12.3.0-1ubuntu1~22.04                   amd64        Runtime library for GNU Fortran applications
 ii  libgirepository-1.0-1:amd64       1.72.0-1                                amd64        Library for handling GObject introspection data (runtime library)
-ii  libglib2.0-0:amd64                2.72.4-0ubuntu2.2                       amd64        GLib library of C routines
+ii  libglib2.0-0:amd64                2.72.4-0ubuntu2.3                       amd64        GLib library of C routines
 ii  libgmp-dev:amd64                  2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                    2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64               2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library (C++ bindings)
@@ -528,7 +528,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-105.115                          amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-106.116                          amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.7                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.2                      amd64        system login tools
