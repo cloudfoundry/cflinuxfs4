@@ -1,4 +1,4 @@
-Rootfs SHASUM: 499363c7ab4e92b6f341df70709d0f4580fae6256f19c5d385517ddaffd7c7e6
+Rootfs SHASUM: 5d645dabfd0b6d9995d67f2bc1c4bf7721d5327be014401b37fe810a4cf5725a
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -286,10 +286,10 @@ ii  liblapack-dev:amd64               3.10.0-2ubuntu1                         am
 ii  liblapack3:amd64                  3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - shared version
 ii  liblcms2-2:amd64                  2.12~rc1-2build2                        amd64        Little CMS 2 color management library
 ii  liblcms2-dev:amd64                2.12~rc1-2build2                        amd64        Little CMS 2 color management library development headers
-ii  libldap-2.5-0:amd64               2.5.18+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP libraries
-ii  libldap-common                    2.5.18+dfsg-0ubuntu0.22.04.1            all          OpenLDAP common files for libraries
-ii  libldap-dev:amd64                 2.5.18+dfsg-0ubuntu0.22.04.1            amd64        OpenLDAP development libraries
-ii  libldap2-dev                      2.5.18+dfsg-0ubuntu0.22.04.1            all          transitional package for libldap-dev
+ii  libldap-2.5-0:amd64               2.5.18+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP libraries
+ii  libldap-common                    2.5.18+dfsg-0ubuntu0.22.04.2            all          OpenLDAP common files for libraries
+ii  libldap-dev:amd64                 2.5.18+dfsg-0ubuntu0.22.04.2            amd64        OpenLDAP development libraries
+ii  libldap2-dev                      2.5.18+dfsg-0ubuntu0.22.04.2            all          transitional package for libldap-dev
 ii  libllvm14:amd64                   1:14.0.0-1ubuntu1.1                     amd64        Modular compiler and toolchain technologies, runtime library
 ii  liblmdb0:amd64                    0.9.24-1build2                          amd64        Lightning Memory-Mapped Database shared library
 ii  liblocale-gettext-perl            1.07-4build3                            amd64        module using libc functions for internationalization in Perl
@@ -528,7 +528,7 @@ ii  libyaml-dev:amd64                 0.2.2-1build2                           am
 ii  libzstd1:amd64                    1.4.8+dfsg-3build1                      amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.35-19                               all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0:amd64                    0.2.35-19                               amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              5.15.0-116.126                          amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              5.15.0-117.127                          amd64        Linux Kernel Headers for development
 ii  locales                           2.35-0ubuntu3.8                         all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build1                            amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.8.1-2ubuntu2.2                      amd64        system login tools
