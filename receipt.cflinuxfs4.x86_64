@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5d645dabfd0b6d9995d67f2bc1c4bf7721d5327be014401b37fe810a4cf5725a
+Rootfs SHASUM: f0190f2396749ae198cde2bc98ce9dbb2eac13aea2bd3ca6ec26a702b6c1cbe9
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -84,9 +84,9 @@ ii  hicolor-icon-theme                0.17-2                                  al
 ii  hostname                          3.23ubuntu2                             amd64        utility to set/show the host name or domain name
 ii  icu-devtools                      70.1-2                                  amd64        Development utilities for International Components for Unicode
 ii  ifupdown                          0.8.36+nmu1ubuntu3.1                    amd64        high level tools to configure network interfaces
-ii  imagemagick                       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        image manipulation programs -- binaries
-ii  imagemagick-6-common              8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     all          image manipulation programs -- infrastructure
-ii  imagemagick-6.q16                 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        image manipulation programs -- quantum depth Q16
+ii  imagemagick                       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5     amd64        image manipulation programs -- binaries
+ii  imagemagick-6-common              8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5     all          image manipulation programs -- infrastructure
+ii  imagemagick-6.q16                 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5     amd64        image manipulation programs -- quantum depth Q16
 ii  init                              1.62                                    amd64        metapackage ensuring an init system is installed
 ii  init-system-helpers               1.62                                    all          helper tools for all init systems
 ii  iproute2                          5.15.0-1ubuntu2                         amd64        networking and traffic control tools
@@ -308,8 +308,8 @@ ii  liblzma5:amd64                    5.2.5-2ubuntu1                          am
 ii  liblzo2-2:amd64                   2.10-2build3                            amd64        data compression library
 ii  libmagic-mgc                      1:5.41-3ubuntu0.1                       amd64        File type determination library using "magic" numbers (compiled magic file)
 ii  libmagic1:amd64                   1:5.41-3ubuntu0.1                       amd64        Recognize the type of data in a file using "magic" numbers - library
-ii  libmagickcore-6.q16-6:amd64       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        low-level image manipulation library -- quantum depth Q16
-ii  libmagickwand-6.q16-6:amd64       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3     amd64        image manipulation library -- quantum depth Q16
+ii  libmagickcore-6.q16-6:amd64       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5     amd64        low-level image manipulation library -- quantum depth Q16
+ii  libmagickwand-6.q16-6:amd64       8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5     amd64        image manipulation library -- quantum depth Q16
 ii  libmariadb-dev                    1:10.6.18-0ubuntu0.22.04.1              amd64        MariaDB database development files
 ii  libmariadb-dev-compat:amd64       1:10.6.18-0ubuntu0.22.04.1              amd64        MariaDB Connector/C, compatibility symlinks
 ii  libmariadb3:amd64                 1:10.6.18-0ubuntu0.22.04.1              amd64        MariaDB database client library
