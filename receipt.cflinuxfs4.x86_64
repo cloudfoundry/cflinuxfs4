@@ -1,4 +1,4 @@
-Rootfs SHASUM: 203bd8ed1977a8b5e556b7f73ed32df62a3713a1e60735aba22280a9919840ce
+Rootfs SHASUM: 4b27b3e609cdf30e9b26a929715752b5bea70f72c0f5997c6688f0da5e9092d6
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -105,7 +105,7 @@ ii  libacl1:amd64                     2.3.1-1                                 am
 ii  libaio1:amd64                     0.3.112-13build1                        amd64        Linux kernel AIO access library - shared library
 ii  libann0                           1.1.2+doc-7build1                       amd64        Approximate Nearest Neighbor Searching library
 ii  libaom3:amd64                     3.3.0-1                                 amd64        AV1 Video Codec Library
-ii  libapparmor1:amd64                3.0.4-2ubuntu2.3                        amd64        changehat AppArmor library
+ii  libapparmor1:amd64                3.0.4-2ubuntu2.3build2                  amd64        changehat AppArmor library
 ii  libapr1:amd64                     1.7.0-8ubuntu0.22.04.1                  amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                 1.6.1-5ubuntu4.22.04.2                  amd64        Apache Portable Runtime Utility Library
 ii  libapt-pkg6.0:amd64               2.4.12                                  amd64        package management runtime library
@@ -433,8 +433,8 @@ ii  libsqlite3-0:amd64                3.37.2-2ubuntu0.3                       am
 ii  libsqlite3-dev:amd64              3.37.2-2ubuntu0.3                       amd64        SQLite 3 development files
 ii  libss2:amd64                      1.46.5-2ubuntu1.2                       amd64        command-line interface parsing library
 ii  libssh-4:amd64                    0.9.6-2ubuntu0.22.04.3                  amd64        tiny C SSH library (OpenSSL flavor)
-ii  libssl-dev:amd64                  3.0.2-0ubuntu1.17                       amd64        Secure Sockets Layer toolkit - development files
-ii  libssl3:amd64                     3.0.2-0ubuntu1.17                       amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl-dev:amd64                  3.0.2-0ubuntu1.18                       amd64        Secure Sockets Layer toolkit - development files
+ii  libssl3:amd64                     3.0.2-0ubuntu1.18                       amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-11-dev:amd64            11.4.0-1ubuntu1~22.04                   amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                  12.3.0-1ubuntu1~22.04                   amd64        GNU Standard C++ Library v3
 ii  libsvn1:amd64                     1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
@@ -561,7 +561,7 @@ ii  odbcinst1debian2:amd64            2.3.9-5ubuntu0.1                        am
 ii  openssh-client                    1:8.9p1-3ubuntu0.10                     amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                    1:8.9p1-3ubuntu0.10                     amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server               1:8.9p1-3ubuntu0.10                     amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii  openssl                           3.0.2-0ubuntu1.17                       amd64        Secure Sockets Layer toolkit - cryptographic utility
+ii  openssl                           3.0.2-0ubuntu1.18                       amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                            1:4.8.1-2ubuntu2.2                      amd64        change and administer password and group data
 ii  patch                             2.7.6-7build2                           amd64        Apply a diff file to an original
 ii  perl                              5.34.0-3ubuntu1.3                       amd64        Larry Wall's Practical Extraction and Report Language
