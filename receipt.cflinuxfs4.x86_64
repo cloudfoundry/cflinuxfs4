@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9288f12333e186197cb910887bb266494857a52b1b43b1fb05ed0650df554e37
+Rootfs SHASUM: 4753e37648839c88a3b16532ac099ab6d9c5bc12e1549f012ae464ca69d88b40
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -6,8 +6,8 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name                              Version                                 Architecture Description
 +++-=================================-=======================================-============-================================================================================
 ii  adduser                           3.118ubuntu5                            all          add and remove users and groups
-ii  apt                               2.4.12                                  amd64        commandline package manager
-ii  apt-utils                         2.4.12                                  amd64        package management related utility programs
+ii  apt                               2.4.13                                  amd64        commandline package manager
+ii  apt-utils                         2.4.13                                  amd64        package management related utility programs
 ii  aptitude                          0.8.13-3ubuntu1                         amd64        terminal-based package manager
 ii  aptitude-common                   0.8.13-3ubuntu1                         all          architecture independent files for the aptitude package manager
 ii  autoconf                          2.71-2                                  all          automatic configure script builder
@@ -108,7 +108,7 @@ ii  libaom3:amd64                     3.3.0-1                                 am
 ii  libapparmor1:amd64                3.0.4-2ubuntu2.3build2                  amd64        changehat AppArmor library
 ii  libapr1:amd64                     1.7.0-8ubuntu0.22.04.1                  amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                 1.6.1-5ubuntu4.22.04.2                  amd64        Apache Portable Runtime Utility Library
-ii  libapt-pkg6.0:amd64               2.4.12                                  amd64        package management runtime library
+ii  libapt-pkg6.0:amd64               2.4.13                                  amd64        package management runtime library
 ii  libarchive-extract-perl           0.88-1                                  all          generic archive extracting module
 ii  libarchive13:amd64                3.6.0-1ubuntu1.1                        amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-1:amd64                 0~20171227-0.3                          amd64        memory-hard hashing function - runtime library
@@ -452,9 +452,9 @@ ii  libtext-wrapi18n-perl             0.06-9                                  al
 ii  libthai-data                      0.1.29-1build1                          all          Data files for Thai language support library
 ii  libthai0:amd64                    0.1.29-1build1                          amd64        Thai language support library
 ii  libtheora0:amd64                  1.1.1+dfsg.1-15ubuntu4                  amd64        Theora Video Compression Codec
-ii  libtiff-dev:amd64                 4.3.0-6ubuntu0.9                        amd64        Tag Image File Format library (TIFF), development files
-ii  libtiff5:amd64                    4.3.0-6ubuntu0.9                        amd64        Tag Image File Format (TIFF) library
-ii  libtiffxx5:amd64                  4.3.0-6ubuntu0.9                        amd64        Tag Image File Format (TIFF) library -- C++ interface
+ii  libtiff-dev:amd64                 4.3.0-6ubuntu0.10                       amd64        Tag Image File Format library (TIFF), development files
+ii  libtiff5:amd64                    4.3.0-6ubuntu0.10                       amd64        Tag Image File Format (TIFF) library
+ii  libtiffxx5:amd64                  4.3.0-6ubuntu0.10                       amd64        Tag Image File Format (TIFF) library -- C++ interface
 ii  libtinfo6:amd64                   6.3-2ubuntu0.1                          amd64        shared low-level terminfo library for terminal handling
 ii  libtirpc-common                   1.3.2-2ubuntu0.1                        all          transport-independent RPC library - common files
 ii  libtirpc-dev:amd64                1.3.2-2ubuntu0.1                        amd64        transport-independent RPC library - development files
