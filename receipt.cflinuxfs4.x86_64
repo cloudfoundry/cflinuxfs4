@@ -1,4 +1,4 @@
-Rootfs SHASUM: 42426a84976cfa8be3d0e143c4b940eb8dba084916d37eaa62939234fecf14fd
+Rootfs SHASUM: cbeb4eae9786fa861c4698ab1c133fa9c7e3a07e3f2982929a2d3e5b2c199481
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -26,7 +26,7 @@ ii  bison                             2:3.8.2+dfsg-1build1                    am
 ii  bsdutils                          1:2.37.2-4ubuntu3.4                     amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                   12.9ubuntu3                             amd64        Informational list of build-essential packages
 ii  bzip2                             1.0.8-5build1                           amd64        high-quality block-sorting file compressor - utilities
-ii  ca-certificates                   20230311ubuntu0.22.04.1                 all          Common CA certificates
+ii  ca-certificates                   20240203~22.04.1                        all          Common CA certificates
 ii  cmake                             3.22.1-1ubuntu1.22.04.2                 amd64        cross-platform, open-source make system
 ii  cmake-data                        3.22.1-1ubuntu1.22.04.2                 all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                  2.1-1.46.5-2ubuntu1.2                   amd64        common error description library - headers and static libraries
@@ -106,7 +106,7 @@ ii  libaio1:amd64                     0.3.112-13build1                        am
 ii  libann0                           1.1.2+doc-7build1                       amd64        Approximate Nearest Neighbor Searching library
 ii  libaom3:amd64                     3.3.0-1                                 amd64        AV1 Video Codec Library
 ii  libapparmor1:amd64                3.0.4-2ubuntu2.4                        amd64        changehat AppArmor library
-ii  libapr1:amd64                     1.7.0-8ubuntu0.22.04.1                  amd64        Apache Portable Runtime Library
+ii  libapr1:amd64                     1.7.0-8ubuntu0.22.04.2                  amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                 1.6.1-5ubuntu4.22.04.2                  amd64        Apache Portable Runtime Utility Library
 ii  libapt-pkg6.0:amd64               2.4.13                                  amd64        package management runtime library
 ii  libarchive-extract-perl           0.88-1                                  all          generic archive extracting module
@@ -350,8 +350,8 @@ ii  libopenblas0:amd64                0.3.20+ds-1                             am
 ii  libopenblas0-pthread:amd64        0.3.20+ds-1                             amd64        Optimized BLAS (linear algebra) library (shared lib, pthread)
 ii  libopenexr-dev                    2.5.7-1                                 amd64        development files for the OpenEXR image library
 ii  libopenexr25:amd64                2.5.7-1                                 amd64        runtime files for the OpenEXR image library
-ii  libopenjp2-7:amd64                2.4.0-6                                 amd64        JPEG 2000 image compression/decompression library
-ii  libopenjp2-7-dev:amd64            2.4.0-6                                 amd64        development files for OpenJPEG, a JPEG 2000 image library
+ii  libopenjp2-7:amd64                2.4.0-6ubuntu0.1                        amd64        JPEG 2000 image compression/decompression library
+ii  libopenjp2-7-dev:amd64            2.4.0-6ubuntu0.1                        amd64        development files for OpenJPEG, a JPEG 2000 image library
 ii  libopus0:amd64                    1.3.1-0.1build2                         amd64        Opus codec runtime library
 ii  liborc-0.4-0:amd64                1:0.4.32-2ubuntu0.1                     amd64        Library of Optimized Inner Loops Runtime Compiler
 ii  libp11-kit-dev:amd64              0.24.0-6build1                          amd64        library for loading and coordinating access to PKCS#11 modules - development
