@@ -1,4 +1,4 @@
-Rootfs SHASUM: b9bb85fd465fce50c53ad9375c0f9dae47b8323508cf18f9f170c479e7d9b1f3
+Rootfs SHASUM: 2ce048f0380b1472b910f21c99a5a3148380f51112e85d2c8c804ef27b618d6f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -328,7 +328,7 @@ ii  libncurses-dev:amd64              6.3-2ubuntu0.1                          am
 ii  libncurses5-dev:amd64             6.3-2ubuntu0.1                          amd64        transitional package for libncurses-dev
 ii  libncurses6:amd64                 6.3-2ubuntu0.1                          amd64        shared libraries for terminal handling
 ii  libncursesw6:amd64                6.3-2ubuntu0.1                          amd64        shared libraries for terminal handling (wide character support)
-ii  libnetplan0:amd64                 0.106.1-7ubuntu0.22.04.4                amd64        YAML network configuration abstraction runtime library
+ii  libnetplan0:amd64                 0.107.1-3ubuntu0.22.04.1                amd64        YAML network configuration abstraction runtime library
 ii  libnettle8:amd64                  3.7.3-1build2                           amd64        low level cryptographic library (symmetric and one-way cryptos)
 ii  libnewt0.52:amd64                 0.52.21-5ubuntu2                        amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
 ii  libnghttp2-14:amd64               1.43.0-1ubuntu0.2                       amd64        library implementing HTTP/2 protocol (shared library)
