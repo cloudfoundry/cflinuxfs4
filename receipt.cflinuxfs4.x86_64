@@ -1,4 +1,4 @@
-Rootfs SHASUM: f55057522f3a70a4d79d1009c023e16d1d491027861c7b12250d066d0e370315
+Rootfs SHASUM: b9a1aade4be0b74c91fd9bb6bc7a070606bcb6038e42738f22863a9dd42ebb76
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -44,7 +44,7 @@ ii  debianutils                       5.5-1ubuntu2                            am
 ii  dh-elpa-helper                    2.0.9ubuntu1                            all          helper package for emacs lisp extensions
 ii  diffutils                         1:3.8-0ubuntu2                          amd64        File comparison utilities
 ii  distro-info                       1.1ubuntu0.2                            amd64        provides information about the distributions' releases
-ii  distro-info-data                  0.52ubuntu0.7                           all          information about the distributions' releases (data files)
+ii  distro-info-data                  0.52ubuntu0.8                           all          information about the distributions' releases (data files)
 ii  dnsutils                          1:9.18.28-0ubuntu0.22.04.1              all          Transitional package for bind9-dnsutils
 ii  dpkg                              1.21.1ubuntu2.3                         amd64        Debian package management system
 ii  dpkg-dev                          1.21.1ubuntu2.3                         all          Debian package development tools
@@ -463,7 +463,7 @@ ii  libtsan0:amd64                    11.4.0-1ubuntu1~22.04                   am
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.3.0-1ubuntu1~22.04                   amd64        UBSan -- undefined behaviour sanitizer (runtime)
 ii  libudev1:amd64                    249.11-0ubuntu3.12                      amd64        libudev shared library
-ii  libunbound8:amd64                 1.13.1-1ubuntu5.7                       amd64        library implementing DNS resolution and validation
+ii  libunbound8:amd64                 1.13.1-1ubuntu5.8                       amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64               1.0-1                                   amd64        Unicode string library for C
 ii  libunwind8:amd64                  1.3.2-2build2.1                         amd64        library to determine the call-chain of a program - runtime
 ii  libustr-1.0-1:amd64               1.0.4-6                                 amd64        Micro string library: shared library
