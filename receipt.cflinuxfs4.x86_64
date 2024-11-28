@@ -1,4 +1,4 @@
-Rootfs SHASUM: c4960db36e32a540081cfa0107857969045db85e0ffa367c5402587641260e17
+Rootfs SHASUM: 12e43ceb564972b201aa20e431e8acf7be76f04056f0bffda73a557a62b63e3d
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -600,8 +600,8 @@ ii  unzip                             6.0-26ubuntu3.2                         am
 ii  usrmerge                          25ubuntu2                               all          Convert the system to the merged /usr directories scheme
 ii  util-linux                        2.37.2-4ubuntu3.4                       amd64        miscellaneous system utilities
 ii  uuid-dev:amd64                    2.37.2-4ubuntu3.4                       amd64        Universally Unique ID library - headers and static libraries
-ii  vim-common                        2:8.2.3995-1ubuntu2.20                  all          Vi IMproved - Common files
-ii  vim-tiny                          2:8.2.3995-1ubuntu2.20                  amd64        Vi IMproved - enhanced vi editor - compact version
+ii  vim-common                        2:8.2.3995-1ubuntu2.21                  all          Vi IMproved - Common files
+ii  vim-tiny                          2:8.2.3995-1ubuntu2.21                  amd64        Vi IMproved - enhanced vi editor - compact version
 ii  wget                              1.21.2-2ubuntu1.1                       amd64        retrieves files from the web
 ii  whiptail                          0.52.21-5ubuntu2                        amd64        Displays user-friendly dialog boxes from shell scripts
 ii  x11-common                        1:7.7+23ubuntu2                         all          X Window System (X.Org) infrastructure
@@ -609,7 +609,7 @@ ii  x11proto-dev                      2021.5-1                                al
 ii  xkb-data                          2.33-1                                  all          X Keyboard Extension (XKB) configuration data
 ii  xorg-sgml-doctools                1:1.11-1.1                              all          Common tools for building X.Org SGML documentation
 ii  xtrans-dev                        1.4.0-1                                 all          X transport library (development files)
-ii  xxd                               2:8.2.3995-1ubuntu2.20                  amd64        tool to make (or reverse) a hex dump
+ii  xxd                               2:8.2.3995-1ubuntu2.21                  amd64        tool to make (or reverse) a hex dump
 ii  xz-utils                          5.2.5-2ubuntu1                          amd64        XZ-format compression utilities
 ii  zip                               3.0-12build2                            amd64        Archiver for .zip files
 ii  zlib1g:amd64                      1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - runtime
