@@ -1,4 +1,4 @@
-Rootfs SHASUM: 40fff5c9cfe1378de2bc12192d4f8a0a11c58b9bcca3bea37ee14ebdf17915d5
+Rootfs SHASUM: 8f24c6d0c4c198c37ea2a57121563412d148940eca94a4a221464bef90233f1f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -573,7 +573,7 @@ ii  psmisc                            23.4-2build3                            am
 ii  quota                             4.06-1build2                            amd64        disk quota management tools
 ii  readline-common                   8.1.2-1                                 all          GNU readline and history libraries, common files
 ii  rpcsvc-proto                      1.4.2-0ubuntu6                          amd64        RPC protocol compiler and definitions
-ii  rsync                             3.2.7-0ubuntu0.22.04.3                  amd64        fast, versatile, remote (and local) file-copying tool
+ii  rsync                             3.2.7-0ubuntu0.22.04.4                  amd64        fast, versatile, remote (and local) file-copying tool
 ii  sed                               4.8-1ubuntu2                            amd64        GNU stream editor for filtering/transforming text
 ii  sensible-utils                    0.0.17                                  all          Utilities for sensible alternative selection
 ii  shared-mime-info                  2.1-2                                   amd64        FreeDesktop.org shared MIME database and spec
