@@ -1,4 +1,4 @@
-Rootfs SHASUM: 955401baacd815231368407a3bce4de456bff6a9d95c324d1b45fa03d485f770
+Rootfs SHASUM: cbc2cd072c0cd47983a543501c9e853af606bb2572060ed071c5fb8133ea39d8
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -19,9 +19,9 @@ ii  bash                              5.1-6ubuntu1.1                          am
 ii  bind9-dnsutils                    1:9.18.30-0ubuntu0.22.04.2              amd64        Clients provided with BIND 9
 ii  bind9-host                        1:9.18.30-0ubuntu0.22.04.2              amd64        DNS Lookup Utility
 ii  bind9-libs:amd64                  1:9.18.30-0ubuntu0.22.04.2              amd64        Shared Libraries used by BIND 9
-ii  binutils                          2.38-4ubuntu2.6                         amd64        GNU assembler, linker and binary utilities
-ii  binutils-common:amd64             2.38-4ubuntu2.6                         amd64        Common files for the GNU assembler, linker and binary utilities
-ii  binutils-x86-64-linux-gnu         2.38-4ubuntu2.6                         amd64        GNU binary utilities, for x86-64-linux-gnu target
+ii  binutils                          2.38-4ubuntu2.7                         amd64        GNU assembler, linker and binary utilities
+ii  binutils-common:amd64             2.38-4ubuntu2.7                         amd64        Common files for the GNU assembler, linker and binary utilities
+ii  binutils-x86-64-linux-gnu         2.38-4ubuntu2.7                         amd64        GNU binary utilities, for x86-64-linux-gnu target
 ii  bison                             2:3.8.2+dfsg-1build1                    amd64        YACC-compatible parser generator
 ii  bsdutils                          1:2.37.2-4ubuntu3.4                     amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                   12.9ubuntu3                             amd64        Informational list of build-essential packages
@@ -124,7 +124,7 @@ ii  libaudit1:amd64                   1:3.0.7-1build1                         am
 ii  libavcodec58:amd64                7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library with de/encoders for audio/video codecs - runtime files
 ii  libavutil56:amd64                 7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library with functions for simplifying programming - runtime files
 ii  libbabeltrace1:amd64              1.5.8-2build1                           amd64        Babeltrace conversion libraries
-ii  libbinutils:amd64                 2.38-4ubuntu2.6                         amd64        GNU binary utilities (private shared library)
+ii  libbinutils:amd64                 2.38-4ubuntu2.7                         amd64        GNU binary utilities (private shared library)
 ii  libblas-dev:amd64                 3.10.0-2ubuntu1                         amd64        Basic Linear Algebra Subroutines 3, static library
 ii  libblas3:amd64                    3.10.0-2ubuntu1                         amd64        Basic Linear Algebra Reference implementations, shared library
 ii  libblkid-dev:amd64                2.37.2-4ubuntu3.4                       amd64        block device ID library - headers
@@ -144,8 +144,8 @@ ii  libc6-dev:amd64                   2.35-0ubuntu3.9                         am
 ii  libcairo-gobject2:amd64           1.16.0-5ubuntu2                         amd64        Cairo 2D vector graphics library (GObject library)
 ii  libcairo2:amd64                   1.16.0-5ubuntu2                         amd64        Cairo 2D vector graphics library
 ii  libcap-ng0:amd64                  0.7.9-2.2build3                         amd64        An alternate POSIX capabilities library
-ii  libcap2:amd64                     1:2.44-1ubuntu0.22.04.1                 amd64        POSIX 1003.1e capabilities (library)
-ii  libcap2-bin                       1:2.44-1ubuntu0.22.04.1                 amd64        POSIX 1003.1e capabilities (utilities)
+ii  libcap2:amd64                     1:2.44-1ubuntu0.22.04.2                 amd64        POSIX 1003.1e capabilities (library)
+ii  libcap2-bin                       1:2.44-1ubuntu0.22.04.2                 amd64        POSIX 1003.1e capabilities (utilities)
 ii  libcbor0.8:amd64                  0.8.0-2ubuntu1                          amd64        library for parsing and generating CBOR (RFC 7049)
 ii  libcc1-0:amd64                    12.3.0-1ubuntu1~22.04                   amd64        GCC cc1 plugin for GDB
 ii  libcdt5:amd64                     2.42.2-6ubuntu0.1                       amd64        rich set of graph drawing tools - cdt library
@@ -155,8 +155,8 @@ ii  libcom-err2:amd64                 1.46.5-2ubuntu1.2                       am
 ii  libcrypt-dev:amd64                1:4.4.27-1                              amd64        libcrypt development files
 ii  libcrypt1:amd64                   1:4.4.27-1                              amd64        libcrypt shared library
 ii  libcryptsetup12:amd64             2:2.4.3-1ubuntu1.2                      amd64        disk encryption support - shared library
-ii  libctf-nobfd0:amd64               2.38-4ubuntu2.6                         amd64        Compact C Type Format library (runtime, no BFD dependency)
-ii  libctf0:amd64                     2.38-4ubuntu2.6                         amd64        Compact C Type Format library (runtime, BFD dependency)
+ii  libctf-nobfd0:amd64               2.38-4ubuntu2.7                         amd64        Compact C Type Format library (runtime, no BFD dependency)
+ii  libctf0:amd64                     2.38-4ubuntu2.7                         amd64        Compact C Type Format library (runtime, BFD dependency)
 ii  libcurl3-gnutls:amd64             7.81.0-1ubuntu1.20                      amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii  libcurl4:amd64                    7.81.0-1ubuntu1.20                      amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii  libcurl4-openssl-dev:amd64        7.81.0-1ubuntu1.20                      amd64        development files and documentation for libcurl (OpenSSL flavour)
@@ -171,7 +171,7 @@ ii  libdebuginfod-common              0.186-1build1                           al
 ii  libdebuginfod1:amd64              0.186-1build1                           amd64        library to interact with debuginfod (development files)
 ii  libdeflate-dev:amd64              1.10-2                                  amd64        headers for whole-buffer compression and decompression library
 ii  libdeflate0:amd64                 1.10-2                                  amd64        fast, whole-buffer DEFLATE-based compression and decompression
-ii  libdevmapper1.02.1:amd64          2:1.02.175-2.1ubuntu4                   amd64        Linux Kernel Device Mapper userspace library
+ii  libdevmapper1.02.1:amd64          2:1.02.175-2.1ubuntu5                   amd64        Linux Kernel Device Mapper userspace library
 ii  libdjvulibre-dev:amd64            3.5.28-2build2                          amd64        Development files for the DjVu image format
 ii  libdjvulibre-text                 3.5.28-2build2                          all          Linguistic support files for libdjvulibre
 ii  libdjvulibre21:amd64              3.5.28-2build2                          amd64        Runtime support for the DjVu image format
@@ -356,7 +356,7 @@ ii  libopus0:amd64                    1.3.1-0.1build2                         am
 ii  liborc-0.4-0:amd64                1:0.4.32-2ubuntu0.1                     amd64        Library of Optimized Inner Loops Runtime Compiler
 ii  libp11-kit-dev:amd64              0.24.0-6build1                          amd64        library for loading and coordinating access to PKCS#11 modules - development
 ii  libp11-kit0:amd64                 0.24.0-6build1                          amd64        library for loading and coordinating access to PKCS#11 modules - runtime
-ii  libpam-cap:amd64                  1:2.44-1ubuntu0.22.04.1                 amd64        POSIX 1003.1e capabilities (PAM module)
+ii  libpam-cap:amd64                  1:2.44-1ubuntu0.22.04.2                 amd64        POSIX 1003.1e capabilities (PAM module)
 ii  libpam-modules:amd64              1.4.0-11ubuntu2.5                       amd64        Pluggable Authentication Modules for PAM
 ii  libpam-modules-bin                1.4.0-11ubuntu2.5                       amd64        Pluggable Authentication Modules for PAM - helper binaries
 ii  libpam-runtime                    1.4.0-11ubuntu2.5                       all          Runtime support for the PAM library
@@ -509,8 +509,8 @@ ii  libxext-dev:amd64                 2:1.3.4-1build1                         am
 ii  libxext6:amd64                    2:1.3.4-1build1                         amd64        X11 miscellaneous extension library
 ii  libxfixes3:amd64                  1:6.0.0-1                               amd64        X11 miscellaneous 'fixes' extension library
 ii  libxft2:amd64                     2.3.4-1                                 amd64        FreeType-based font drawing library for X
-ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.5                  amd64        GNOME XML library
-ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.5                  amd64        GNOME XML library - development files
+ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.6                  amd64        GNOME XML library
+ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.6                  amd64        GNOME XML library - development files
 ii  libxmu6:amd64                     2:1.1.3-3                               amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                  1:3.5.12-1ubuntu0.22.04.2               amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                     1:3.5.12-1ubuntu0.22.04.2               amd64        X11 pixmap library
