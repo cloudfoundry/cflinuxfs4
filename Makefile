@@ -8,9 +8,14 @@ all: $(BUILD).tar.gz
 
 compat:
 	if [ -z "$(version)" ]; then >&2 echo "version must be set" && exit 1; fi
+
+	curl --fail -L -o cflinuxfs4.tar.gz https://github.com/cloudfoundry/cflinuxfs4/releases/download/v$(version)/cflinuxfs4-$(version).tar.gz
+	gunzip -c cflinuxfs4.tar.gz | docker import - cflinuxfs4-local:$(version)
+	rm -f cflinuxfs4.tar.gz
+
 	docker build . \
 		--file compat.Dockerfile \
-		--build-arg "base=cloudfoundry/cflinuxfs4:$(version)" \
+		--build-arg "base=cflinuxfs4-local:$(version)" \
 		--build-arg packages="`cat "packages/cflinuxfs4-compat" 2>/dev/null`" \
   	--no-cache "--iidfile=$(COMPAT_BUILD).iid"
 
