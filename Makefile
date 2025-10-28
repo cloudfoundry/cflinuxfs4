@@ -9,7 +9,7 @@ all: $(BUILD).tar.gz
 compat:
 	if [ -z "$(version)" ]; then >&2 echo "version must be set" && exit 1; fi
 
-	curl --fail -L -o cflinuxfs4.tar.gz https://github.com/cloudfoundry/cflinuxfs4/releases/download/v$(version)/cflinuxfs4-$(version).tar.gz
+	curl --fail -L -o cflinuxfs4.tar.gz https://github.com/cloudfoundry/cflinuxfs4/releases/download/$(version)/cflinuxfs4-$(version).tar.gz
 	gunzip -c cflinuxfs4.tar.gz | docker import - cflinuxfs4-local:$(version)
 	rm -f cflinuxfs4.tar.gz
 
