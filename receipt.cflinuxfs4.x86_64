@@ -1,4 +1,4 @@
-Rootfs SHASUM: aac26a5997552fdf3a7f7a4eb2d208c43bfb6f809a79f278841896579c95949e
+Rootfs SHASUM: 3566cd884cbaebb6cbab5e7f394d5af33ee23d5a0a2715c0ff32da4d8a830cc3
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -463,7 +463,7 @@ ii  libtsan0:amd64                    11.4.0-1ubuntu1~22.04.2                 am
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.3.0-1ubuntu1~22.04.2                 amd64        UBSan -- undefined behaviour sanitizer (runtime)
 ii  libudev1:amd64                    249.11-0ubuntu3.17                      amd64        libudev shared library
-ii  libunbound8:amd64                 1.13.1-1ubuntu5.13                      amd64        library implementing DNS resolution and validation
+ii  libunbound8:amd64                 1.13.1-1ubuntu5.14                      amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64               1.0-1                                   amd64        Unicode string library for C
 ii  libunwind8:amd64                  1.3.2-2build2.1                         amd64        library to determine the call-chain of a program - runtime
 ii  libustr-1.0-1:amd64               1.0.4-6                                 amd64        Micro string library: shared library
