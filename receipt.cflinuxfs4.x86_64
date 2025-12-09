@@ -1,4 +1,4 @@
-Rootfs SHASUM: 59b9964cc2079e9b7e600d19ca00d211b174b54f7317d570006737196d28cdb7
+Rootfs SHASUM: 1cc2b5cba923f6f85ae2d6b11ca56d04e0683692cd27331eb3c68fc363696721
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -105,7 +105,7 @@ ii  libacl1:amd64                     2.3.1-1                                 am
 ii  libaio1:amd64                     0.3.112-13build1                        amd64        Linux kernel AIO access library - shared library
 ii  libann0                           1.1.2+doc-7build1                       amd64        Approximate Nearest Neighbor Searching library
 ii  libaom3:amd64                     3.3.0-1ubuntu0.1                        amd64        AV1 Video Codec Library
-ii  libapparmor1:amd64                3.0.4-2ubuntu2.4                        amd64        changehat AppArmor library
+ii  libapparmor1:amd64                3.0.4-2ubuntu2.5                        amd64        changehat AppArmor library
 ii  libapr1:amd64                     1.7.0-8ubuntu0.22.04.2                  amd64        Apache Portable Runtime Library
 ii  libaprutil1:amd64                 1.6.1-5ubuntu4.22.04.2                  amd64        Apache Portable Runtime Utility Library
 ii  libapt-pkg6.0:amd64               2.4.14                                  amd64        package management runtime library
