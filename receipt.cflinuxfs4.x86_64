@@ -1,4 +1,4 @@
-Rootfs SHASUM: cfb7ac716bfd962d4f5e699be8ac61c124a1fb305ac42f3a51278ad3160b1661
+Rootfs SHASUM: fea86849228e3d6efab068b057792f9cdac030e4dce5775f9b73111a64a97438
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -73,7 +73,7 @@ ii  gir1.2-rsvg-2.0:amd64             2.52.5+dfsg-3ubuntu0.2                  am
 ii  git                               1:2.34.1-1ubuntu1.15                    amd64        fast, scalable, distributed revision control system
 ii  git-man                           1:2.34.1-1ubuntu1.15                    all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                            1.4.23-1.1build1                        amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
-ii  gpgv                              2.2.27-3ubuntu2.4                       amd64        GNU privacy guard - signature verification tool
+ii  gpgv                              2.2.27-3ubuntu2.5                       amd64        GNU privacy guard - signature verification tool
 ii  graphviz                          2.42.2-6ubuntu0.1                       amd64        rich set of graph drawing tools
 ii  grep                              3.7-1build1                             amd64        GNU grep, egrep and fgrep
 ii  gsfonts                           1:8.11+urwcyr1.0.7~pre44-4.5            all          Fonts for the Ghostscript interpreter(s)
@@ -218,7 +218,7 @@ ii  libgdk-pixbuf-2.0-0:amd64         2.42.8+dfsg-1ubuntu0.4                  am
 ii  libgdk-pixbuf2.0-common           2.42.8+dfsg-1ubuntu0.4                  all          GDK Pixbuf library - data files
 ii  libgfortran5:amd64                12.3.0-1ubuntu1~22.04.2                 amd64        Runtime library for GNU Fortran applications
 ii  libgirepository-1.0-1:amd64       1.72.0-1                                amd64        Library for handling GObject introspection data (runtime library)
-ii  libglib2.0-0:amd64                2.72.4-0ubuntu2.6                       amd64        GLib library of C routines
+ii  libglib2.0-0:amd64                2.72.4-0ubuntu2.7                       amd64        GLib library of C routines
 ii  libgmp-dev:amd64                  2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                    2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64               2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library (C++ bindings)
@@ -389,9 +389,9 @@ ii  libproxy1v5:amd64                 0.4.17-2                                am
 ii  libpsl5:amd64                     0.21.0-1.2build2                        amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64       0.4-1build2                             amd64        pthread stubs not provided by native libc, development files
 ii  libpython3-stdlib:amd64           3.10.6-1~22.04.1                        amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.10:amd64               3.10.12-1~22.04.12                      amd64        Shared Python runtime library (version 3.10)
-ii  libpython3.10-minimal:amd64       3.10.12-1~22.04.12                      amd64        Minimal subset of the Python language (version 3.10)
-ii  libpython3.10-stdlib:amd64        3.10.12-1~22.04.12                      amd64        Interactive high-level object-oriented language (standard library, version 3.10)
+ii  libpython3.10:amd64               3.10.12-1~22.04.13                      amd64        Shared Python runtime library (version 3.10)
+ii  libpython3.10-minimal:amd64       3.10.12-1~22.04.13                      amd64        Minimal subset of the Python language (version 3.10)
+ii  libpython3.10-stdlib:amd64        3.10.12-1~22.04.13                      amd64        Interactive high-level object-oriented language (standard library, version 3.10)
 ii  libquadmath0:amd64                12.3.0-1ubuntu1~22.04.2                 amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64             8.1.2-1                                 amd64        GNU readline and history libraries, development files
 ii  libreadline8:amd64                8.1.2-1                                 amd64        GNU readline and history libraries, run-time libraries
@@ -516,8 +516,8 @@ ii  libxpm-dev:amd64                  1:3.5.12-1ubuntu0.22.04.2               am
 ii  libxpm4:amd64                     1:3.5.12-1ubuntu0.22.04.2               amd64        X11 pixmap library
 ii  libxrender-dev:amd64              1:0.9.10-1build4                        amd64        X Rendering Extension client library (development files)
 ii  libxrender1:amd64                 1:0.9.10-1build4                        amd64        X Rendering Extension client library
-ii  libxslt1-dev:amd64                1.1.34-4ubuntu0.22.04.4                 amd64        XSLT 1.0 processing library - development kit
-ii  libxslt1.1:amd64                  1.1.34-4ubuntu0.22.04.4                 amd64        XSLT 1.0 processing library - runtime library
+ii  libxslt1-dev:amd64                1.1.34-4ubuntu0.22.04.5                 amd64        XSLT 1.0 processing library - development kit
+ii  libxslt1.1:amd64                  1.1.34-4ubuntu0.22.04.5                 amd64        XSLT 1.0 processing library - runtime library
 ii  libxt-dev:amd64                   1:1.2.1-1                               amd64        X11 toolkit intrinsics library (development headers)
 ii  libxt6:amd64                      1:1.2.1-1                               amd64        X11 toolkit intrinsics library
 ii  libxtables12:amd64                1.8.7-1ubuntu5.2                        amd64        netfilter xtables library
