@@ -1,4 +1,4 @@
-Rootfs SHASUM: fea86849228e3d6efab068b057792f9cdac030e4dce5775f9b73111a64a97438
+Rootfs SHASUM: ffc38e3bb88edcb8152a1b1a0e4f018c4ebb77f8228739e11fa7a5d2086de921
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -442,8 +442,8 @@ ii  libswresample3:amd64              7:4.4.2-0ubuntu0.22.04.1                am
 ii  libsysfs2:amd64                   2.1.1-1build1                           amd64        interface library to sysfs - shared library
 ii  libsystemd0:amd64                 249.11-0ubuntu3.17                      amd64        systemd utility library
 ii  libtalloc2:amd64                  2.3.3-2build1                           amd64        hierarchical pool based memory allocator
-ii  libtasn1-6:amd64                  4.18.0-4ubuntu0.1                       amd64        Manage ASN.1 structures (runtime)
-ii  libtasn1-6-dev:amd64              4.18.0-4ubuntu0.1                       amd64        Manage ASN.1 structures (development)
+ii  libtasn1-6:amd64                  4.18.0-4ubuntu0.2                       amd64        Manage ASN.1 structures (runtime)
+ii  libtasn1-6-dev:amd64              4.18.0-4ubuntu0.2                       amd64        Manage ASN.1 structures (development)
 ii  libterm-ui-perl                   0.50-1                                  all          Term::ReadLine UI made easy
 ii  libtevent0:amd64                  0.11.0-1build1                          amd64        talloc-based event loop library - shared library
 ii  libtext-charwidth-perl            0.04-10build3                           amd64        get display widths of characters on the terminal
