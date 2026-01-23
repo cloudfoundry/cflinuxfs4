@@ -1,4 +1,4 @@
-Rootfs SHASUM: dc4a81af4e9eda849850a9dfdf45c9112a6076060160e1001d0ac3a6caf8680e
+Rootfs SHASUM: be70c5b84f045462f1faa37f0b6bcbf548c41613d40d4940b51b073d9ecc5cbc
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -218,7 +218,7 @@ ii  libgdk-pixbuf-2.0-0:amd64         2.42.8+dfsg-1ubuntu0.4                  am
 ii  libgdk-pixbuf2.0-common           2.42.8+dfsg-1ubuntu0.4                  all          GDK Pixbuf library - data files
 ii  libgfortran5:amd64                12.3.0-1ubuntu1~22.04.2                 amd64        Runtime library for GNU Fortran applications
 ii  libgirepository-1.0-1:amd64       1.72.0-1                                amd64        Library for handling GObject introspection data (runtime library)
-ii  libglib2.0-0:amd64                2.72.4-0ubuntu2.7                       amd64        GLib library of C routines
+ii  libglib2.0-0:amd64                2.72.4-0ubuntu2.8                       amd64        GLib library of C routines
 ii  libgmp-dev:amd64                  2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                    2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64               2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library (C++ bindings)
@@ -509,8 +509,8 @@ ii  libxext-dev:amd64                 2:1.3.4-1build1                         am
 ii  libxext6:amd64                    2:1.3.4-1build1                         amd64        X11 miscellaneous extension library
 ii  libxfixes3:amd64                  1:6.0.0-1                               amd64        X11 miscellaneous 'fixes' extension library
 ii  libxft2:amd64                     2.3.4-1                                 amd64        FreeType-based font drawing library for X
-ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.10                 amd64        GNOME XML library
-ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.10                 amd64        GNOME XML library - development files
+ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.11                 amd64        GNOME XML library
+ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.11                 amd64        GNOME XML library - development files
 ii  libxmu6:amd64                     2:1.1.3-3                               amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                  1:3.5.12-1ubuntu0.22.04.2               amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                     1:3.5.12-1ubuntu0.22.04.2               amd64        X11 pixmap library
