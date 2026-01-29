@@ -1,4 +1,4 @@
-Rootfs SHASUM: be70c5b84f045462f1faa37f0b6bcbf548c41613d40d4940b51b073d9ecc5cbc
+Rootfs SHASUM: 68dfdc0e9cbaede2599b11edadd810e65fd2cc7ade86dcb81cb0d970af61d7cb
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -433,8 +433,8 @@ ii  libsqlite3-0:amd64                3.37.2-2ubuntu0.5                       am
 ii  libsqlite3-dev:amd64              3.37.2-2ubuntu0.5                       amd64        SQLite 3 development files
 ii  libss2:amd64                      1.46.5-2ubuntu1.2                       amd64        command-line interface parsing library
 ii  libssh-4:amd64                    0.9.6-2ubuntu0.22.04.5                  amd64        tiny C SSH library (OpenSSL flavor)
-ii  libssl-dev:amd64                  3.0.2-0ubuntu1.20                       amd64        Secure Sockets Layer toolkit - development files
-ii  libssl3:amd64                     3.0.2-0ubuntu1.20                       amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl-dev:amd64                  3.0.2-0ubuntu1.21                       amd64        Secure Sockets Layer toolkit - development files
+ii  libssl3:amd64                     3.0.2-0ubuntu1.21                       amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-11-dev:amd64            11.4.0-1ubuntu1~22.04.2                 amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                  12.3.0-1ubuntu1~22.04.2                 amd64        GNU Standard C++ Library v3
 ii  libsvn1:amd64                     1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
@@ -561,7 +561,7 @@ ii  odbcinst1debian2:amd64            2.3.9-5ubuntu0.1                        am
 ii  openssh-client                    1:8.9p1-3ubuntu0.13                     amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                    1:8.9p1-3ubuntu0.13                     amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server               1:8.9p1-3ubuntu0.13                     amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii  openssl                           3.0.2-0ubuntu1.20                       amd64        Secure Sockets Layer toolkit - cryptographic utility
+ii  openssl                           3.0.2-0ubuntu1.21                       amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                            1:4.8.1-2ubuntu2.2                      amd64        change and administer password and group data
 ii  patch                             2.7.6-7build2                           amd64        Apply a diff file to an original
 ii  perl                              5.34.0-3ubuntu1.5                       amd64        Larry Wall's Practical Extraction and Report Language
