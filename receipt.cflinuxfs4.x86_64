@@ -1,4 +1,4 @@
-Rootfs SHASUM: ef5bf4b7f60c0eb1cefd4084aebc0c8ecf34837dfdf99e446d30de25316e160e
+Rootfs SHASUM: c24948a435de2b257d8c6738cdf507676fa578e61caa79bbab5a5594c28d6e57
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -222,11 +222,11 @@ ii  libglib2.0-0:amd64                2.72.4-0ubuntu2.9                       am
 ii  libgmp-dev:amd64                  2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library developers tools
 ii  libgmp10:amd64                    2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library
 ii  libgmpxx4ldbl:amd64               2:6.2.1+dfsg-3ubuntu1                   amd64        Multiprecision arithmetic library (C++ bindings)
-ii  libgnutls-dane0:amd64             3.7.3-4ubuntu1.7                        amd64        GNU TLS library - DANE security support
-ii  libgnutls-openssl27:amd64         3.7.3-4ubuntu1.7                        amd64        GNU TLS library - OpenSSL wrapper
-ii  libgnutls28-dev:amd64             3.7.3-4ubuntu1.7                        amd64        GNU TLS library - development files
-ii  libgnutls30:amd64                 3.7.3-4ubuntu1.7                        amd64        GNU TLS library - main runtime library
-ii  libgnutlsxx28:amd64               3.7.3-4ubuntu1.7                        amd64        GNU TLS library - C++ runtime library
+ii  libgnutls-dane0:amd64             3.7.3-4ubuntu1.8                        amd64        GNU TLS library - DANE security support
+ii  libgnutls-openssl27:amd64         3.7.3-4ubuntu1.8                        amd64        GNU TLS library - OpenSSL wrapper
+ii  libgnutls28-dev:amd64             3.7.3-4ubuntu1.8                        amd64        GNU TLS library - development files
+ii  libgnutls30:amd64                 3.7.3-4ubuntu1.8                        amd64        GNU TLS library - main runtime library
+ii  libgnutlsxx28:amd64               3.7.3-4ubuntu1.8                        amd64        GNU TLS library - C++ runtime library
 ii  libgomp1:amd64                    12.3.0-1ubuntu1~22.04.2                 amd64        GCC OpenMP (GOMP) support library
 ii  libgpg-error-dev                  1.43-3                                  amd64        GnuPG development runtime library (developer tools)
 ii  libgpg-error0:amd64               1.43-3                                  amd64        GnuPG development runtime library
