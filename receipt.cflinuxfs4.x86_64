@@ -1,4 +1,4 @@
-Rootfs SHASUM: cc7261ecb101e8649425a46fa69842acdc7ff89032d4e22f846203e5eb7ebbb3
+Rootfs SHASUM: ef5bf4b7f60c0eb1cefd4084aebc0c8ecf34837dfdf99e446d30de25316e160e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -379,8 +379,8 @@ ii  libpcrecpp0v5:amd64               2:8.39-13ubuntu0.22.04.1                am
 ii  libperl5.34:amd64                 5.34.0-3ubuntu1.5                       amd64        shared Perl library
 ii  libpixman-1-0:amd64               0.40.0-1ubuntu0.22.04.1                 amd64        pixel-manipulation library for X and cairo
 ii  libpixman-1-dev:amd64             0.40.0-1ubuntu0.22.04.1                 amd64        pixel-manipulation library for X and cairo (development files)
-ii  libpng-dev:amd64                  1.6.37-3ubuntu0.3                       amd64        PNG library - development (version 1.6)
-ii  libpng16-16:amd64                 1.6.37-3ubuntu0.3                       amd64        PNG library - runtime (version 1.6)
+ii  libpng-dev:amd64                  1.6.37-3ubuntu0.4                       amd64        PNG library - development (version 1.6)
+ii  libpng16-16:amd64                 1.6.37-3ubuntu0.4                       amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                    1.18-3build1                            amd64        lib for parsing cmdline parameters
 ii  libpq-dev                         14.20-0ubuntu0.22.04.1                  amd64        header files for libpq5 (PostgreSQL library)
 ii  libpq5:amd64                      14.20-0ubuntu0.22.04.1                  amd64        PostgreSQL C client library
