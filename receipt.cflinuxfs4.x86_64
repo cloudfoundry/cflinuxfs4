@@ -1,4 +1,4 @@
-Rootfs SHASUM: c24948a435de2b257d8c6738cdf507676fa578e61caa79bbab5a5594c28d6e57
+Rootfs SHASUM: c77d38604a9b3b7a1f612ee050809af9c0ea8dbdde8a7976272d0d31679c5857
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -34,7 +34,7 @@ ii  console-setup                     1.205ubuntu3                            al
 ii  console-setup-linux               1.205ubuntu3                            all          Linux specific part of console-setup
 ii  coreutils                         8.32-4.1ubuntu1.2                       amd64        GNU core utilities
 ii  cpp                               4:11.2.0-1ubuntu1                       amd64        GNU C preprocessor (cpp)
-ii  cpp-11                            11.4.0-1ubuntu1~22.04.2                 amd64        GNU C preprocessor
+ii  cpp-11                            11.4.0-1ubuntu1~22.04.3                 amd64        GNU C preprocessor
 ii  cron                              3.0pl1-137ubuntu3                       amd64        process scheduling daemon
 ii  curl                              7.81.0-1ubuntu1.21                      amd64        command line tool for transferring data with URL syntax
 ii  dash                              0.5.11+git20210903+057cd650a4ed-3build1 amd64        POSIX-compliant shell
@@ -60,10 +60,10 @@ ii  fontconfig-config                 2.13.1-4.2ubuntu5                       al
 ii  fonts-dejavu-core                 2.37-2build1                            all          Vera font family derivate with additional characters
 ii  fuse3                             3.10.5-1build1                          amd64        Filesystem in Userspace (3.x version)
 ii  g++                               4:11.2.0-1ubuntu1                       amd64        GNU C++ compiler
-ii  g++-11                            11.4.0-1ubuntu1~22.04.2                 amd64        GNU C++ compiler
+ii  g++-11                            11.4.0-1ubuntu1~22.04.3                 amd64        GNU C++ compiler
 ii  gcc                               4:11.2.0-1ubuntu1                       amd64        GNU C compiler
-ii  gcc-11                            11.4.0-1ubuntu1~22.04.2                 amd64        GNU C compiler
-ii  gcc-11-base:amd64                 11.4.0-1ubuntu1~22.04.2                 amd64        GCC, the GNU Compiler Collection (base package)
+ii  gcc-11                            11.4.0-1ubuntu1~22.04.3                 amd64        GNU C compiler
+ii  gcc-11-base:amd64                 11.4.0-1ubuntu1~22.04.3                 amd64        GCC, the GNU Compiler Collection (base package)
 ii  gcc-12-base:amd64                 12.3.0-1ubuntu1~22.04.2                 amd64        GCC, the GNU Compiler Collection (base package)
 ii  gdb                               12.1-0ubuntu1~22.04.2                   amd64        GNU Debugger
 ii  gir1.2-freedesktop:amd64          1.72.0-1                                amd64        Introspection data for some FreeDesktop components
@@ -113,7 +113,7 @@ ii  libarchive-extract-perl           0.88-1                                  al
 ii  libarchive13:amd64                3.6.0-1ubuntu1.5                        amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-1:amd64                 0~20171227-0.3                          amd64        memory-hard hashing function - runtime library
 ii  libargon2-dev:amd64               0~20171227-0.3                          amd64        memory-hard hashing function - development files
-ii  libasan6:amd64                    11.4.0-1ubuntu1~22.04.2                 amd64        AddressSanitizer -- a fast memory error detector
+ii  libasan6:amd64                    11.4.0-1ubuntu1~22.04.3                 amd64        AddressSanitizer -- a fast memory error detector
 ii  libasn1-8-heimdal:amd64           7.7.0+dfsg-3ubuntu1                     amd64        Heimdal Kerberos - ASN.1 library
 ii  libatm1:amd64                     1:2.5.1-4build2                         amd64        shared library for ATM (Asynchronous Transfer Mode)
 ii  libatomic1:amd64                  12.3.0-1ubuntu1~22.04.2                 amd64        support library providing __atomic built-in functions
@@ -206,7 +206,7 @@ ii  libfreetype6:amd64                2.11.1+dfsg-1ubuntu0.3                  am
 ii  libfreetype6-dev:amd64            2.11.1+dfsg-1ubuntu0.3                  amd64        FreeType 2 font engine, development files (transitional package)
 ii  libfribidi0:amd64                 1.0.8-2ubuntu3.1                        amd64        Free Implementation of the Unicode BiDi algorithm
 ii  libfuse3-3:amd64                  3.10.5-1build1                          amd64        Filesystem in Userspace (library) (3.x version)
-ii  libgcc-11-dev:amd64               11.4.0-1ubuntu1~22.04.2                 amd64        GCC support library (development files)
+ii  libgcc-11-dev:amd64               11.4.0-1ubuntu1~22.04.3                 amd64        GCC support library (development files)
 ii  libgcc-s1:amd64                   12.3.0-1ubuntu1~22.04.2                 amd64        GCC support library
 ii  libgcrypt20:amd64                 1.9.4-3ubuntu3                          amd64        LGPL Crypto library - runtime library
 ii  libgcrypt20-dev                   1.9.4-3ubuntu3                          amd64        LGPL Crypto library - development files
@@ -435,7 +435,7 @@ ii  libss2:amd64                      1.46.5-2ubuntu1.2                       am
 ii  libssh-4:amd64                    0.9.6-2ubuntu0.22.04.5                  amd64        tiny C SSH library (OpenSSL flavor)
 ii  libssl-dev:amd64                  3.0.2-0ubuntu1.21                       amd64        Secure Sockets Layer toolkit - development files
 ii  libssl3:amd64                     3.0.2-0ubuntu1.21                       amd64        Secure Sockets Layer toolkit - shared libraries
-ii  libstdc++-11-dev:amd64            11.4.0-1ubuntu1~22.04.2                 amd64        GNU Standard C++ Library v3 (development files)
+ii  libstdc++-11-dev:amd64            11.4.0-1ubuntu1~22.04.3                 amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                  12.3.0-1ubuntu1~22.04.2                 amd64        GNU Standard C++ Library v3
 ii  libsvn1:amd64                     1.14.1-3ubuntu0.22.04.1                 amd64        Shared libraries used by Apache Subversion
 ii  libswresample3:amd64              7:4.4.2-0ubuntu0.22.04.1                amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
@@ -459,7 +459,7 @@ ii  libtinfo6:amd64                   6.3-2ubuntu0.1                          am
 ii  libtirpc-common                   1.3.2-2ubuntu0.1                        all          transport-independent RPC library - common files
 ii  libtirpc-dev:amd64                1.3.2-2ubuntu0.1                        amd64        transport-independent RPC library - development files
 ii  libtirpc3:amd64                   1.3.2-2ubuntu0.1                        amd64        transport-independent RPC library
-ii  libtsan0:amd64                    11.4.0-1ubuntu1~22.04.2                 amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+ii  libtsan0:amd64                    11.4.0-1ubuntu1~22.04.3                 amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.3.0-1ubuntu1~22.04.2                 amd64        UBSan -- undefined behaviour sanitizer (runtime)
 ii  libudev1:amd64                    249.11-0ubuntu3.17                      amd64        libudev shared library
