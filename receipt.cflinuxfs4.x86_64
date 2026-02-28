@@ -1,4 +1,4 @@
-Rootfs SHASUM: 08324d0b14b0c131df40bafd4f2687390cef56cc12b06a7343a3a35da577a5b6
+Rootfs SHASUM: bea348e029a23305f8ceebaa56a3052b0d283baee60ea9c2906335a5139daaf1
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -70,8 +70,8 @@ ii  gir1.2-freedesktop:amd64          1.72.0-1                                am
 ii  gir1.2-gdkpixbuf-2.0:amd64        2.42.8+dfsg-1ubuntu0.4                  amd64        GDK Pixbuf library - GObject-Introspection
 ii  gir1.2-glib-2.0:amd64             1.72.0-1                                amd64        Introspection data for GLib, GObject, Gio and GModule
 ii  gir1.2-rsvg-2.0:amd64             2.52.5+dfsg-3ubuntu0.2                  amd64        gir files for renderer library for SVG files
-ii  git                               1:2.34.1-1ubuntu1.16                    amd64        fast, scalable, distributed revision control system
-ii  git-man                           1:2.34.1-1ubuntu1.16                    all          fast, scalable, distributed revision control system (manual pages)
+ii  git                               1:2.34.1-1ubuntu1.17                    amd64        fast, scalable, distributed revision control system
+ii  git-man                           1:2.34.1-1ubuntu1.17                    all          fast, scalable, distributed revision control system (manual pages)
 ii  gnupg1                            1.4.23-1.1build1                        amd64        GNU privacy guard - a PGP implementation (deprecated "classic" version)
 ii  gpgv                              2.2.27-3ubuntu2.5                       amd64        GNU privacy guard - signature verification tool
 ii  graphviz                          2.42.2-6ubuntu0.1                       amd64        rich set of graph drawing tools
