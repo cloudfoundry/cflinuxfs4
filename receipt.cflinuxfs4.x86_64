@@ -1,4 +1,4 @@
-Rootfs SHASUM: cb4e6a7a30c8ce130224901fd9fe9c5f6dd7a0dcb23d2dc1238ed0378424f57b
+Rootfs SHASUM: ea579ce861238e4dd956017c58eb9eca533cb187923faa3965250c39dc52a569
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -389,9 +389,9 @@ ii  libproxy1v5:amd64                 0.4.17-2                                am
 ii  libpsl5:amd64                     0.21.0-1.2build2                        amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64       0.4-1build2                             amd64        pthread stubs not provided by native libc, development files
 ii  libpython3-stdlib:amd64           3.10.6-1~22.04.1                        amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.10:amd64               3.10.12-1~22.04.14                      amd64        Shared Python runtime library (version 3.10)
-ii  libpython3.10-minimal:amd64       3.10.12-1~22.04.14                      amd64        Minimal subset of the Python language (version 3.10)
-ii  libpython3.10-stdlib:amd64        3.10.12-1~22.04.14                      amd64        Interactive high-level object-oriented language (standard library, version 3.10)
+ii  libpython3.10:amd64               3.10.12-1~22.04.15                      amd64        Shared Python runtime library (version 3.10)
+ii  libpython3.10-minimal:amd64       3.10.12-1~22.04.15                      amd64        Minimal subset of the Python language (version 3.10)
+ii  libpython3.10-stdlib:amd64        3.10.12-1~22.04.15                      amd64        Interactive high-level object-oriented language (standard library, version 3.10)
 ii  libquadmath0:amd64                12.3.0-1ubuntu1~22.04.3                 amd64        GCC Quad-Precision Math Library
 ii  libreadline-dev:amd64             8.1.2-1                                 amd64        GNU readline and history libraries, development files
 ii  libreadline8:amd64                8.1.2-1                                 amd64        GNU readline and history libraries, run-time libraries
