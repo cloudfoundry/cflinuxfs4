@@ -1,4 +1,4 @@
-Rootfs SHASUM: b0dfd3e9b9bd7bcc4f51a772c33b1e48ce352fdb26bcb9b2769cad3d1e526738
+Rootfs SHASUM: 491073f1f5a4d8ec4ffe2c50c4679838a2151fd1526c3bf27fe975032a216845
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -32,7 +32,7 @@ ii  cmake-data                        3.22.1-1ubuntu1.22.04.2                 al
 ii  comerr-dev:amd64                  2.1-1.46.5-2ubuntu1.2                   amd64        common error description library - headers and static libraries
 ii  console-setup                     1.205ubuntu3                            all          console font and keymap setup program
 ii  console-setup-linux               1.205ubuntu3                            all          Linux specific part of console-setup
-ii  coreutils                         8.32-4.1ubuntu1.2                       amd64        GNU core utilities
+ii  coreutils                         8.32-4.1ubuntu1.3                       amd64        GNU core utilities
 ii  cpp                               4:11.2.0-1ubuntu1                       amd64        GNU C preprocessor (cpp)
 ii  cpp-11                            11.4.0-1ubuntu1~22.04.3                 amd64        GNU C preprocessor
 ii  cron                              3.0pl1-137ubuntu3                       amd64        process scheduling daemon
