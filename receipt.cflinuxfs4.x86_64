@@ -1,4 +1,4 @@
-Rootfs SHASUM: d5dbd68755ee6e382a147834cf8ea6f9b010fea65023e2e1ea7e8d7803210a65
+Rootfs SHASUM: 7583d3a8e71f4d4d58112185b8d31babaabcea67eec941c9ff3407752de6f986
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -509,8 +509,8 @@ ii  libxext-dev:amd64                 2:1.3.4-1build1                         am
 ii  libxext6:amd64                    2:1.3.4-1build1                         amd64        X11 miscellaneous extension library
 ii  libxfixes3:amd64                  1:6.0.0-1                               amd64        X11 miscellaneous 'fixes' extension library
 ii  libxft2:amd64                     2.3.4-1                                 amd64        FreeType-based font drawing library for X
-ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.13                 amd64        GNOME XML library
-ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.13                 amd64        GNOME XML library - development files
+ii  libxml2:amd64                     2.9.13+dfsg-1ubuntu0.14                 amd64        GNOME XML library
+ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.14                 amd64        GNOME XML library - development files
 ii  libxmu6:amd64                     2:1.1.3-3                               amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                  1:3.5.12-1ubuntu0.22.04.4               amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                     1:3.5.12-1ubuntu0.22.04.4               amd64        X11 pixmap library
