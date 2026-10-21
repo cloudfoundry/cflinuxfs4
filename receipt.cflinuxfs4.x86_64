@@ -1,4 +1,4 @@
-Rootfs SHASUM: d5e5b8163ecc3aea115044a12376ba553dac966a61b1ab8ec578da0ca80248d8
+Rootfs SHASUM: bc1f8c4a2ba010497ef86addd61585f4e718ba2e0a64e29d49b07bfa6bb36825
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -26,7 +26,7 @@ ii  bison                             2:3.8.2+dfsg-1ubuntu0.22.04.1           am
 ii  bsdutils                          1:2.37.2-4ubuntu3.6                     amd64        basic utilities from 4.4BSD-Lite
 ii  build-essential                   12.9ubuntu3                             amd64        Informational list of build-essential packages
 ii  bzip2                             1.0.8-5ubuntu0.1                        amd64        high-quality block-sorting file compressor - utilities
-ii  ca-certificates                   20260601~22.04.1                        all          Common CA certificates
+ii  ca-certificates                   20260816ubuntu0.22.04.1                 all          Common CA certificates
 ii  cmake                             3.22.1-1ubuntu1.22.04.2                 amd64        cross-platform, open-source make system
 ii  cmake-data                        3.22.1-1ubuntu1.22.04.2                 all          CMake data files (modules, templates and documentation)
 ii  comerr-dev:amd64                  2.1-1.46.5-2ubuntu1.2                   amd64        common error description library - headers and static libraries
@@ -44,7 +44,7 @@ ii  debianutils                       5.5-1ubuntu2                            am
 ii  dh-elpa-helper                    2.0.9ubuntu1                            all          helper package for emacs lisp extensions
 ii  diffutils                         1:3.8-0ubuntu2.1                        amd64        File comparison utilities
 ii  distro-info                       1.1ubuntu0.2                            amd64        provides information about the distributions' releases
-ii  distro-info-data                  0.72-0ubuntu0.22.04.1                   all          information about the distributions' releases (data files)
+ii  distro-info-data                  2026.10.12-0ubuntu0.22.04.1             all          information about the distributions' releases (data files)
 ii  dnsutils                          1:9.18.39-0ubuntu0.22.04.7              all          Transitional package for bind9-dnsutils
 ii  dpkg                              1.21.1ubuntu2.6                         amd64        Debian package management system
 ii  dpkg-dev                          1.21.1ubuntu2.6                         all          Debian package development tools
@@ -303,8 +303,8 @@ ii  liblsan0:amd64                    12.3.0-1ubuntu1~22.04.3                 am
 ii  libltdl-dev:amd64                 2.4.6-15build2                          amd64        System independent dlopen wrapper for GNU libtool
 ii  libltdl7:amd64                    2.4.6-15build2                          amd64        System independent dlopen wrapper for GNU libtool
 ii  liblz4-1:amd64                    1.9.3-2build2                           amd64        Fast LZ compression algorithm library - runtime
-ii  liblzma-dev:amd64                 5.2.5-2ubuntu1.1                        amd64        XZ-format compression library - development files
-ii  liblzma5:amd64                    5.2.5-2ubuntu1.1                        amd64        XZ-format compression library
+ii  liblzma-dev:amd64                 5.2.5-2ubuntu1.2                        amd64        XZ-format compression library - development files
+ii  liblzma5:amd64                    5.2.5-2ubuntu1.2                        amd64        XZ-format compression library
 ii  liblzo2-2:amd64                   2.10-2build3                            amd64        data compression library
 ii  libmagic-mgc                      1:5.41-3ubuntu0.1                       amd64        File type determination library using "magic" numbers (compiled magic file)
 ii  libmagic1:amd64                   1:5.41-3ubuntu0.1                       amd64        Recognize the type of data in a file using "magic" numbers - library
@@ -463,7 +463,7 @@ ii  libtsan0:amd64                    11.4.0-1ubuntu1~22.04.3                 am
 ii  libtwolame0:amd64                 0.4.0-2build2                           amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   12.3.0-1ubuntu1~22.04.3                 amd64        UBSan -- undefined behaviour sanitizer (runtime)
 ii  libudev1:amd64                    249.11-0ubuntu3.23                      amd64        libudev shared library
-ii  libunbound8:amd64                 1.13.1-1ubuntu5.16                      amd64        library implementing DNS resolution and validation
+ii  libunbound8:amd64                 1.13.1-1ubuntu5.17                      amd64        library implementing DNS resolution and validation
 ii  libunistring2:amd64               1.0-1                                   amd64        Unicode string library for C
 ii  libunwind8:amd64                  1.3.2-2build2.1                         amd64        library to determine the call-chain of a program - runtime
 ii  libustr-1.0-1:amd64               1.0.4-6                                 amd64        Micro string library: shared library
@@ -610,7 +610,7 @@ ii  xkb-data                          2.33-1                                  al
 ii  xorg-sgml-doctools                1:1.11-1.1                              all          Common tools for building X.Org SGML documentation
 ii  xtrans-dev                        1.4.0-1                                 all          X transport library (development files)
 ii  xxd                               2:8.2.3995-1ubuntu2.36                  amd64        tool to make (or reverse) a hex dump
-ii  xz-utils                          5.2.5-2ubuntu1.1                        amd64        XZ-format compression utilities
+ii  xz-utils                          5.2.5-2ubuntu1.2                        amd64        XZ-format compression utilities
 ii  zip                               3.0-12build2                            amd64        Archiver for .zip files
 ii  zlib1g:amd64                      1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - runtime
 ii  zlib1g-dev:amd64                  1:1.2.11.dfsg-2ubuntu9.2                amd64        compression library - development
