@@ -1,4 +1,4 @@
-Rootfs SHASUM: bc1f8c4a2ba010497ef86addd61585f4e718ba2e0a64e29d49b07bfa6bb36825
+Rootfs SHASUM: 3376a749fa01d6917f1b4bf818c7a1d5b877910549aa6b0bd54baf7d0c09a5b6
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -132,8 +132,8 @@ ii  libblkid1:amd64                   2.37.2-4ubuntu3.6                       am
 ii  libboost-iostreams1.74.0:amd64    1.74.0-14ubuntu3                        amd64        Boost.Iostreams Library
 ii  libboost-regex1.74.0:amd64        1.74.0-14ubuntu3                        amd64        regular expression library for C++
 ii  libbpf0:amd64                     1:0.5.0-1ubuntu22.04.1                  amd64        eBPF helper library (shared library)
-ii  libbrotli-dev:amd64               1.0.9-2build6                           amd64        library implementing brotli encoder and decoder (development files)
-ii  libbrotli1:amd64                  1.0.9-2build6                           amd64        library implementing brotli encoder and decoder (shared libraries)
+ii  libbrotli-dev:amd64               1.0.9-2ubuntu0.1                        amd64        library implementing brotli encoder and decoder (development files)
+ii  libbrotli1:amd64                  1.0.9-2ubuntu0.1                        amd64        library implementing brotli encoder and decoder (shared libraries)
 ii  libbsd0:amd64                     0.11.5-1                                amd64        utility functions from BSD systems - shared library
 ii  libbz2-1.0:amd64                  1.0.8-5ubuntu0.1                        amd64        high-quality block-sorting file compressor library - runtime
 ii  libbz2-dev:amd64                  1.0.8-5ubuntu0.1                        amd64        high-quality block-sorting file compressor library - development
