@@ -1,4 +1,4 @@
-Rootfs SHASUM: 7487a2cc763335055a9c756831d4268a2aaa1e207cd67aad0ead9cf32fba02e9
+Rootfs SHASUM: 92cd3b0be479deaf4b0c44f58870733321e84d74f36dbf5bd0e7f7c4f91a1c3d
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -98,8 +98,8 @@ ii  kbd                               2.3.0-3ubuntu4.22.04                    am
 ii  keyboard-configuration            1.205ubuntu3                            all          system-wide keyboard preferences
 ii  kmod                              29-1ubuntu1.1                           amd64        tools for managing Linux kernel modules
 ii  krb5-config                       2.6+nmu1ubuntu1                         all          Configuration files for Kerberos Version 5
-ii  krb5-multidev:amd64               1.19.2-2ubuntu0.10                      amd64        development files for MIT Kerberos without Heimdal conflict
-ii  krb5-user                         1.19.2-2ubuntu0.10                      amd64        basic programs to authenticate using MIT Kerberos
+ii  krb5-multidev:amd64               1.19.2-2ubuntu0.12                      amd64        development files for MIT Kerberos without Heimdal conflict
+ii  krb5-user                         1.19.2-2ubuntu0.12                      amd64        basic programs to authenticate using MIT Kerberos
 ii  less                              590-1ubuntu0.22.04.3                    amd64        pager program similar to more
 ii  libacl1:amd64                     2.3.1-1                                 amd64        access control list - shared library
 ii  libaio1:amd64                     0.3.112-13build1                        amd64        Linux kernel AIO access library - shared library
@@ -162,13 +162,13 @@ ii  libcurl4:amd64                    7.81.0-1ubuntu1.30                      am
 ii  libcurl4-openssl-dev:amd64        7.81.0-1ubuntu1.30                      amd64        development files and documentation for libcurl (OpenSSL flavour)
 ii  libcwidget4:amd64                 0.5.18-5build1                          amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdatrie1:amd64                  0.2.13-2                                amd64        Double-array trie library
-ii  libdav1d5:amd64                   0.9.2-1                                 amd64        fast and small AV1 video stream decoder (shared library)
+ii  libdav1d5:amd64                   0.9.2-1ubuntu0.1                        amd64        fast and small AV1 video stream decoder (shared library)
 ii  libdb5.3:amd64                    5.3.28+dfsg1-0.8ubuntu3                 amd64        Berkeley v5.3 Database Libraries [runtime]
 ii  libdbus-1-3:amd64                 1.12.20-2ubuntu4.1                      amd64        simple interprocess messaging system (library)
 ii  libde265-0:amd64                  1.0.8-1ubuntu0.3                        amd64        Open H.265 video codec implementation
 ii  libdebconfclient0:amd64           0.261ubuntu1                            amd64        Debian Configuration Management System (C-implementation library)
-ii  libdebuginfod-common              0.186-1ubuntu0.1                        all          configuration to enable the Debian debug info server
-ii  libdebuginfod1:amd64              0.186-1ubuntu0.1                        amd64        library to interact with debuginfod (development files)
+ii  libdebuginfod-common              0.186-1ubuntu0.2                        all          configuration to enable the Debian debug info server
+ii  libdebuginfod1:amd64              0.186-1ubuntu0.2                        amd64        library to interact with debuginfod (development files)
 ii  libdeflate-dev:amd64              1.10-2                                  amd64        headers for whole-buffer compression and decompression library
 ii  libdeflate0:amd64                 1.10-2                                  amd64        fast, whole-buffer DEFLATE-based compression and decompression
 ii  libdevmapper1.02.1:amd64          2:1.02.175-2.1ubuntu5                   amd64        Linux Kernel Device Mapper userspace library
@@ -179,17 +179,17 @@ ii  libdns-export1110                 1:9.11.19+dfsg-2.1ubuntu3               am
 ii  libdpkg-perl                      1.21.1ubuntu2.6                         all          Dpkg perl modules
 ii  libdrm-common                     2.4.113-2~ubuntu0.22.04.1               all          Userspace interface to kernel DRM services -- common files
 ii  libdrm2:amd64                     2.4.113-2~ubuntu0.22.04.1               amd64        Userspace interface to kernel DRM services -- runtime
-ii  libdw1:amd64                      0.186-1ubuntu0.1                        amd64        library that provides access to the DWARF debug information
+ii  libdw1:amd64                      0.186-1ubuntu0.2                        amd64        library that provides access to the DWARF debug information
 ii  libedit2:amd64                    3.1-20210910-1build1                    amd64        BSD editline and history libraries
-ii  libelf1:amd64                     0.186-1ubuntu0.1                        amd64        library to read and write ELF files
+ii  libelf1:amd64                     0.186-1ubuntu0.2                        amd64        library to read and write ELF files
 ii  libept1.6.0:amd64                 1.2.1                                   amd64        High-level library for managing Debian package information
 ii  liberror-perl                     0.17029-1                               all          Perl module for error/exception handling in an OO-ish way
 ii  libestr0:amd64                    0.1.10-2.1build3                        amd64        Helper functions for handling strings (lib)
 ii  libevent-2.1-7:amd64              2.1.12-stable-1ubuntu0.2                amd64        Asynchronous event notification library
 ii  libexif-dev:amd64                 0.6.24-1ubuntu0.22.04.1                 amd64        library to parse EXIF files (development files)
 ii  libexif12:amd64                   0.6.24-1ubuntu0.22.04.1                 amd64        library to parse EXIF files
-ii  libexpat1:amd64                   2.4.7-1ubuntu0.9                        amd64        XML parsing C library - runtime library
-ii  libexpat1-dev:amd64               2.4.7-1ubuntu0.9                        amd64        XML parsing C library - development kit
+ii  libexpat1:amd64                   2.4.7-1ubuntu0.10                       amd64        XML parsing C library - runtime library
+ii  libexpat1-dev:amd64               2.4.7-1ubuntu0.10                       amd64        XML parsing C library - development kit
 ii  libext2fs2:amd64                  1.46.5-2ubuntu1.2                       amd64        ext2/ext3/ext4 file system libraries
 ii  libfakeroot:amd64                 1.28-1ubuntu1                           amd64        tool for simulating superuser privileges - shared libraries
 ii  libffi-dev:amd64                  3.4.2-4                                 amd64        Foreign Function Interface library (development files)
@@ -232,9 +232,9 @@ ii  libgpg-error-dev                  1.43-3                                  am
 ii  libgpg-error0:amd64               1.43-3                                  amd64        GnuPG development runtime library
 ii  libgraphite2-3:amd64              1.3.14-1ubuntu0.1                       amd64        Font rendering engine for Complex Scripts -- library
 ii  libgsm1:amd64                     1.0.19-1                                amd64        Shared libraries for GSM speech compressor
-ii  libgssapi-krb5-2:amd64            1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii  libgssapi-krb5-2:amd64            1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii  libgssapi3-heimdal:amd64          7.7.0+dfsg-3ubuntu1                     amd64        Heimdal Kerberos - GSSAPI support library
-ii  libgssrpc4:amd64                  1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries - GSS enabled ONCRPC
+ii  libgssrpc4:amd64                  1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries - GSS enabled ONCRPC
 ii  libgts-0.7-5:amd64                0.7.6+darcs121130-5                     amd64        library to deal with 3D computational surface meshes
 ii  libgvc6                           2.42.2-6ubuntu0.1                       amd64        rich set of graph drawing tools - gvc library
 ii  libgvpr2:amd64                    2.42.2-6ubuntu0.1                       amd64        rich set of graph drawing tools - gvpr library
@@ -271,16 +271,16 @@ ii  libjpeg8-dev:amd64                8c-2ubuntu10                            am
 ii  libjq1:amd64                      1.6-2.1ubuntu3.2                        amd64        lightweight and flexible command-line JSON processor - shared library
 ii  libjson-c5:amd64                  0.15-3~ubuntu1.22.04.2                  amd64        JSON manipulation library - shared library
 ii  libjsoncpp25:amd64                1.9.5-3                                 amd64        library for reading and writing JSON for C++
-ii  libk5crypto3:amd64                1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries - Crypto Library
-ii  libkadm5clnt-mit12:amd64          1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries - Administration Clients
-ii  libkadm5srv-mit12:amd64           1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries - KDC and Admin Server
-ii  libkdb5-10:amd64                  1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries - Kerberos database
+ii  libk5crypto3:amd64                1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries - Crypto Library
+ii  libkadm5clnt-mit12:amd64          1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries - Administration Clients
+ii  libkadm5srv-mit12:amd64           1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries - KDC and Admin Server
+ii  libkdb5-10:amd64                  1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries - Kerberos database
 ii  libkeyutils1:amd64                1.6.1-2ubuntu3                          amd64        Linux Key Management Utilities (library)
 ii  libkmod2:amd64                    29-1ubuntu1.1                           amd64        libkmod shared library
 ii  libkrb5-26-heimdal:amd64          7.7.0+dfsg-3ubuntu1                     amd64        Heimdal Kerberos - libraries
-ii  libkrb5-3:amd64                   1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries
-ii  libkrb5-dev:amd64                 1.19.2-2ubuntu0.10                      amd64        headers and development libraries for MIT Kerberos
-ii  libkrb5support0:amd64             1.19.2-2ubuntu0.10                      amd64        MIT Kerberos runtime libraries - Support library
+ii  libkrb5-3:amd64                   1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries
+ii  libkrb5-dev:amd64                 1.19.2-2ubuntu0.12                      amd64        headers and development libraries for MIT Kerberos
+ii  libkrb5support0:amd64             1.19.2-2ubuntu0.12                      amd64        MIT Kerberos runtime libraries - Support library
 ii  liblab-gamut1:amd64               2.42.2-6ubuntu0.1                       amd64        rich set of graph drawing tools - liblab_gamut library
 ii  liblapack-dev:amd64               3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - static version
 ii  liblapack3:amd64                  3.10.0-2ubuntu1                         amd64        Library of linear algebra routines 3 - shared version
@@ -365,7 +365,7 @@ ii  libpango-1.0-0:amd64              1.50.6+ds-2ubuntu1                      am
 ii  libpangocairo-1.0-0:amd64         1.50.6+ds-2ubuntu1                      amd64        Layout and rendering of internationalized text
 ii  libpangoft2-1.0-0:amd64           1.50.6+ds-2ubuntu1                      amd64        Layout and rendering of internationalized text
 ii  libpathplan4:amd64                2.42.2-6ubuntu0.1                       amd64        rich set of graph drawing tools - pathplan library
-ii  libpcap0.8:amd64                  1.10.1-4ubuntu1.22.04.2                 amd64        system interface for user-level packet capture
+ii  libpcap0.8:amd64                  1.10.1-4ubuntu1.22.04.3                 amd64        system interface for user-level packet capture
 ii  libpcre16-3:amd64                 2:8.39-13ubuntu0.22.04.1                amd64        Old Perl 5 Compatible Regular Expression Library - 16 bit runtime files
 ii  libpcre2-16-0:amd64               10.39-3ubuntu0.2                        amd64        New Perl Compatible Regular Expression Library - 16 bit runtime files
 ii  libpcre2-32-0:amd64               10.39-3ubuntu0.2                        amd64        New Perl Compatible Regular Expression Library - 32 bit runtime files
@@ -426,13 +426,13 @@ ii  libsnappy1v5:amd64                1.1.8-1build3                           am
 ii  libsource-highlight-common        3.1.9-4.1build2                         all          architecture-independent files for source highlighting library
 ii  libsource-highlight4v5            3.1.9-4.1build2                         amd64        source highlighting library
 ii  libsoxr0:amd64                    0.1.3-4build2                           amd64        High quality 1D sample-rate conversion library
-ii  libspeex1:amd64                   1.2~rc1.2-1.1ubuntu3                    amd64        The Speex codec runtime library
+ii  libspeex1:amd64                   1.2~rc1.2-1.1ubuntu3.1                  amd64        The Speex codec runtime library
 ii  libsqlite0                        2.8.17-15fakesync1build1                amd64        SQLite 2 shared library
 ii  libsqlite0-dev                    2.8.17-15fakesync1build1                amd64        SQLite 2 development files
 ii  libsqlite3-0:amd64                3.37.2-2ubuntu0.8                       amd64        SQLite 3 shared library
 ii  libsqlite3-dev:amd64              3.37.2-2ubuntu0.8                       amd64        SQLite 3 development files
 ii  libss2:amd64                      1.46.5-2ubuntu1.2                       amd64        command-line interface parsing library
-ii  libssh-4:amd64                    0.9.6-2ubuntu0.22.04.8                  amd64        tiny C SSH library (OpenSSL flavor)
+ii  libssh-4:amd64                    0.9.6-2ubuntu0.22.04.9                  amd64        tiny C SSH library (OpenSSL flavor)
 ii  libssl-dev:amd64                  3.0.2-0ubuntu1.30                       amd64        Secure Sockets Layer toolkit - development files
 ii  libssl3:amd64                     3.0.2-0ubuntu1.30                       amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-11-dev:amd64            11.4.0-1ubuntu1~22.04.3                 amd64        GNU Standard C++ Library v3 (development files)
@@ -452,9 +452,9 @@ ii  libtext-wrapi18n-perl             0.06-9                                  al
 ii  libthai-data                      0.1.29-1build1                          all          Data files for Thai language support library
 ii  libthai0:amd64                    0.1.29-1build1                          amd64        Thai language support library
 ii  libtheora0:amd64                  1.1.1+dfsg.1-15ubuntu4                  amd64        Theora Video Compression Codec
-ii  libtiff-dev:amd64                 4.3.0-6ubuntu0.13                       amd64        Tag Image File Format library (TIFF), development files
-ii  libtiff5:amd64                    4.3.0-6ubuntu0.13                       amd64        Tag Image File Format (TIFF) library
-ii  libtiffxx5:amd64                  4.3.0-6ubuntu0.13                       amd64        Tag Image File Format (TIFF) library -- C++ interface
+ii  libtiff-dev:amd64                 4.3.0-6ubuntu0.14                       amd64        Tag Image File Format library (TIFF), development files
+ii  libtiff5:amd64                    4.3.0-6ubuntu0.14                       amd64        Tag Image File Format (TIFF) library
+ii  libtiffxx5:amd64                  4.3.0-6ubuntu0.14                       amd64        Tag Image File Format (TIFF) library -- C++ interface
 ii  libtinfo6:amd64                   6.3-2ubuntu0.3                          amd64        shared low-level terminfo library for terminal handling
 ii  libtirpc-common                   1.3.2-2ubuntu0.1                        all          transport-independent RPC library - common files
 ii  libtirpc-dev:amd64                1.3.2-2ubuntu0.1                        amd64        transport-independent RPC library - development files
@@ -514,8 +514,8 @@ ii  libxml2-dev:amd64                 2.9.13+dfsg-1ubuntu0.14                 am
 ii  libxmu6:amd64                     2:1.1.3-3                               amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                  1:3.5.12-1ubuntu0.22.04.4               amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                     1:3.5.12-1ubuntu0.22.04.4               amd64        X11 pixmap library
-ii  libxrender-dev:amd64              1:0.9.10-1build4                        amd64        X Rendering Extension client library (development files)
-ii  libxrender1:amd64                 1:0.9.10-1build4                        amd64        X Rendering Extension client library
+ii  libxrender-dev:amd64              1:0.9.10-1ubuntu0.22.04.1               amd64        X Rendering Extension client library (development files)
+ii  libxrender1:amd64                 1:0.9.10-1ubuntu0.22.04.1               amd64        X Rendering Extension client library
 ii  libxslt1-dev:amd64                1.1.34-4ubuntu0.22.04.5                 amd64        XSLT 1.0 processing library - development kit
 ii  libxslt1.1:amd64                  1.1.34-4ubuntu0.22.04.5                 amd64        XSLT 1.0 processing library - runtime library
 ii  libxt-dev:amd64                   1:1.2.1-1                               amd64        X11 toolkit intrinsics library (development headers)
@@ -590,7 +590,7 @@ ii  tasksel                           3.68ubuntu2                             al
 ii  tasksel-data                      3.68ubuntu2                             all          official tasks used for installation of Debian systems
 ii  tcpdump                           4.99.1-3ubuntu0.2                       amd64        command-line network traffic analyzer
 ii  traceroute                        1:2.1.0-2                               amd64        Traces the route taken by packets over an IPv4/IPv6 network
-ii  tzdata                            2026e-0ubuntu0.22.04.1                  all          time zone and daylight-saving time data
+ii  tzdata                            2026f-0ubuntu0.22.04.1                  all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2021.03.26                              all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043                                  all          Update Configuration File(s): preserve user changes to config files
 ii  udev                              249.11-0ubuntu3.23                      amd64        /dev/ and hotplug management daemon
